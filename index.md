@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Yishun Innova JC
+      title: YI
       subtitle: Welcome test
       background: /images/hero-banner.png
       button: Contact Us
