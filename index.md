@@ -10,15 +10,15 @@ sections:
       background: /images/yijchero.gif
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Post JAE Appeal
+          description: ""
+          url: /admissions/post-jae-appeal/
         - title: Contact Us
           description: ""
           url: /about-us/contact-us/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Direct School Admission
+          description: ""
+          url: /admissions/dsa/application-process/
   - infobar:
       title: Corporate Video
       subtitle: Yishun innova junior college
