@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our College Identity/Our Crest.md
       - Our College Identity/.keep
       - About YIJC.md
       - Our People.md
