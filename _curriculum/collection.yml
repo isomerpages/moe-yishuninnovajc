@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Subject Combi & Eligibility/Subject Combination Eligibility Criteria.md
       - Subject Combi & Eligibility/.keep
       - Signature Programmes/Overview.md
       - Signature Programmes/Resilience Building Programme.md
