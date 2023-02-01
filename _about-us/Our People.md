@@ -317,7 +317,57 @@ Mr Wong Yih Chong
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
-text
+<b>Admin Managers</b><br>
+Ms Lee Yin Mong Yvonne
+
+<b>Operations Manager</b><br>
+Mr Lee Boon Yong
+	
+<b>ICT Manager</b><br>
+Mr Tan Wei Keng
+	
+<b>Admin Executives</b><br>
+Ms Choh Mei Ling Wendy<br>
+Mdm New Bee Hoon Janet
+	
+<b>Allied Educator</b><br>
+Mr Muhammad Hafiz Bin Hamzah
+	
+<b>Education & Career Guidance Counsellor</b><br>
+Ms Vina Sim
+	
+<b>MSO</b><br>
+Ms Yeo Yee Ling Sandra
+	
+<b>TSO</b><br>
+Mr Chur Kok Wee<br>
+Mr Koh Pang How Patrick<br>
+Mdm Suhailah Binte Satoo<br>
+Mr Zainuddin Bin Awaluddin
+	
+<b>OSO</b><br>
+Mrs Mohan N (K Saraswathy)<br>
+Mdm Maryani Binte Mohamed<br>
+Ms Ho Jui Hwa Emily<br>
+Mdm Deelaila Binte Dollah<br>
+Mdm S Kalaiselvi<br>
+Mr Teo Cheng Hoe Peter<br>
+Mdm Chan Puay Mui<br>
+Mr Mohamed Bin Shukor<br>
+Mr Ong Thiam Huat<br>
+Mdm Tan Cheng Huy<br>
+Mr Lee Kah Bian
+	
+<b>Library Officer</b><br>
+Ms Tan Chui Hoon, Teresa
+	
+<b>Desktop Engineers (NCS)</b><br>
+Mr Mohammad Riduan Bin Abdul Rahman<br>
+Mr Mohammad Irman Bin Idress
+	
+<b>Security Officers</b><br>
+Ms Malliga<br>
+Mr Or Kim Piouu	
 </p>
 </div>
 </li>	
