@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Subject Combi & Eligibility/Subjects Offered.md
       - Subject Combi & Eligibility/Subject Combinations.md
       - Subject Combi & Eligibility/Subject Combination Eligibility Criteria.md
       - Subject Combi & Eligibility/.keep
