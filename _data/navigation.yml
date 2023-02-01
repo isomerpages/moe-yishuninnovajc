@@ -8,3 +8,5 @@ links:
     collection: culture
   - title: Curriculum
     collection: curriculum
+  - title: Contact Us
+    url: /about-us/contact-us/
