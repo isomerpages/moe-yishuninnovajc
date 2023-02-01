@@ -1,2 +1,10 @@
 logo: /images/logo.png
-links: []
+links:
+  - title: About Us
+    collection: about-us
+  - title: Admissions
+    collection: admissions
+  - title: Culture
+    collection: culture
+  - title: Curriculum
+    collection: curriculum
