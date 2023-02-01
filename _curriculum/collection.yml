@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programmes/Malay Language Elective Programme.md
       - Signature Programmes/Student Leadership.md
       - Signature Programmes/Talent Development Programme.md
       - Signature Programmes/Education & Career Guidance.md
