@@ -4,6 +4,7 @@ permalink: /about-us/our-college-identity/our-vmv/
 description: ""
 third_nav_title: Our College Identity
 ---
+### **Our VMV**
 #### **Our Vision**
 A dynamic community of future-ready leaders and lifelong learners.
 
