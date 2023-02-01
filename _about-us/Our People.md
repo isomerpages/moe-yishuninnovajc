@@ -11,6 +11,7 @@ description: ""
 <label for="accordion1">School Leaders</label>
 <div>
 <p>
+### Principal	
 <b>Principal</b><br>
 Mr Michael de Silva
 
