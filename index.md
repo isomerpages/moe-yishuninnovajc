@@ -13,9 +13,9 @@ sections:
         - title: Highlight A
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Contact Us
+          description: ""
+          url: /about-us/contact-us/
         - title: Page A
           description: Page A is important too
           url: /privacy/
