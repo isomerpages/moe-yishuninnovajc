@@ -2,6 +2,7 @@ collections:
   yishun-jc:
     output: true
     order:
+      - Florescat Concordia.md
       - Dedicated and Reflective Teachers.md
       - Providing Opportunities for Authentic Learning.md
       - Student Leadership Development.md
