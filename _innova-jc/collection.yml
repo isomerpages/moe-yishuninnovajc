@@ -2,6 +2,7 @@ collections:
   innova-jc:
     output: true
     order:
+      - Overview.md
       - The Innnovian Spirit.md
       - The Teachers.md
       - Exploring Learning Beyond the Classroom.md
