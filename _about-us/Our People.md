@@ -114,7 +114,33 @@ Ms Veera Gayatri Naidu D/O Rajagopal
 <label for="accordion4">Humanities Department</label>
 <div>
 <p>
+<b>HOD/Humanities</b><br>
+Mrs Renee Low
 
+<b>Art</b><br>
+<b>Subject Head/Student Leadership</b><br>
+	Ms Chew Jia Li Joscelin
+
+<b>Geography</b><br>
+<b>Subject Head/Geography</b><br>
+Mdm Poh Huay Woon<br>
+Ms Tan Li Ling
+	
+<b>Lead Teacher/Geography</b><br>
+Dr N Gowri
+	
+<b>Teachers</b><br>
+Ms Liew Feng Chuan Karen<br>
+Mr Mohamad Irfan Bin Mohamad Salihin
+	
+<b>History</b><br>
+<b>Subject Head/Digital Literacies</b><br>
+Mr Goh Han-Ming Jasper
+	
+<b>Teachers</b><br>
+Mr Loke Zhi Ming Christopher<br>
+Ms Siti Zakiah Bte Sidek
+	
 </p>
 </div>
 </li>
