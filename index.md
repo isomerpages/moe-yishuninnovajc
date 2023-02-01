@@ -4,13 +4,10 @@ title: Yishun Innova Junior College
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: YI
-      subtitle: Welcome test
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -23,10 +20,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Corporate Video
+      subtitle: Yishun innova junior college
+      description: Find out more about YIJC
+      button: click here
+      url: https://www.youtube.com/watch?v=oAxVbeatgeY&t=1s
 ---
-
