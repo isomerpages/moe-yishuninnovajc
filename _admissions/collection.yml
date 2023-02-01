@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admission/Selection Process.md
       - Direct School Admission/.keep
       - Post JAE Appeal.md
       - Application Process.md
