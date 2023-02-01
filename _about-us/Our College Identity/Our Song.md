@@ -4,6 +4,8 @@ permalink: /about-us/our-college-identity/our-song/
 description: ""
 third_nav_title: Our College Identity
 ---
+### **Our Song**
+
 In a world of changes<br>
 Where our values will define us<br>
 We’ll uphold, noble goals<br>
