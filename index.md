@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Yishun Innova Junior College
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
