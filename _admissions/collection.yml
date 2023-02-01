@@ -1,4 +1,5 @@
 collections:
   admissions:
     output: true
-    order: []
+    order:
+      - Scholarships and Financial Assistance.md
