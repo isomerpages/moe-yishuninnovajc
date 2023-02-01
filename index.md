@@ -25,4 +25,14 @@ sections:
       description: Find out more about YIJC
       button: click here
       url: https://www.youtube.com/watch?v=oAxVbeatgeY&t=1s
+  - infopic:
+      title: Scholarships and Financial Assistance
+      subtitle: yijc
+      description: available to students who excel in their academics and
+        co-curricular activities, as well as those who demonstrate strong
+        leadership qualities
+      button: Button Text
+      url: /admissions/scholarships-and-financial-assistance/
+      image: /images/hero5.jpg
+      alt: Image alt text
 ---
