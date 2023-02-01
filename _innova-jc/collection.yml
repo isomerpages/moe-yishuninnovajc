@@ -1,4 +1,5 @@
 collections:
   innova-jc:
     output: true
-    order: []
+    order:
+      - School Leadership.md
