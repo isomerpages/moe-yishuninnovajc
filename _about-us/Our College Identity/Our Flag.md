@@ -4,6 +4,8 @@ permalink: /about-us/our-college-identity/our-flag/
 description: ""
 third_nav_title: Our College Identity
 ---
+### **Our Flag**
+
 <img src="/images/yijcflag.png" style="width:35%">
 
 #### **Symbolism**
