@@ -2,4 +2,5 @@ collections:
   yishun-jc:
     output: true
     order:
+      - YJC's Anniversaries.md
       - School Leaders.md
