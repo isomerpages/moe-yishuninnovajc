@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Culture and Aesthetic Club.md
       - Performing Arts/Chorale.md
       - Performing Arts/Dance.md
