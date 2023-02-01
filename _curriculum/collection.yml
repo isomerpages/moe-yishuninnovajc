@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programmes/.keep
       - Character & Citizenship Edu/.keep
