@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programmes/Internationalisation & Cross Cultural Programme.md
       - Signature Programmes/.keep
       - Character & Citizenship Edu/.keep
