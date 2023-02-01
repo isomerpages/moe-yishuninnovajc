@@ -3,6 +3,8 @@ title: About YIJC
 permalink: /about-us/about-yijc/
 description: ""
 ---
+### **About YIJC**
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/GNoojU-pzeg" title="2022 YIJC Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Every student has the potential to rise to every challenge in this complex and changing world. This belief drives us to empower our students into **future-ready leaders** and **life-long learners**, guided by the values of **H**umanity, **I**ntegrity, **C**larity, **A**gility and **P**ursuit of **E**xcellence. We challenge our students to open their minds, hearts and future to the infinite possibilities they can achieve.  
