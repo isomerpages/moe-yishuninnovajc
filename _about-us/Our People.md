@@ -236,7 +236,16 @@ Mr Sher Zi Ao
 <label for="accordion8">Project Work Department</label>
 <div>
 <p>
-text
+<b>HOD/Project Work</b><br>
+Ms Cara Mok Shuwen
+	
+<b>Subject Head/Project Work</b><br>
+Ms Lee Xiuli
+	
+<b>Teachers</b><br>	
+Ms Nasihah Binte Abdul Majid<br>
+Ms Tay Shunwei Felicia<br>
+Mrs Teo Eng Leong Emily	
 </p>
 </div>
 </li>
