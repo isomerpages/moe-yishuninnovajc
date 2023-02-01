@@ -2,5 +2,6 @@ collections:
   innova-jc:
     output: true
     order:
+      - National Education.md
       - Community Outreach.md
       - School Leadership.md
