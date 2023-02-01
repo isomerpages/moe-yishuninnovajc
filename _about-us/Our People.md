@@ -92,8 +92,6 @@ Mr Anbu Ganesh s/o Kanapathy
 <br><br>	
 <b>Senior Teacher/General Paper</b><br>
 Mrs Eliza Gunasagaran
-<br><br>
-<br>
 Ms Charis Lee Xin-Ning<br>
 Mr Chen De Zhi, Daniel<br>
 Mr David Premsharan<br>
