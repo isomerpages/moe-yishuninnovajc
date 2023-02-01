@@ -2,4 +2,5 @@ collections:
   culture:
     output: true
     order:
+      - 2023 Orientation/Frequently Asked Questions (FAQs).md
       - 2023 Orientation/.keep
