@@ -13,9 +13,9 @@ sections:
         - title: Post JAE Appeal
           description: ""
           url: /admissions/post-jae-appeal/
-        - title: Contact Us
+        - title: Co Curricular Activities
           description: ""
-          url: /about-us/contact-us/
+          url: /culture/cca/
         - title: Direct School Admission
           description: ""
           url: /admissions/dsa/application-process/
