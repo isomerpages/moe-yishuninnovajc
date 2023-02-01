@@ -188,7 +188,21 @@ Mr Wee Soon Ming
 <label for="accordion6">Mother Tongue Language Department</label>
 <div>
 <p>
-text
+<b>HOD/Mother Tongue Language</b><br>
+Mdm Najmah Bte Sidik
+	
+<b>Subject Head/Mother Tongue Language</b><br>
+Ms Yeo Ai Koon
+	
+<b>Teachers</b><br>
+Mdm A Mallika<br>
+Mdm Erdiah Binte Samad<br>
+Mdm Li Hua<br>
+Mdm Li Nan<br>
+Mr Mohd Said Bin Saleh<br>
+Mdm Selvey Manickam<br>
+Mr Tay Yong Sng<br>
+Ms Tin Yi Ya
 </p>
 </div>
 </li>
@@ -198,7 +212,21 @@ text
 <label for="accordion7">Physical Education Department</label>
 <div>
 <p>
-text
+<b>HOD/Physical Education and CCA</b><br>
+Mrs Thomas George
+	
+<b>Subject Head/Physical Education and CCA</b><br>
+Ms Yeo Swee Ching
+	
+<b>Senior Teacher/Physical Education</b><br>
+Mr Lee Joon Keong
+	
+<b>Teachers</b><br>
+Mr Mohamed Fauzi Bin Yusof<br>
+Mr Mus Effendi Bin Musa<br>
+Mr Ng Swee Loong Steven<br>
+Mdm Shelia Nagiah<br>
+Mr Sher Zi Ao	
 </p>
 </div>
 </li>
