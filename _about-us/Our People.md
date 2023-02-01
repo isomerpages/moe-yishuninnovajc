@@ -11,7 +11,13 @@ description: ""
 <label for="accordion1">School Leaders</label>
 <div>
 <p>
-text
+<b>Principal</b><br>
+Mr Michael de Silva
+
+<b>Vice-Principals</b><br>
+Mrs Lee Hui Xin<br>
+Mr Lim Kah Leong Marc<br>
+Ms Tan Swee Eng Jennifer (Administration)
 </p>
 </div>
 </li>
@@ -21,7 +27,31 @@ text
 <label for="accordion2">Econommics Department</label>
 <div>
 <p>
-text
+<b>HOD/Economics</b><br>
+Ms Lim Shu Fen
+	
+<b>Year Head</b><br>
+Mr Loke Kok Leong<br>
+Mdm Ng Chai Ngoh
+	
+<b>Subject Head/Student Well-Being</b><br>
+Ms Chong Jia Wei Serene
+	
+<b>Subject Head/Economics</b><br>
+Mr Low Hwan Liang Lenon
+	
+<b>Senior Teacher/Economics</b><br>
+Mdm Lim Pow Choo
+	
+<b>Teachers</b><br>	
+Ms Adeline Lee Mei Pin<br>
+Ms Cheng Siew Peng Jasmine<br>
+Mr Foong Chongxiang<br>
+Ms Law Winnie<br>
+Ms Lim Wei Qi Samantha<br>
+Ms Moganeswary D/O Sakathevan<br>
+Mr Neo ZhiXian Ben<br>
+Ms Tan Li Yan Joscelyn	
 </p>
 </div>
 </li>
