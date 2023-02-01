@@ -26,7 +26,7 @@ sections:
       button: click here
       url: https://www.youtube.com/watch?v=oAxVbeatgeY&t=1s
   - infopic:
-      title: Scholarships and Financial Assistance
+      title: Scholarships & Financial Assistance
       subtitle: Yishun innova junior college
       description: available to students who excel in their academics and
         co-curricular activities, as well as those who demonstrate strong
