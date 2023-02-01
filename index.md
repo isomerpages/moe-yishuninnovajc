@@ -40,5 +40,5 @@ sections:
       subtitle: Yishun innova junior college
       description: Find out more about YIJC Open House 2023
       button: click here
-      url: /openhouse/
+      url: https://cms.isomer.gov.sg/sites/moe-yijcopenhouse/workspace
 ---
