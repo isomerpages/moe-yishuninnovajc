@@ -2,6 +2,7 @@ collections:
   yishun-jc:
     output: true
     order:
+      - Providing Opportunities for Authentic Learning.md
       - Student Leadership Development.md
       - Immersion Trips.md
       - Upgrading and Rebranding.md
