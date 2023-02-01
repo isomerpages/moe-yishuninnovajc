@@ -7,11 +7,10 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li>
-<input type="checkbox" id="accordion1">
+<input id="accordion1" type="checkbox">
 <label for="accordion1">School Leaders</label>
 <div>
 <p>
-### Principal	
 <b>Principal</b><br>
 Mr Michael de Silva
 
@@ -24,7 +23,7 @@ Ms Tan Swee Eng Jennifer (Administration)
 </li>
 	
 <li>
-<input type="checkbox" id="accordion2">
+<input id="accordion2" type="checkbox">
 <label for="accordion2">Econommics Department</label>
 <div>
 <p>
@@ -58,27 +57,70 @@ Ms Tan Li Yan Joscelyn
 </li>
 	
 <li>
-<input type="checkbox" id="accordion3">
+<input id="accordion3" type="checkbox">
 <label for="accordion3">English Department</label>
 <div>
 <p>
-text	
+<b>HOD/English</b><br>
+Mrs Shirley Charles-Sharan
+	
+<b>HOD/Character &amp; Citizenship Education</b><br>
+Ms Tan Yin Ping Maxine
+	
+<b>English Literature</b><br>
+<b>Subject Head/English Literature</b><br>
+Mdm Chitrakala d/o G Arumugam<br>
+Ms Ng Wee Li
+	
+<b>Teachers</b><br>
+Ms Lyana Khairunnisa Binte Masodi<br>
+Ms Natasha St Clare Alvar
+
+<b>General Paper</b><br>
+<b>Subject Head/General Paper</b><br>
+Ms Ong Siew Yee Pearlyn <br>
+Ms Yun Xiuling Stella
+	
+<b>Subject Head/Character &amp; Citizenship Education</b><br>
+Ms Woon Peng Steffi
+	
+<b>Subject Head/Comm &amp; Partnership</b><br>
+Ms Somasundaram Divya
+	
+<b>Senior Teacher/Character &amp; Citizenship Education</b><br>
+Mr Anbu Ganesh s/o Kanapathy
+	
+<b>Senior Teacher/General Paper</b><br>
+Mrs Eliza Gunasagaran
+
+<br>
+Ms Charis Lee Xin-Ning<br>
+Mr Chen De Zhi, Daniel<br>
+Mr David Premsharan<br>
+Mr Goh Khiam Li, Edward<br>
+Mdm Karoline Kamalam Pathrose<br>
+Mr Li Qingyi<br>
+Ms Liaw Hsiao-Mein<br>
+Ms Mark Jin Rong<br>
+Mr Tan Xian Li, Joshua<br>
+Ms Veera Gayatri Naidu D/O Rajagopal
+	
 </p>
 </div>
 </li>
 	
 <li>
-<input type="checkbox" id="accordion4">
+<input id="accordion4" type="checkbox">
 <label for="accordion4">Humanities Department</label>
 <div>
 <p>
-text
+
 </p>
 </div>
 </li>
 	
 <li>
-<input type="checkbox" id="accordion5">
+<input id="accordion5" type="checkbox">
 <label for="accordion5">Mathematics Department</label>
 <div>
 <p>
@@ -88,7 +130,7 @@ text
 </li>
 	
 <li>
-<input type="checkbox" id="accordion6">
+<input id="accordion6" type="checkbox">
 <label for="accordion6">Mother Tongue Language Department</label>
 <div>
 <p>
@@ -98,7 +140,7 @@ text
 </li>
 	
 <li>
-<input type="checkbox" id="accordion7">
+<input id="accordion7" type="checkbox">
 <label for="accordion7">Physical Education Department</label>
 <div>
 <p>
@@ -108,7 +150,7 @@ text
 </li>
 	
 <li>
-<input type="checkbox" id="accordion8">
+<input id="accordion8" type="checkbox">
 <label for="accordion8">Project Work Department</label>
 <div>
 <p>
@@ -118,7 +160,7 @@ text
 </li>
 	
 <li>
-<input type="checkbox" id="accordion9">
+<input id="accordion9" type="checkbox">
 <label for="accordion9">Science Department</label>
 <div>
 <p>
@@ -128,7 +170,7 @@ text
 </li>
 	
 <li>
-<input type="checkbox" id="accordion10">
+<input id="accordion10" type="checkbox">
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
