@@ -2,6 +2,7 @@ collections:
   innova-jc:
     output: true
     order:
+      - Exploring Learning Beyond the Classroom.md
       - Student Leadership.md
       - Digital Literacies.md
       - College Facilities.md
