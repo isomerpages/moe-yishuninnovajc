@@ -4,6 +4,7 @@ permalink: /about-us/our-college-identity/our-crest/
 description: ""
 third_nav_title: Our College Identity
 ---
+### **Our Crest**
 #### **Heritage**
 The crest is a creative amalgamation of similar and unique elements of the original YJC and IJC crests. These intentional designs serve to honour the heritage of both colleges and chart a shared future.
 
