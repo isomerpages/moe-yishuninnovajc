@@ -139,8 +139,7 @@ Mr Goh Han-Ming Jasper
 	
 <b>Teachers</b><br>
 Mr Loke Zhi Ming Christopher<br>
-Ms Siti Zakiah Bte Sidek
-	
+Ms Siti Zakiah Bte Sidek	
 </p>
 </div>
 </li>
@@ -150,7 +149,36 @@ Ms Siti Zakiah Bte Sidek
 <label for="accordion5">Mathematics Department</label>
 <div>
 <p>
-text
+<b>HOD/Mathematics</b><br>
+Ms Ng Sock Cheng
+	
+<b>HOD/Student Management</b><br>
+Mdm Nai Yuan Ting
+	
+<b>Subject Head/Mathematics</b><br>
+Mr Tan Wai Yean
+	
+<b>Senior Teacher/Mathematics</b><br>
+Mdm Lee Koon Ha
+	
+<b>Teachers</b><br>
+Mdm Chan Puay San<br>
+Mr Chang Meng Pat<br>
+Ms Chew Hui Teng<br>
+Mr Foo Seck Shin<br>
+Mr Jaymond Tan Jia Wen<br>
+Mr Joshua Kim Kwan<br>
+Mr Lam Chien Kwok Roger<br>
+Mr Low Rui Hao<br>
+Mr Phang Wei Cheng<br>
+Mr Tan Kit Loong Christopher<br>
+Ms Tan Rui Min Cristal
+	
+<b>Computing</b><br>
+<b>Teachers</b><br>
+Mr Kuang Jingkai<br>
+Mr Tan Bang Choon David<br>
+Mr Wee Soon Ming	
 </p>
 </div>
 </li>
