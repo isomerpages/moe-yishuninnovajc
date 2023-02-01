@@ -11,7 +11,7 @@ description: ""
 Yishun Innova Junior College<br>
 3 Yishun Ring Road Singapore 768675
 
-**Email**: [yijc@moe.edu.sg](mailto:yijc@moe.edu.sg)<br>&nbsp;  
+**Email**: [yijc@moe.edu.sg](mailto:yijc@moe.edu.sg)<br>
 **Tel**: +65 6257-9873<br>
 **Fax**: +65 6257-4373
 
