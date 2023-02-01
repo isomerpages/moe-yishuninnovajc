@@ -1,4 +1,5 @@
 collections:
   yishun-jc:
     output: true
-    order: []
+    order:
+      - School Leaders.md
