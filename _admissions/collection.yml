@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - International Students.md
       - Scholarships and Financial Assistance.md
