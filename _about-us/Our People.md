@@ -255,7 +255,59 @@ Mrs Teo Eng Leong Emily
 <label for="accordion9">Science Department</label>
 <div>
 <p>
-text
+<b>HOD/Science</b><br>
+Mdm Goh Sok Sing
+
+<b>HOD/Digital Literacies and Knowledge Management</b><br>
+Mr Ang Tze Siong Clayton
+	
+<b>School Staff Developer</b><br>
+Mdm Tan Xiao Juan Magdalene
+	
+<b>Biology</b><br>
+<b>Subject Head/Biology</b><br>
+Ms Lim Hwee Ming Irene
+	
+<b>Teachers</b><br>
+Mr Tan Kok Ping Lawrence<br>
+Ms Wong Mei Yee
+	
+<b>Chemistry</b><br>
+<b>Subject Head/Chemistry</b><br>
+Mrs Lim Sze Cheng
+	
+<b>Subject Head/Talent Development</b><br>
+Mr Tham Hanrong
+	
+<b>Senior Teacher/Chemistry</b><br>
+Mdm Lim Chieh Yeng Jane<br>
+Mr Steven Wong Meng Wai
+	
+<b>Teachers</b><br>
+Mr Ang Chee Kiat<br>
+Mr Chng Kok Poh Andy<br>
+Ms Hong Wan Mei<br>
+Mr Lim Cheng Xiang<br>
+Ms Loh Yi Lin Eileen<br>
+Ms Seah Sim Yee<br>
+Ms Tan Kai Ying<br>
+Ms Vivian Lim Li Hui<br>
+Mdm Wong Huiping Valerie<br>
+Mdm Zalinah Bte Sarpiai
+	
+<b>Physics</b><br>
+<b>Subject Head/Physics</b><br>
+Mr Tan Hao Kai
+
+<b>Lead Teacher/Physics</b><br>
+Mr Ong Chee Wah
+	
+<b>Teachers</b><br>
+Mr Chong Phow Loong<br>
+Mdm Koh Sau Tiang Cheyanne<br>
+Mr Lim Wei Jun<br>
+Mr Ng Soo Kok<br>
+Mr Wong Yih Chong
 </p>
 </div>
 </li>
