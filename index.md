@@ -35,4 +35,10 @@ sections:
       url: /admissions/scholarships-and-financial-assistance/
       image: /images/hero5.jpg
       alt: Image alt text
+  - infobar:
+      title: Open House 2023
+      subtitle: Yishun innova junior college
+      description: Find out more about YIJC Open House 2023
+      button: click here
+      url: /openhouse/
 ---
