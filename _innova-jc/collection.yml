@@ -2,6 +2,7 @@ collections:
   innova-jc:
     output: true
     order:
+      - Aesthetic Appreciation in IJC.md
       - Sports Programmes.md
       - National Education.md
       - Community Outreach.md
