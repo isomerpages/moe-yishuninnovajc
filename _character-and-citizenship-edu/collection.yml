@@ -2,4 +2,5 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
+      - Education & Career Guidance/.keep
       - Sexuality Education.md
