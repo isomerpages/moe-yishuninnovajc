@@ -1,4 +1,5 @@
 collections:
   character-and-citizenship-edu:
     output: true
-    order: []
+    order:
+      - Sexuality Education.md
