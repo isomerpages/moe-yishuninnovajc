@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Returning Singaporeans.md
       - International Students.md
       - Scholarships and Financial Assistance.md
