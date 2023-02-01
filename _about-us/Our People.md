@@ -3,6 +3,8 @@ title: Our People
 permalink: /about-us/our-people/
 description: ""
 ---
+### **Our People**
+
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
