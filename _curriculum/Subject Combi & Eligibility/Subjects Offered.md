@@ -22,7 +22,10 @@ To find out more, click on the respective departments below! We have consolidate
 <label for="accordion1">Economics</label>
 <div>
 <p>
-text
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/41mE23nCzxc" title="Overview of Economics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
+<br><br>	
+View the Economics FAQ sheet here:<a href="/files/economics%20FAQ.pdf">Econs FAQs 2022.pdf</a>	
 </p>
 </div>
 </li>
