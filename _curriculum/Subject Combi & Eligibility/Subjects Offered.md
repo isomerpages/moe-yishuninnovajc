@@ -111,7 +111,13 @@ You may view the FAQ sheet for Project Work here: <a href="link">PW FAQs 2022.pd
 <label for="accordion7">Science</label>
 <div>
 <p>
-text
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Mg0XIBif0tM" title="Overview of Biology @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/6Yh3J-k1ojY" title="Overview of Chemistry @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xawOieSCgDc" title="Overview of Physics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+You may view the FAQ sheet for the Sciences here: <a href="/files/scifaq.pdf">Science FAQs 2022.pdf</a>
 </p>
 </div>
 </li>
