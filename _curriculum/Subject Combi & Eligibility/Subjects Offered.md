@@ -19,7 +19,7 @@ To find out more, click on the respective departments below! We have consolidate
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1">title</label>
+<label for="accordion1">Economics</label>
 <div>
 <p>
 text
@@ -29,7 +29,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion2">
-<label for="accordion2">title</label>
+<label for="accordion2">English Language</label>
 <div>
 <p>
 text
@@ -39,7 +39,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion3">
-<label for="accordion3">title</label>
+<label for="accordion3">Humanities</label>
 <div>
 <p>
 text	
@@ -49,7 +49,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4">title</label>
+<label for="accordion4">Mathematics</label>
 <div>
 <p>
 text
@@ -59,7 +59,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion5">
-<label for="accordion5">title</label>
+<label for="accordion5">Mother Tongue</label>
 <div>
 <p>
 text
@@ -69,7 +69,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion6">
-<label for="accordion6">title</label>
+<label for="accordion6">Project Work</label>
 <div>
 <p>
 text
@@ -79,7 +79,7 @@ text
 	
 <li>
 <input type="checkbox" id="accordion7">
-<label for="accordion7">title</label>
+<label for="accordion7">Science</label>
 <div>
 <p>
 text
@@ -87,4 +87,3 @@ text
 </div>
 </li>
 </ul>
-	
