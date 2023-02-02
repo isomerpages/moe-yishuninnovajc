@@ -85,7 +85,7 @@ You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
 <br><br>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/gLJSzYPL_UE" title="Overview of TLL @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-You may view the FAQ sheet for Mother Tongue Languages here: <a href="link">MTL FAQs 2022.pdf</a>
+You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/mtlfaq.pdf">MTL FAQs 2022.pdf</a>
 <br><br>
 If you are interested in the Malay Language Elective Programme (MELP), watch the video below and let Hakim and Elie tell you more about their experiences!
 <br><br>
@@ -93,7 +93,7 @@ If you are interested in the Malay Language Elective Programme (MELP), watch the
 </p>
 </div>
 </li>
-	
+
 <li>
 <input type="checkbox" id="accordion6">
 <label for="accordion6">Project Work</label>
