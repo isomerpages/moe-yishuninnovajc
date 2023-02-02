@@ -63,7 +63,13 @@ View the Humanities FAQ sheet here: <a href="/files/humanities.pdf">Humanities F
 <label for="accordion4">Mathematics</label>
 <div>
 <p>
-text
+<iframe width="806" height="423" src="https://www.youtube.com/embed/XhRZuy_iPqM" title="Overview of Mathematics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>	
+<iframe width="806" height="423" src="https://www.youtube.com/embed/xRvXfSJ9oTc" title="Overview of H2 Computing @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
+<a href="/files/math.pdf">Maths FAQ 2022.pdf</a><br>
+<a href="/files/computing.pdf">Computing FAQs 2022.pdf</a>	
 </p>
 </div>
 </li>
