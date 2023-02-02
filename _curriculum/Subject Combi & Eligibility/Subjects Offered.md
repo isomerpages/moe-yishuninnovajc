@@ -35,7 +35,13 @@ View the Economics FAQ sheet here:<a href="/files/economics%20FAQ.pdf">Econs FAQ
 <label for="accordion2">English Language</label>
 <div>
 <p>
-text
+<iframe width="800" height="450" src="https://www.youtube.com/embed/zeCLoz9sZbI" title="Overview of General Paper @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>	
+<iframe width="800" height="450" src="https://www.youtube.com/embed/_KFmFUVEENU" title="Overview of English Literature @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>	
+You may view the FAQ sheet for General Paper and English Literature here:	<br>
+<a href="/files/enggp.pdf">GP FAQs 2022.pdf</a><br>
+<a href="/files/englit.pdf">Lit FAQs 2022.pdf</a>	
 </p>
 </div>
 </li>
@@ -45,8 +51,10 @@ text
 <label for="accordion3">Humanities</label>
 <div>
 <p>
-text	
+<iframe width="800" height="450" src="https://www.youtube.com/embed/3X15zkwUBYg" title="Overview of Humanities @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
 </p>
+<br><br>	
+View the Humanities FAQ sheet here: <a href="/files/humanities.pdf">Humanities FAQs 2022.pdf</a>	
 </div>
 </li>
 	
