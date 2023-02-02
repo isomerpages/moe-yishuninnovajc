@@ -99,7 +99,7 @@ If you are interested in the Malay Language Elective Programme (MELP), watch the
 <label for="accordion6">Project Work</label>
 <div>
 <p>
-<iframe width="806" height="423" src="https://www.youtube.com/embed/lQzcERnZwfA" title="Overview of Project Work @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/lQzcERnZwfA" title="Overview of Project Work @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 You may view the FAQ sheet for Project Work here: <a href="link">PW FAQs 2022.pdf</a>	
 </p>
