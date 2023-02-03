@@ -11,7 +11,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Florescat Concordia] | [Dedicated and Reflective Teachers] | [Providing Opportunities for Authentic Learning] |
 
 <p><a href="webhere"><img src="/images/yishunjc4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/yishunjc5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -21,7 +21,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Student Leadership Development] | [Immersion Trips] | [Upgrading and Rebranding] |
 
 <p><a href="webhere"><img src="/images/yishunjc7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/yishunjc8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -31,7 +31,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [The Arts] | [The Co-Curricular Programme] | [The Character and Citizenship Education Programme] |
 
 <p><a href="webhere"><img src="/images/yishunjc10.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/yishunjc11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -40,4 +40,4 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| [YJC's Anniversaries] | [School Leaders] |
