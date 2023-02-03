@@ -35,11 +35,11 @@ description: ""
 |:---:|:---:|:---:|
 | [Aesthetic Appreciation in IJC](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/aesthetic-appreciation/) | [Sports Programmes](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/sports-programmes/) | [National Education](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/national-education/) |
 
-<p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/community-outreach/"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/school-leadership/"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
-| [Community Outreach] | [SchoolLeadership] |
+| [Community Outreach](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/community-outreach/) | [SchoolLeadership](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/innova-jc/school-leadership/) |
