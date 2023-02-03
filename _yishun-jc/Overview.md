@@ -21,7 +21,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Student Leadership Development](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/student-leadership-development/) | [Immersion Trips](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/immersion-trips/) | [Upgrading and Rebranding](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/upgrading-and-rebranding/) |
+| [Student Leadership<br> Development](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/student-leadership-development/) | [Immersion Trips](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/immersion-trips/) | [Upgrading and Rebranding](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/upgrading-and-rebranding/) |
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/the-arts/"><img src="/images/yishunjc7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/co-curricular-programme/"><img src="/images/yishunjc8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
