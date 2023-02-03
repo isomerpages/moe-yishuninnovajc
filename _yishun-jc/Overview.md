@@ -33,11 +33,11 @@ description: ""
 |:---:|:---:|:---:|
 | [The Arts](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/the-arts/) | [The Co-Curricular Programme](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/co-curricular-programme/) | [The Character and<br> Citizenship Education<br> Programme](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/cce-programme/) |
 
-<p><a href="webhere"><img src="/images/yishunjc10.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/yishunjc11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/yjcs-anniversaries/"><img src="/images/yishunjc10.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/school-leaders/"><img src="/images/yishunjc11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
-| [YJC's Anniversaries] | [School Leaders] |
+| [YJC's Anniversaries](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/yjcs-anniversaries/) | [School Leaders](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/school-leaders/) |
