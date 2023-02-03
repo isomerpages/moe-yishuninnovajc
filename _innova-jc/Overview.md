@@ -13,7 +13,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [The Innovian Spirit] | [The Teachers] | [Exploring Learning Beyond the Classroom] |
 
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -23,7 +23,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Student Leadership] | [Digital Literacies] | [College Facilities] |
 
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -33,7 +33,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Aesthetic Appreciation in IJC] | [Sports Programmes] | [National Education] |
 
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/innovajc.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -42,4 +42,4 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| [Community Outreach] | [SchoolLeadership] |
