@@ -11,7 +11,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Florescat Concordia](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/florescat-concordia/) | [Dedicated and Reflective Teachers](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) | [Providing Opportunities for Authentic Learning](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) |
+| [Florescat Concordia](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/florescat-concordia/) | [Dedicated and Reflective Teachers](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) | [Providing Opportunities for<br> Authentic Learning](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) |
 
 <p><a href="webhere"><img src="/images/yishunjc4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/yishunjc5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -31,7 +31,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [The Arts] | [The Co-Curricular Programme] | [The Character and Citizenship Education Programme] |
+| [The Arts] | [The Co-Curricular Programme] | [The Character and<br> Citizenship Education<br> Programme] |
 
 <p><a href="webhere"><img src="/images/yishunjc10.jpg" style="width:30%;margin-right:15px;margin-left:125px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/yishunjc11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
