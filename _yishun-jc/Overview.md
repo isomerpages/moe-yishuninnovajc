@@ -7,13 +7,13 @@ description: ""
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/florescat-concordia/"><img src="/images/yishunjc1.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/"><img src="/images/yishunjc2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/"><img src="/images/yishunjc3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/providing-opportunities-for-authentic-learning/"><img src="/images/yishunjc3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Florescat Concordia](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/florescat-concordia/) | [Dedicated and Reflective Teachers](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) | [Providing Opportunities for<br> Authentic Learning](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) |
+| [Florescat Concordia](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/florescat-concordia/) | [Dedicated and Reflective Teachers](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/dedicated-and-reflective-teachers/) | [Providing Opportunities for<br> Authentic Learning](https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/providing-opportunities-for-authentic-learning/) |
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/student-leadership-development/"><img src="/images/yishunjc4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/about-us/heritage-wall/yishun-jc/immersion-trips/"><img src="/images/yishunjc5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
