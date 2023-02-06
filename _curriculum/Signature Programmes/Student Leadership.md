@@ -25,7 +25,7 @@ Student leaders are provided first-hand experience at planning, implementing, ev
 <img src="/images/studentleadership4.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/studentleadership5.jpg" style="width:40%;margin-right:55px;" align = "right">
 
-<br clear="left">
+<br clear="left"><br clear="left">
 
 |  |  |
 |---|---|
