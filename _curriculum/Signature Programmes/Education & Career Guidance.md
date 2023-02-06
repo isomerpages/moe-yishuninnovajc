@@ -16,7 +16,7 @@ Our learning journeys to universities:
 
 <br clear="left">
 
-<img src="/images/ecg3.jpg" style="width:35%;margin-left:75px;" align = "left">
+<img src="/images/ecg3.jpg" style="width:35%;margin-left:90px;" align = "left">
 
 <br clear="left">
 
