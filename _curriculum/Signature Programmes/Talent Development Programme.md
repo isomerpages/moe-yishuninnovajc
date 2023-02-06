@@ -12,5 +12,12 @@ _Admission of JC1 students into the TDP is based on their L1R5 scores, and admis
 #### **TDP Interview Skills and Resume Writing Workshops**
 The College organises an annual resume writing and interview skills workshop for the JC1 and JC2 TDP students to equip them with the necessary skills and knowledge to be able to handle scholarship and university admission interviews.
 
+<figure><img src="/images/tdp1.jpg" style="width:85%"><figcaption>2020 Interview Skills Workshop
+</figcaption></figure>	
+
 #### **Dialogue Sessions on Current Affairs**
 You can also look forward to special just-in-time dialogue sessions organised for TDP students throughout the year. Aimed at providing further exposure to global and local current affairs, these sessions broaden your horizons and allow you to see the world from varying perspectives.
+
+<figure>
+<img src="/images/tdp2.jpg" style="width:85%"><figcaption>2021 Discussion Session on the Myanmar situation
+</figcaption></figure>	
