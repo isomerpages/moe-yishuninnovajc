@@ -11,12 +11,12 @@ The ECG programme is differentiated based on the needs and readiness levels of t
 
 Our learning journeys to universities:
 
-<img src="/images/ecg1.jpg" style="width:40%;margin-left:55px;" align = "left">
-<img src="/images/ecg2.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/ecg1.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/ecg2.jpg" style="width:40%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/ecg3.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/ecg3.jpg" style="width:35%;margin-left:75px;" align = "left">
 
 <br clear="left">
 
