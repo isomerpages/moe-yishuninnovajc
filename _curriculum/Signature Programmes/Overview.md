@@ -6,7 +6,7 @@ third_nav_title: Signature Programmes
 ---
 ### **Signature Programmes**
 
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/curriculum/signature-programmes/resilience-building-programme/"><img src="/images/signatureprogrammec1a.jpg" style="width:220px; height:180px;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/curriculum/signature-programmes/resilience-building-programme/"><img src="/images/signatureprogrammec1a.jpg" style="width:220px; height:180px;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/curriculum/signature-programmes/malay-language-elective-programme/"><img src="/images/signatureprogramme2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/curriculum/signature-programmes/student-leadership/"><img src="/images/signatureprogramme3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
