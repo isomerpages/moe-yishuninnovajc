@@ -3,7 +3,7 @@ title: Digital Literacies
 permalink: /about-us/heritage-wall/innova-jc/digital-literacies/
 description: ""
 ---
-<img src="/images/innovajc5.jpg" style="width:60%">
+<img src="/images/innovajc6.jpg" style="width:60%">
 
 <center>Students enjoy collaborative learning in the Spaceroom, where they share ideas easily using portable whiteboards and iPads.</center>
 
