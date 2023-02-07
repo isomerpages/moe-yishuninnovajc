@@ -40,15 +40,15 @@ description: ""
 |:---:|:---:|:---:|:---:|
 | [Art & Guitar Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/) | [Class Leaders' Council](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/) | [Interact Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/interact-club/) | [Library Council and Strategy Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/library-council-and-strategy-club/) |
 
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;margin-left:115px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;margin-left:115px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/students-council/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Makers' Academy] | [Outdoor Adventure Club] | [Students' Council] |
+| [Makers' Academy](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/makers-academy/) | [Outdoor Adventure Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/outdoor-adventure-club/) | [Students' Council](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/students-council/) |
 
 #### **Sports & Games**
 
