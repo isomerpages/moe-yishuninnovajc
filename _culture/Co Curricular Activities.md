@@ -7,15 +7,15 @@ description: ""
 #### **Performing Arts**
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| [Chinese Orchestra](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/) | [Culture & Aesthetic Club] | [Chorale] | [Dance] |
+| [Chinese Orchestra](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/) | [Culture & Aesthetic Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/) | [Chorale](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/) | [Dance](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/) |
 
 <p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;margin-left:115px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
