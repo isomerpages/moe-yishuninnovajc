@@ -52,16 +52,16 @@ description: ""
 
 #### **Sports & Games**
 
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/air-weapons/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/badminton/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/basketball/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/floorball/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| [Air Weapons] | [Badminton] | [Basketball] | [Floorball] |
+| [Air Weapons](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/air-weapons/) | [Badminton](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/badminton/) | [Basketball](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/basketball/) | [Floorball](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/floorball/) |
 
 <p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
