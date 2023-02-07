@@ -17,15 +17,15 @@ description: ""
 |:---:|:---:|:---:|:---:|
 | [Chinese Orchestra](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/) | [Culture & Aesthetic Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/) | [Chorale](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/) | [Dance](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/) |
 
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;margin-left:115px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;margin-left:115px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/musicians-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/symphonic-band/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [English Language Drama & Debate Society (ELDDS) | [Musicians' Club] | [Symphonic Band] |
+| [English Language Drama & Debate Society (ELDDS)](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/) | [Musicians' Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/musicians-club/) | [Symphonic Band](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/symphonic-band/) |
 
 #### **Clubs & Societies**
 
