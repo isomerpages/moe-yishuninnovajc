@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/banner4.jpg
       key_highlights:
-        - title: Yishun Innova Junior College - Aude Exaurare
+        - title: Welcome to Yishun Innova Junior College
           description: ""
           url: ""
 ---
