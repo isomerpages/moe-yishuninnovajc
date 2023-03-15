@@ -6,6 +6,7 @@ third_nav_title: Our College Identity
 ---
 ### **Our Song**
 
+<center>
 In a world of changes<br>
 Where our values will define us<br>
 We’ll uphold, noble goals<br>
