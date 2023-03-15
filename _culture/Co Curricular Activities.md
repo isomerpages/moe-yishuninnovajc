@@ -6,7 +6,7 @@ description: ""
 ### **Co-curricular Activities** (require school to provide images)
 #### **Performing Arts**
 
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/cca/cca1.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
