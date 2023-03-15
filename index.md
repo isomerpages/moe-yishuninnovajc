@@ -12,4 +12,11 @@ sections:
         - title: Welcome to Yishun Innova Junior College
           description: ""
           url: ""
+  - infopic:
+      title: NEW!
+      description: Announcements
+      button: Click Here
+      url: /
+      image: /images/Homepage/announcement.jpg
+      alt: Image alt text
 ---
