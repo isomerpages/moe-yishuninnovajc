@@ -2,8 +2,8 @@ title: Yishun Innova Junior College
 url: https://yijc.edu.sg
 favicon: /images/yijc.png
 colors:
-  primary-color: "#003da5"
-  secondary-color: "#d6001c"
+  primary-color: "#d6001c"
+  secondary-color: "#003da5"
   media-colors:
     - title: media-color-one
       color: "#49759a"
