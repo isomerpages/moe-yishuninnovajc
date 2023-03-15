@@ -4,7 +4,7 @@ title: Yishun Innova Junior College
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Yishun Innova Junior College
 sections:
   - hero:
       background: /images/yijchero.gif
