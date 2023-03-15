@@ -21,7 +21,7 @@ description: ""
 
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg" align = "center"></a> | 
 | -------- | -------- | 
-| [Dance](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/)     | [English Language Drama & Debate Society (ELDDS)](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/)     | 
+| [Dance](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/)     | [ELDDS](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/)     | 
 
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
