@@ -13,7 +13,7 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: NEW!
+      title: YIJC
       description: Announcements
       button: Click Here
       url: /
