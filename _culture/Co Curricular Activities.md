@@ -10,6 +10,7 @@ description: ""
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"  align = "left"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg" align = "center"></a> |
 | -------- | -------- | -------- |-------- |
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg" align = "center"></a>     | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg" align = "center"></a>| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg" align = "center"></a>|     |
+
 <br clear="left">
 
 #### **Clubs & Societies**
