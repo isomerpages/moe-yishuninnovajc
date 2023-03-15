@@ -1,7 +1,6 @@
 contact_us: /about-us/contact-us/
-show_reach: true
+show_reach: false
 faq: /faq/
 social_media:
   facebook: https://www.facebook.com/yishuninnova/
-  twitter: https://www.twitter.com/yishuninnova
   instagram: https://www.instagram.com/yishuninnovajc/
