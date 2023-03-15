@@ -9,31 +9,9 @@ sections:
   - hero:
       background: /images/Homepage/banner4.jpg
       key_highlights:
-        - title: Post JAE Appeal
+        - title: Yishun Innova Junior College
           description: ""
-          url: /admissions/post-jae-appeal/
-        - title: Co Curricular Activities
-          description: ""
-          url: /culture/cca/
-        - title: Direct School Admission
-          description: ""
-          url: /admissions/dsa/application-process/
-  - infobar:
-      title: Corporate Video
-      subtitle: Yishun innova junior college
-      description: Find out more about YIJC
-      button: click here
-      url: https://www.youtube.com/watch?v=oAxVbeatgeY&t=1s
-  - infopic:
-      title: Scholarships & Financial Assistance
-      subtitle: Yishun innova junior college
-      description: available to students who excel in their academics and
-        co-curricular activities, as well as those who demonstrate strong
-        leadership qualities
-      button: find out more
-      url: /admissions/scholarships-and-financial-assistance/
-      image: /images/hero5.jpg
-      alt: Image alt text
+          url: ""
   - infobar:
       title: Open House 2023
       subtitle: Yishun innova junior college
