@@ -4,11 +4,10 @@ title: Yishun Innova Junior College
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Yishun Innova Junior College
+notification: ""
 sections:
   - hero:
-      background: /images/yijchero.gif
-      url: /contact-us/
+      background: /images/Homepage/banner4.jpg
       key_highlights:
         - title: Post JAE Appeal
           description: ""
