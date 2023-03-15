@@ -166,6 +166,7 @@ Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Joshua Kim Kwan<br>
 Mr Lam Chien Kwok Roger<br>
+Mr Lee Wen Rong<br>
 Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
@@ -287,6 +288,7 @@ Ms Hong Wan Mei<br>
 Mr Lim Cheng Xiang<br>
 Ms Loh Yi Lin Eileen<br>
 Ms Seah Sim Yee<br>
+Ms Sim Shin Ying<br>
 Ms Tan Kai Ying<br>
 Ms Vivian Lim Li Hui<br>
 Mdm Wong Huiping Valerie<br>
@@ -337,7 +339,6 @@ Ms Vina Sim
 Ms Yeo Yee Ling Sandra
 <br><br>
 <b>TSO</b><br>
-Mr Chur Kok Wee<br>
 Mr Koh Pang How Patrick<br>
 Mdm Suhailah Binte Satoo<br>
 Mr Zainuddin Bin Awaluddin
@@ -360,7 +361,7 @@ Ms Tan Chui Hoon, Teresa
 <br><br>
 <b>Desktop Engineers (NCS)</b><br>
 Mr Mohammad Riduan Bin Abdul Rahman<br>
-Mr Mohammad Irman Bin Idress
+Mr Selvathiru M Chandran
 <br><br>
 <b>Security Officers</b><br>
 Ms Malliga<br>
