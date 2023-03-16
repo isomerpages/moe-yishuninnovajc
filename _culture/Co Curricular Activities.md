@@ -20,11 +20,7 @@ description: ""
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/CCA/cca8.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg" align = "center"></a>|
 | --------   | --------     | --------    |
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/library-council-and-strategy-club/"><img src="/images/CCA/cca11.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg" align = "center"></a>|
-| Text         | Text          | Text          |
-
-
-
-
+| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" align = "center"></a> |               |               |
 
 <br clear="left">
 
