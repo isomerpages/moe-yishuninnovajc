@@ -7,7 +7,7 @@ description: ""
 #### **Performing Arts**
 
 
-| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"  align = "left"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg" align = "center"></a> |
+| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"  align = "left"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a>| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg" align = "center"></a> |
 | -------- | -------- | -------- |-------- |
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg" align = "center"></a>     | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg" align = "center"></a>| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg" align = "center"></a>|     |
 
@@ -15,10 +15,16 @@ description: ""
 
 #### **Clubs & Societies**
 
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/interact-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/library-council-and-strategy-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+
+
+| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/CCA/cca8.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg" align = "center"></a>|
+| --------   | --------     | --------    |
+| <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/library-council-and-strategy-club/"><img src="/images/CCA/cca11.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg" align = "center"></a>|
+| Text         | Text          | Text          |
+
+
+
+
 
 <br clear="left">
 
