@@ -18,9 +18,6 @@ sections:
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
-      description: '<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/oAxVbeatgeY" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-        contenteditable="false" style="width: 100%; height: 584px;"></iframe>'
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/oAxVbeatgeY" />
 ---
