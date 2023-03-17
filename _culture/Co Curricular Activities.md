@@ -6,7 +6,7 @@ description: ""
 ### **Co-curricular Activities** 
 #### **Performing Arts**
 
-Refresh
+Refresh 17th March 3.33pm
 
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/chinese-orchestra/"><img src="/images/CCA/cca1.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> |
 | --------   | --------     | --------    |
