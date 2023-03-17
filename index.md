@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/banner4.jpg
+      background: /images/Homepage/banner3_1.jpg
   - infopic:
       title: YIJC
       description: Announcements
