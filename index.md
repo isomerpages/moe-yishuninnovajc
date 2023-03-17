@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner4.jpg
-      key_highlights:
-        - title: Welcome to Yishun Innova Junior College
-          description: ""
-          url: ""
   - infopic:
       title: YIJC
       description: Announcements
