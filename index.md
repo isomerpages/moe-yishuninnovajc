@@ -13,8 +13,6 @@ sections:
         options:
           - title: 2022 A Level Results Release
             url: /news/01/
-          - title: About Us (test)
-            url: /about-us/about-yijc/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
