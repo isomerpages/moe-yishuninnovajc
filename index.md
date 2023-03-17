@@ -12,7 +12,7 @@ sections:
       title: YIJC
       description: Announcements
       button: Click Here
-      url: /News/01
+      url: /News/01/
       image: /images/Homepage/announcement.jpg
       alt: Image alt text
 ---
