@@ -15,7 +15,7 @@ sections:
             url: /news/01/
   - infobar:
       title: Yishun Innova Junior College
-      subtitle: Welcome to
+      subtitle: "*Welcome to"
       description: <p align="center"><iframe width="1024" height="576"
         src="https://www.youtube.com/embed/oAxVbeatgeY"></iframe></p>
 ---
