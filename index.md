@@ -8,16 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner3_1.jpg
-  - infopic:
-      title: YIJC
-      description: Announcements
-      button: Click Here
-      url: /News/01/
-      image: /images/Homepage/announcement.jpg
-      alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
-      description: <iframe width="560" height="315"
+      description: <iframe width="1920" height="720"
         src="https://www.youtube.com/embed/oAxVbeatgeY"></iframe>
 ---
