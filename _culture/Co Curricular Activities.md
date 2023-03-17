@@ -5,6 +5,9 @@ description: ""
 ---
 ### **Co-curricular Activities** 
 #### **Performing Arts**
+
+Refresh
+
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/chinese-orchestra/"><img src="/images/CCA/cca1.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> |
 | --------   | --------     | --------    |
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/dance/"><img src="/images/CCA/cca4.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/eldds/"><img src="/images/CCA/cca5.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/musicians-club/"><img src="/images/CCA/cca6.jpg" align = "center"></a> |
