@@ -12,7 +12,7 @@ sections:
       title: YIJC
       description: Announcements
       button: Click Here
-      url: /News
+      url: /News/Results Release for 2022 GCE A Level
       image: /images/Homepage/announcement.jpg
       alt: Image alt text
 ---
