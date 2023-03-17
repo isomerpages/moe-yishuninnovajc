@@ -6,7 +6,7 @@ description: ""
 ### **Co-curricular Activities** 
 #### **Performing Arts**
 
-Refresh 17th March 3.33pm
+<br clear="left" />
 
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg" align = "center"></a> |
 | --------   | --------     | --------    |
@@ -15,7 +15,7 @@ Refresh 17th March 3.33pm
 
 #### **Clubs & Societies**
 
-Refresh 17th March 3.35pm
+<br clear="left" />
 
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/CCA/cca8.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg" align = "center"></a> |
 | --------   | --------     | --------    |
@@ -25,7 +25,7 @@ Refresh 17th March 3.35pm
 
 #### **Sports & Games**
 
-Refresh 17th March 3.40pm
+<br clear="left" />
 
 | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/air-weapons/"><img src="/images/CCA/cca15.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg" align = "center"></a> | <a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/basketball/"><img src="/images/CCA/cca17.jpg" align = "center"></a> |
 | --------   | --------     | --------    |
