@@ -12,7 +12,7 @@ sections:
         title: Announcements
         options:
           - title: 2022 A Level Results Release
-            url: /News/01
+            url: /news/01/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
