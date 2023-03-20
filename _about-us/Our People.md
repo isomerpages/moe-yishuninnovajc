@@ -24,7 +24,7 @@ Ms Tan Swee Eng Jennifer (Administration)
 	
 <li>
 <input id="accordion2" type="checkbox">
-<label for="accordion2">Econommics Department</label>
+<label for="accordion2">Economics Department</label>
 <div>
 <p>
 <b>HOD/Economics</b><br>
@@ -183,13 +183,13 @@ Mr Wee Soon Ming
 	
 <li>
 <input id="accordion6" type="checkbox">
-<label for="accordion6">Mother Tongue Language Department</label>
+<label for="accordion6">Mother Tongue Languages Department</label>
 <div>
 <p>
-<b>HOD/Mother Tongue Language</b><br>
+<b>HOD/Mother Tongue Languages</b><br>
 Mdm Najmah Bte Sidik
 <br><br>
-<b>Subject Head/Mother Tongue Language</b><br>
+<b>Subject Head/Mother Tongue Languages</b><br>
 Ms Yeo Ai Koon
 <br><br>
 <b>Teachers</b><br>
