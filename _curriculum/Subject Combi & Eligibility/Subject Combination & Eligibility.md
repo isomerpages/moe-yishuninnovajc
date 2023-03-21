@@ -21,4 +21,4 @@ Students may opt for a
 * MT Syllabus ‘B’ if taken at O-Level or with Mother Tongue grades D7, E8 or F9 in their GCE O-Level Examination (subjected to approval).
 
 #### **Contrasting Subject**
-Students must offer a **Contrasting Subject** as one of the four content-based subjects. A subject cannot be offered at both H1 and H2 levels. Students must offer at least one subject from Group (A) Mathematics and Science subjects, and at least one subject from Group (B) Humanities and Arts subjects. (See the list of subjects offered.)
+Students must offer a **Contrasting Subject** as one of the four content-based subjects. A subject cannot be offered at both H1 and H2 levels. Students must offer at least one subject from Group (A) Mathematics and Science subjects, and at least one subject from Group (B) Humanities and Arts subjects. <br>(See the full list of subjects offered in the next sub-tab.)
