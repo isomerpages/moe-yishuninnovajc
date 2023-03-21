@@ -26,3 +26,4 @@ In our thoughts and our hearts<br>
 With courage we will rise<br>
 Leaning into our future<br>
 Like a blazing flame, Y.I<br>
+</center>
