@@ -22,7 +22,7 @@ To find out more, click on the respective departments below! We have consolidate
 <label for="accordion1">Economics</label>
 <div>
 <p>
-View the Economics FAQ sheet here: <a href="/files/economics%20FAQ.pdf">Econs FAQs.pdf</a>	
+View the Economics FAQ sheet here: <a href="/files/subjoff/Economics_FAQ.pdf">Econs FAQs.pdf</a>	
 </p>
 </div>
 </li>
