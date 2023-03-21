@@ -10,7 +10,7 @@ third_nav_title: Our College Identity
 In a world of changes<br>
 Where our values will define us<br>
 We’ll uphold, noble goals<br>
-Championing what we’ve learnt
+Championing what we’ve learnt<br>
 
 We’ll always endeavour<br>
 To ourselves we will be true<br>
@@ -20,9 +20,9 @@ Crafting worlds anew
 We are Yishun Innova<br>
 With passion we ignite<br>
 Forging our own future<br>
-Like the blazing flame, Y.I
+Like the blazing flame, Y.I<br>
 
 In our thoughts and our hearts<br>
 With courage we will rise<br>
 Leaning into our future<br>
-Like a blazing flame, Y.I
+Like a blazing flame, Y.I<br>
