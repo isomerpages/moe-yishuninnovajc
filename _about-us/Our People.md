@@ -11,10 +11,10 @@ description: ""
 <label for="accordion1">School Leaders</label>
 <div>
 <p>
-<b>Principal</b><br>
+	<b><font color="003dA5">Principal</b></font><br>
 Mr Michael de Silva
 <br><br>
-<b>Vice-Principals</b><br>
+	<b><font color="003dA5">Vice-Principals</font></b><br>
 Mrs Lee Hui Xin<br>
 Mr Lim Kah Leong Marc<br>
 Ms Tan Swee Eng Jennifer (Administration)
@@ -27,23 +27,23 @@ Ms Tan Swee Eng Jennifer (Administration)
 <label for="accordion2">Economics Department</label>
 <div>
 <p>
-<b>HOD/Economics</b><br>
+	<b><font color="003dA5">HOD/Economics</font></b><br>
 Ms Lim Shu Fen
 <br><br>	
-<b>Year Head</b><br>
+	<b><font color="003dA5">Year Head</font></b><br>
 Mr Loke Kok Leong<br>
 Mdm Ng Chai Ngoh
 <br><br>	
-<b>Subject Head/Student Well-Being</b><br>
+	<b><font color="003dA5">Subject Head/Student Well-Being</font></b><br>
 Ms Chong Jia Wei Serene
 <br><br>	
-<b>Subject Head/Economics</b><br>
+	<b><font color="003dA5">Subject Head/Economics</font></b><br>
 Mr Low Hwan Liang Lenon
 <br><br>	
-<b>Senior Teacher/Economics</b><br>
+	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
 Mdm Lim Pow Choo
 <br><br>	
-<b>Teachers</b><br>	
+	<b><font color="003dA5">Teachers</font></b><br>	
 Ms Adeline Lee Mei Pin<br>
 Ms Cheng Siew Peng Jasmine<br>
 Mr Foong Chongxiang<br>
