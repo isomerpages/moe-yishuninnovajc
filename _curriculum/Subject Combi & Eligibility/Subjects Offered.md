@@ -22,10 +22,7 @@ To find out more, click on the respective departments below! We have consolidate
 <label for="accordion1">Economics</label>
 <div>
 <p>
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/41mE23nCzxc" title="Overview of Economics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
-<br><br>	
-View the Economics FAQ sheet here:<a href="/files/economics%20FAQ.pdf">Econs FAQs 2022.pdf</a>	
+View the Economics FAQ sheet here: <a href="/files/economics%20FAQ.pdf">Econs FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -35,13 +32,9 @@ View the Economics FAQ sheet here:<a href="/files/economics%20FAQ.pdf">Econs FAQ
 <label for="accordion2">English Language</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/zeCLoz9sZbI" title="Overview of General Paper @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>	
-<iframe width="800" height="450" src="https://www.youtube.com/embed/_KFmFUVEENU" title="Overview of English Literature @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>	
 You may view the FAQ sheet for General Paper and English Literature here:	<br>
-<a href="/files/enggp.pdf">GP FAQs 2022.pdf</a><br>
-<a href="/files/englit.pdf">Lit FAQs 2022.pdf</a>	
+<a href="/files/enggp.pdf">GP FAQs.pdf</a><br>
+<a href="/files/englit.pdf">Lit FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -51,10 +44,8 @@ You may view the FAQ sheet for General Paper and English Literature here:	<br>
 <label for="accordion3">Humanities</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/3X15zkwUBYg" title="Overview of Humanities @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
+View the Humanities FAQ sheet here: <a href="/files/humanities.pdf">Humanities FAQs.pdf</a>	
 </p>
-<br><br>	
-View the Humanities FAQ sheet here: <a href="/files/humanities.pdf">Humanities FAQs 2022.pdf</a>	
 </div>
 </li>
 	
@@ -63,13 +54,9 @@ View the Humanities FAQ sheet here: <a href="/files/humanities.pdf">Humanities F
 <label for="accordion4">Mathematics</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/XhRZuy_iPqM" title="Overview of Mathematics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>	
-<iframe width="800" height="450" src="https://www.youtube.com/embed/xRvXfSJ9oTc" title="Overview of H2 Computing @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
 You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
-<a href="/files/math.pdf">Maths FAQ 2022.pdf</a><br>
-<a href="/files/computing.pdf">Computing FAQs 2022.pdf</a>	
+<a href="/files/math.pdf">Maths FAQ.pdf</a><br>
+<a href="/files/computing.pdf">Computing FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -79,17 +66,7 @@ You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
 <label for="accordion5">Mother Tongue</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/hRl_qhR4k2E" title="Overview of H2 CLL @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/lGofbamJ1sA" title="Overview of MLL   MLEP @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/gLJSzYPL_UE" title="Overview of TLL @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/mtlfaq.pdf">MTL FAQs 2022.pdf</a>
-<br><br>
-If you are interested in the Malay Language Elective Programme (MELP), watch the video below and let Hakim and Elie tell you more about their experiences!
-<br><br>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/HYkVel6NxS0" title="Malay Language Elective Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
+You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/mtlfaq.pdf">MTL FAQs.pdf</a>
 </p>
 </div>
 </li>
@@ -99,9 +76,7 @@ If you are interested in the Malay Language Elective Programme (MELP), watch the
 <label for="accordion6">Project Work</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/lQzcERnZwfA" title="Overview of Project Work @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-You may view the FAQ sheet for Project Work here: <a href="link">PW FAQs 2022.pdf</a>	
+You may view the FAQ sheet for Project Work here: <a href="link">PW FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -111,13 +86,7 @@ You may view the FAQ sheet for Project Work here: <a href="link">PW FAQs 2022.pd
 <label for="accordion7">Science</label>
 <div>
 <p>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Mg0XIBif0tM" title="Overview of Biology @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/6Yh3J-k1ojY" title="Overview of Chemistry @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/xawOieSCgDc" title="Overview of Physics @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br><br>
-You may view the FAQ sheet for the Sciences here: <a href="/files/scifaq.pdf">Science FAQs 2022.pdf</a>
+You may view the FAQ sheet for the Sciences here: <a href="/files/scifaq.pdf">Science FAQs.pdf</a>
 </p>
 </div>
 </li>
