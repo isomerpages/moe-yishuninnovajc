@@ -15,7 +15,7 @@ Championing what we’ve learnt<br>
 We’ll always endeavour<br>
 To ourselves we will be true<br>
 We’ll aspire, our dreams afire<br>
-Crafting worlds anew
+Crafting worlds anew<br>
 <br>
 We are Yishun Innova<br>
 With passion we ignite<br>
