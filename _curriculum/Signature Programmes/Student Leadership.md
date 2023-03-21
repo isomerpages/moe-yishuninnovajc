@@ -55,4 +55,8 @@ Selected student leaders will embark on a signature Student Leadership Enrichmen
 
 <img src="/images/studentleadership10.jpg" style="width:45%">
 
-2019 Student Leadership Enrichment Programme
+<br clear="left">
+
+|  |  |
+|---|---|
+| 2019 Student Leadership Enrichment Programme |
