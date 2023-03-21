@@ -56,8 +56,6 @@ Selected student leaders will embark on a signature Student Leadership Enrichmen
 <img src="/images/studentleadership10.jpg" style="width:45%">
 
 <br clear="left">
-
-<center>
 	
 |  |  |
 |---|---|
