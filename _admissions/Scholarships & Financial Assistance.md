@@ -45,13 +45,13 @@ Alternatively, you can scan the following QR code to access the form.
 
 <br clear="left">
 
-Submit Hardcopy Application Form if:<br>
+Submit Hardcopy Application Form if student is in :<br>
 a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>
 b. family with more than 5 children in GGAS<br>
 c. family with more than 4 unmarried children not in GGAS<br>
 d. family with more than 3 grandparents in the household
 
-Application form can also be obtained at the school General Office.
+The application form can also be obtained at the school's General Office.
 
 ##### **Note:**
 1\. Parent only need to submit one application form for all your school-going children to one of their schools. The school which receives the application form will inform you of the outcome for all the children.
@@ -62,7 +62,7 @@ Application form can also be obtained at the school General Office.
 
 4\. To ensure a smooth application process, you must have an active GIRO account registered with the school. Otherwise, you may approach General Office for new GIRO account application or changes in GIRO accounts.
 
-5\. Please get ready all softcopy supporting documents to be prepared in advance. An incomplete application form and/or the absence of required or relevant information and documents will result in delay in the processing of application OR application being rejected.
+5\. Please prepare all softcopy supporting documents in advance. An incomplete application form and/or the absence of required or relevant information and documents will result in delay in the processing of application OR application being rejected.
 
 6\. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.
 
