@@ -12,6 +12,8 @@ A dynamic community of future-ready leaders and lifelong learners.
 To nurture leaders and learners who are critical thinkers, effective collaborators and driven by purpose.
 
 #### **Our Values**
+<center>
+	
 ##### **Humanity**
 YIJC believes in the importance of having care, empathy and compassion for others, thereby embracing diversity and contributing actively to the society.
 
@@ -26,3 +28,4 @@ YIJC believes that the ability to remain steadfast amid setbacks, and to adapt q
 
 ##### **Pursuit of Excellence**
 YIJC believes that to excel in our roles, we must put in our best efforts in all that we do, be intrinsically motivated to seek self-improvement, and exercise commitment and grit to achieve excellence.
+</center>
