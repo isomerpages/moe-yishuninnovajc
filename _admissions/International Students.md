@@ -25,7 +25,8 @@ Applicants who have passed the J-PACT test and wish to apply for admission to Yi
 * personal particulars (NRIC/FIN) 
 * parents’ particulars (NRIC/FIN  or passports)
 * J-PACT Result
-* any other relevant documents 
+* any other relevant documents <br>
+
 3\. Email relevant documents to YIJC Admission Executive, Ms Wendy Choh at [yijc@moe.edu.sg](mailto:yijc@moe.edu.sg)<br>
 4\. Application deadline: **09 January 2023**<br>
 5\. Incomplete or applications received after the closing date will not be considered.
