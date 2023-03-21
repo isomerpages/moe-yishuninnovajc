@@ -22,7 +22,7 @@ To find out more, click on the respective departments below! We have consolidate
 <label for="accordion1">Economics</label>
 <div>
 <p>
-View the Economics FAQ sheet here: <a href="/files/subjoff/Economics_FAQ.pdf" target="_new">Econs FAQs.pdf</a>	
+View the Economics FAQ sheet here: <a href="/files/Subjoff/Economics_FAQ.pdf" target="_new">Econs FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -33,8 +33,8 @@ View the Economics FAQ sheet here: <a href="/files/subjoff/Economics_FAQ.pdf" ta
 <div>
 <p>
 You may view the FAQ sheet for General Paper and English Literature here:	<br>
-<a href="/files/subjoff/GP_FAQ.pdf" target="_new">GP FAQs.pdf</a><br>
-<a href="/files/subjoff/ELit_FAQ.pdf" target="_new">Lit FAQs.pdf</a>	
+<a href="/files/Subjoff/GP_FAQ.pdf" target="_new">GP FAQs.pdf</a><br>
+<a href="/files/Subjoff/ELit_FAQ.pdf" target="_new">Lit FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -44,7 +44,7 @@ You may view the FAQ sheet for General Paper and English Literature here:	<br>
 <label for="accordion3">Humanities</label>
 <div>
 <p>
-View the Humanities FAQ sheet here: <a href="/files/subjoff/Humanities_FAQ.pdf" target="_new">Humanities FAQs.pdf</a>	
+View the Humanities FAQ sheet here: <a href="/files/Subjoff/Humanities_FAQ.pdf" target="_new">Humanities FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -55,8 +55,8 @@ View the Humanities FAQ sheet here: <a href="/files/subjoff/Humanities_FAQ.pdf" 
 <div>
 <p>
 You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
-<a href="/files/subjoff/Math_FAQ.pdf" target="_new">Maths FAQ.pdf</a><br>
-<a href="/files/subjoff/Computing_FAQ.pdf" target="_new">Computing FAQs.pdf</a>	
+<a href="/files/Subjoff/Math_FAQ.pdf" target="_new">Maths FAQ.pdf</a><br>
+<a href="/files/Subjoff/Computing_FAQ.pdf" target="_new">Computing FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -66,7 +66,7 @@ You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
 <label for="accordion5">Mother Tongue</label>
 <div>
 <p>
-You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/subjoff/MTL_FAQ.pdf" target="_new">MTL FAQs.pdf</a>
+You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/Subjoff/MTL_FAQ.pdf" target="_new">MTL FAQs.pdf</a>
 </p>
 </div>
 </li>
@@ -76,7 +76,7 @@ You may view the FAQ sheet for Mother Tongue Languages here: <a href="/files/su
 <label for="accordion6">Project Work</label>
 <div>
 <p>
-You may view the FAQ sheet for Project Work here: <a href="/files/subjoff/PW_FAQ.pdf" target="_new">PW FAQs.pdf</a>	
+You may view the FAQ sheet for Project Work here: <a href="/files/Subjoff/PW_FAQ.pdf" target="_new">PW FAQs.pdf</a>	
 </p>
 </div>
 </li>
@@ -86,7 +86,7 @@ You may view the FAQ sheet for Project Work here: <a href="/files/subjoff/PW_FAQ
 <label for="accordion7">Science</label>
 <div>
 <p>
-You may view the FAQ sheet for the Sciences here: <a href="/files/subjoff/Science_FAQ.pdf" target="_new">Science FAQs.pdf</a>
+You may view the FAQ sheet for the Sciences here: <a href="/files/Subjoff/Science_FAQ.pdf" target="_new">Science FAQs.pdf</a>
 </p>
 </div>
 </li>
