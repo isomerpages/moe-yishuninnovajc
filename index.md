@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/banner3_1.jpg
+      background: /images/Homepage/banner4_1.jpg
       key_highlights:
         - title: Announcement
           description: 2022 A Level Results Release
