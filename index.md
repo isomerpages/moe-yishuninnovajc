@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/Homepage/banner4_1.jpg
       key_highlights:
-        - title: Announcement
-          description: 2022 A Level Results Release
+        - title: ANNOUNCEMENT
+          description: ""
           url: /news/01/
   - infobar:
       title: Yishun Innova Junior College
