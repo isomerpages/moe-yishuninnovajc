@@ -12,9 +12,6 @@ sections:
         - title: ANNOUNCEMENT
           description: ""
           url: /news/01/
-        - title: CONTACT US
-          description: ""
-          url: /about-us/contact-us/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
