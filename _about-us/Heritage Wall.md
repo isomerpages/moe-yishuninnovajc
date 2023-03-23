@@ -18,10 +18,10 @@ description: ""
 	</tr>
   <tr>
 		<td>
-			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College 3</a>
+			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College 4</a>
 		</td>
 		<td>
-			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College 3</a>
+			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College 4</a>
 		</td>
 	</tr>
 </table>
