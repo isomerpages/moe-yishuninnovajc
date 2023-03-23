@@ -16,7 +16,7 @@ description: ""
 			<a href="/about-us/heritage-wall/innova-jc/"><img style="width:80%" src="/images/heritagewall2.jpg"></a>
 		</td>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td>
 			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College</a>
 		</td>
