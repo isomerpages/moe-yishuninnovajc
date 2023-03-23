@@ -8,6 +8,14 @@ description: ""
 <center><b>YIJC HERITAGE</b></center>
 
 <table>
+		<tr>
+		<td>
+			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College</a>
+		</td>
+		<td>
+			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College</a>
+		</td>
+	</tr>
 	<tr>
 		<td>
 			<a href="/about-us/heritage-wall/yishun-jc/"><img style="width:80%" src="/images/heritagewall1.jpg"></a>
@@ -15,13 +23,5 @@ description: ""
 		<td>
 			<a href="/about-us/heritage-wall/innova-jc/"><img style="width:80%" src="/images/heritagewall2.jpg"></a>
 		</td>
-	</tr>
-  <tr>
-		<td align="center">
-			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College</a>
-		</td>
-		<td align="center">
-			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College</a>
-		</td>
-	</tr>
+	</tr>	
 </table>
