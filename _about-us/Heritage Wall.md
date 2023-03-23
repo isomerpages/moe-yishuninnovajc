@@ -17,11 +17,11 @@ description: ""
 		</td>
 	</tr>
   <tr>
-		<td>
-			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College 4</a>
+		<td align="center">
+			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College</a>
 		</td>
-		<td>
-			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College 4</a>
+		<td align="center">
+			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College</a>
 		</td>
 	</tr>
 </table>
