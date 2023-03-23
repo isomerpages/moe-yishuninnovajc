@@ -3,35 +3,28 @@ title: Table View
 permalink: /news/02/
 description: ""
 ---
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:none;border-width:0px;font-family:inherit;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:none;border-width:0px;font-family:inherit;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c6q4{font-family:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <tbody>
   <tr>
-    <td class="tg-c6q4">1</td>
-    <td class="tg-c6q4">2</td>
-    <td class="tg-c6q4">3</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td class="tg-c6q4">4</td>
-    <td class="tg-c6q4">5</td>
-    <td class="tg-c6q4">6</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
-    <td class="tg-c6q4">7</td>
-    <td class="tg-c6q4">8</td>
-    <td class="tg-c6q4">9</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
-    <td class="tg-c6q4">10</td>
-    <td class="tg-c6q4">11</td>
-    <td class="tg-c6q4">12</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
   </tr>
 </tbody>
 </table>
+
