@@ -16,9 +16,9 @@ sections:
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
-      description: <iframe width="800" height="450"
+      description: <p align="center"><iframe width="800" height="450"
         src="https://www.youtube.com/embed/GNoojU-pzeg" title="2022 YIJC
         Corporate Video" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" allowfullscreen></iframe>
+        web-share" allowfullscreen></iframe></p>
 ---
