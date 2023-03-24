@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/banner4_1.jpg
       dropdown:
-        title: Experience @ Yijc
+        title: Experience @ YIJC
         options:
           - title: CCA
             url: /culture/cca/
