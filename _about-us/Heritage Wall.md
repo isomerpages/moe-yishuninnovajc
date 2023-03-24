@@ -16,11 +16,11 @@ description: ""
 			<a href="/about-us/heritage-wall/innova-jc/"><img style="width:80%" src="/images/heritagewall2.jpg"></a>
 		</td>
 	</tr>
-	<tr align="center">
-		<td>
+	<tr>
+		<td style= "text-align: center;">
 			<a href="/about-us/heritage-wall/yishun-jc/">Yishun Junior College</a>
 		</td>
-		<td>
+		<td style= "text-align: center;">
 			<a href="/about-us/heritage-wall/innova-jc/">Innova Junior College</a>
 		</td>
 	</tr>	
