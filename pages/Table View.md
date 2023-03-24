@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 <tbody>
-  <tr align="center">
+  <tr>
     <td style= "text-align: center;">1</td>
     <td style= "text-align: center;">2</td>
     <td style= "text-align: center;">3</td>
