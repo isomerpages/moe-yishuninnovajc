@@ -6,9 +6,9 @@ description: ""
 <table>
 <tbody>
   <tr align="center">
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <td style= "text-align: center;">1</td>
+    <td style= "text-align: center;">2</td>
+    <td style= "text-align: center;">3</td>
   </tr>
   <tr>
     <td>4</td>
