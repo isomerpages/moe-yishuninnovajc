@@ -8,10 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner4_1.jpg
-      key_highlights:
-        - title: ANNOUNCEMENT
-          description: ""
-          url: /news/01/
+      dropdown:
+        title: Experience @ Yijc
+        options:
+          - title: CCA
+            url: /culture/cca/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
