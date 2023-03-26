@@ -5,9 +5,9 @@ description: ""
 ---
 ### **Heritage Wall**<br>**Innova JC**
 
-<p><a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/"><img src="/images/innovajc1.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="/about-us/heritage-wall/innova-jc/the-teachers/"><img src="/images/innovajc2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/"><img src="/images/innovajc3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/"><img src="/images/innovajc1.jpg" style="width:30%;"></a></p>
+<p><a href="/about-us/heritage-wall/innova-jc/the-teachers/"><img src="/images/innovajc2.jpg" style="width:30%;"></a></p>
+<p><a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/"><img src="/images/innovajc3.jpg" style="width:30%;"></a></p>
 
 <br clear="left">
 
@@ -43,3 +43,55 @@ description: ""
 |  |  |
 |:---:|:---:|
 | [Community Outreach](/about-us/heritage-wall/innova-jc/community-outreach/) | [SchoolLeadership](/about-us/heritage-wall/innova-jc/school-leadership/) |
+
+
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/"><img src="/images/innovajc1.jpg"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-teachers/"><img src="/images/innovajc2.jpg"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/"><img src="/images/innovajc3.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/">The Innovian Spirit</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/about-us/heritage-wall/innova-jc/the-teachers/">The Teachers</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/">Exploring Learning Beyond the Classroom</a>
+		</td>
+	</tr>
+</table>
+	
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/"><img src="/images/innovajc1.jpg"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-teachers/"><img src="/images/innovajc2.jpg"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/"><img src="/images/innovajc3.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/">The Innovian Spirit</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/about-us/heritage-wall/innova-jc/the-teachers/">The Teachers</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/">Exploring Learning Beyond the Classroom</a>
+		</td>
+	</tr>
+</table>
+
