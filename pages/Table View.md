@@ -3,16 +3,16 @@ title: Table View
 permalink: /news/02/
 description: ""
 ---
-<table style= "text-align: center;">
-  <tr>
+<table>
+  <tr style= "text-align: center;">
     <td>1</td>
     <td>2</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
+    <td style= "text-align: center;">4</td>
+    <td style= "text-align: center;">5</td>
+    <td style= "text-align: center;">6</td>
   </tr>
   <tr>
     <td>7</td>
