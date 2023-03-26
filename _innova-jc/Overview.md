@@ -4,7 +4,6 @@ permalink: /about-us/heritage-wall/innova-jc/
 description: ""
 ---
 ### **Heritage Wall**<br>**Innova JC**
-<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
