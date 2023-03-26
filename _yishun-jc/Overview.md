@@ -4,7 +4,7 @@ permalink: /about-us/heritage-wall/yishun-jc/
 description: ""
 ---
 ### **Heritage Wall**<br>**Yishun JC**
-
+<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -29,7 +29,7 @@ description: ""
 		</td>
 	</tr>
 </table>
-	
+<br clear="left" />	
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -54,7 +54,7 @@ description: ""
 		</td>
 	</tr>
 </table>
-
+<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -79,7 +79,7 @@ description: ""
 		</td>
 	</tr>
 </table>
-
+<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
