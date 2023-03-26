@@ -86,7 +86,7 @@ description: ""
 			<a href="/about-us/heritage-wall/innova-jc/community-outreach/"><img style="width:70%" src="/images/innovajc10.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-				<a href="/about-us/heritage-wall/innova-jc/sports-programmes/"><img style="width:70%" src="/images/innovajc11.jpg"></a>
+				<a href="/about-us/heritage-wall/innova-jc/school-leadership/"><img style="width:70%" src="/images/innovajc11.jpg"></a>
 		</td>
     <td style= "text-align: center;">
 		</td>
