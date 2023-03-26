@@ -28,7 +28,6 @@ description: ""
 		</td>
 	</tr>
 </table>
-<br clear="left" />	
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -53,7 +52,6 @@ description: ""
 		</td>
 	</tr>
 </table>
-<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -78,7 +76,6 @@ description: ""
 		</td>
 	</tr>
 </table>
-<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
