@@ -17,4 +17,5 @@ Our passionate ECG Counsellor, Vina provides individual counselling or group gui
 [Click here](https://sites.google.com/yijc.edu.sg/ecgyijc/feedback?authuser=0)
 
 #### **Events**
-**school requires own Google Calendar**
+
+<iframe scrolling="no" frameborder="0" height="768" width="1024" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=eWlqY19lY2dAbW9lLmVkdS5zZw&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;color=%230B8043](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=eWlqY19lY2dAbW9lLmVkdS5zZw&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;color=%230B8043)"></iframe>
