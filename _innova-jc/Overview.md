@@ -73,25 +73,24 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/"><img src="/images/innovajc1.jpg"></a>
+			<a href="/about-us/heritage-wall/innova-jc/student-leadership/"><img src="/images/innovajc4.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/innova-jc/the-teachers/"><img src="/images/innovajc2.jpg"></a>
+			<a href="/about-us/heritage-wall/innova-jc/digital-literacies/"><img src="/images/innovajc5.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/"><img src="/images/innovajc3.jpg"></a>
+			<a href="/about-us/heritage-wall/innova-jc/college-facilities/"><img src="/images/innovajc6.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/innova-jc/the-innovian-spirit/">The Innovian Spirit</a>
+			<a href="/about-us/heritage-wall/innova-jc/student-leadership/">Student Leadership</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/about-us/heritage-wall/innova-jc/the-teachers/">The Teachers</a>
+			<a href="/about-us/heritage-wall/innova-jc/digital-literacies/">The Teachers</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/innova-jc/exploring-learning-beyond-the-classroom/">Exploring Learning Beyond the Classroom</a>
+			<a href="/about-us/heritage-wall/innova-jc/college-facilities/">College Facilities</a>
 		</td>
 	</tr>
 </table>
-
