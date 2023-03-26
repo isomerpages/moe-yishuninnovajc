@@ -4,7 +4,6 @@ permalink: /news/02/
 description: ""
 ---
 <table style= "text-align: center;">
-<tbody>
   <tr>
     <td>1</td>
     <td>2</td>
@@ -25,5 +24,4 @@ description: ""
     <td>11</td>
     <td>12</td>
   </tr>
-</tbody>
 </table>
