@@ -37,7 +37,7 @@ third_nav_title: Signature Programmes
 			<a href="/curriculum/signature-programmes/talent-development-programme/"><img src="/images/signatureprogramme4.jpg" style="width:220px; height:160px;"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/education-and-career-guidance/"><img src="/images/signatureprogramme5.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/education-and-career-guidance/"><img src="/images/ecg1.jpg" style="width:220px; height:160px;"></a>
 		</td>
     <td style= "text-align: center;">
 			<a href="/curriculum/signature-programmes/digital-literacies/"><img src="/images/signatureprogramme6.jpg" style="width:220px; height:160px;"></a>
