@@ -119,3 +119,26 @@ description: ""
 		</td>
 	</tr>
 </table>
+
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/community-outreach/"><img style="width:70%" src="/images/innovajc10.jpg"></a>
+		</td>
+		<td style= "text-align: center;">
+				<a href="/about-us/heritage-wall/innova-jc/sports-programmes/"><img style="width:70%" src="/images/innovajc11.jpg"></a>
+		</td>
+    <td style= "text-align: center;">
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/about-us/heritage-wall/innova-jc/community-outreach/">Community Outreach</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/about-us/heritage-wall/innova-jc/school-leadership/">School Leadership</a>
+</td>
+    <td style= "text-align: center;">
+		</td>
+	</tr>
+</table>
