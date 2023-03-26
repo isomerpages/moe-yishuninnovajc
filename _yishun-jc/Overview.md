@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-us/heritage-wall/yishun-jc/
 description: ""
 ---
-### **Heritage Wall**<br>**Yishun JC**
+### **Heritage Wall**<br><br>**Yishun JC**
 <table>
 	<tr>
     <td style= "text-align: center;">
