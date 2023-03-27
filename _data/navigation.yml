@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Homepage/logo-brand.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Admissions
+    collection: admissions
+  - title: Culture
+    collection: culture
+  - title: Curriculum
+    url: /curriculum/YIJC-prospectus-2023/
+    sublinks:
+      - title: YIJC Prospectus 2023
+        url: /curriculum/YIJC-prospectus-2023/
+      - title: Subject Combinations
+        url: /curriculum/subject-combinations/
+      - title: Signature Programmes
+        url: /curriculum/signature-programmes/
+      - title: Character & Citizenship
+        url: /curriculum/cce/ecg/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /about-us/contact-us/

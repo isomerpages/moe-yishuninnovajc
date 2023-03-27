@@ -1,0 +1,34 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Culture and Aesthetic Club.md
+      - Performing Arts/Chorale.md
+      - Performing Arts/Dance.md
+      - Performing Arts/English Language Drama and Debate Society (ELDDS).md
+      - Performing Arts/Musicians' Club.md
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/.keep
+      - Clubs & Societies/Art & Guitar Club.md
+      - Clubs & Societies/Class Leaders' Council.md
+      - Clubs & Societies/Interact Club.md
+      - Clubs & Societies/Library Council and Strategy Club.md
+      - Clubs & Societies/Makers' Academy.md
+      - Clubs & Societies/Outdoor Adventure Club.md
+      - Clubs & Societies/Students' Council.md
+      - Clubs & Societies/.keep
+      - Sports & Games/Air Weapons.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Modular Sports.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Tenpin Bowling.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Track & Field.md
+      - Sports & Games/Ultimate Frisbee.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/.keep
