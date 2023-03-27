@@ -111,36 +111,36 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/dance/"><img src="/images/CCA/cca11.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/library-council-and-strategy-club/"><img src="/images/CCA/cca11.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/eldds/"><img src="/images/CCA/cca12.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/musicians-club/"><img src="/images/CCA/cca13.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/dance/">Library Council & Strategy Club</a>
+			<a href="/culture/cca/clubs-and-societies/library-council-and-strategy-club/">Library Council & Strategy Club</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/clubs-and-societies/eldds/">Makers' Academy</a>
+			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/musicians-club/">Outdoor Adventure Club</a>
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/symphonic-band/"><img style="width:30%" src="/images/CCA/cca14.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/students-council/"><img style="width:30%" src="/images/CCA/cca14.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/symphonic-band/">Students' Council</a>
+			<a href="/culture/cca/clubs-and-societies/students-council/">Students' Council</a>
 		</td>
 	</tr>
 </table>
