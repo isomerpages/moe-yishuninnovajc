@@ -4,9 +4,7 @@ permalink: /curriculum/cce/ecg/current-students/
 description: ""
 third_nav_title: Education & Career Guidance
 ---
-
-
-### **Current Student**
+### **Current Students**
 #### **ECG Counselling**
 Our passionate ECG Counsellor, Vina provides individual counselling or group guidance to help our students make sense of the world of work and explore possible career options.
 
