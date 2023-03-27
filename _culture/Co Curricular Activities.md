@@ -29,10 +29,11 @@ description: ""
 | <a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" align = "center"></a> |               |               |
 
 <br clear="left" />	
+
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/resilience-building-programme/"><img src="/images/CCA/cca1.jpg"></a>
+			<a href="/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
 			<a href="/culture/cca/performing-arts/malay-language-elective-programme/"><img src="/images/CCA/cca2.jpg"></a>
@@ -43,13 +44,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/resilience-building-programme/">Resilience-Building Programme</a>
+			<a href="/culture/cca/performing-arts/chinese-orchestra/">Chinese Orchestra</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/performing-arts/malay-language-elective-programme/">Malay Language Elective Programme</a>
+			<a href="/culture/cca/performing-arts/malay-language-elective-programme/">Culture & Aesthetic Club</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/student-leadership/">Student Leadership</a>
+			<a href="/culture/cca/performing-arts/student-leadership/">Chorale</a>
 		</td>
 	</tr>
 </table>
@@ -67,13 +68,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/talent-development-programme/">Talent Development Programme</a>
+			<a href="/culture/cca/performing-arts/talent-development-programme/">Dance</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/performing-arts/education-and-career-guidance/">Education & Career Guidance</a>
+			<a href="/culture/cca/performing-arts/education-and-career-guidance/">English Language Drama & Debate Society</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/digital-literacies/">Digital Literacies</a>
+			<a href="/culture/cca/performing-arts/digital-literacies/">Musicians' Club</a>
 		</td>
 	</tr>
 </table>
@@ -85,7 +86,7 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/">Internationalisation & Cross Cultural Programme</a>
+			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/">Symphonic Band</a>
 		</td>
 	</tr>
 </table>
