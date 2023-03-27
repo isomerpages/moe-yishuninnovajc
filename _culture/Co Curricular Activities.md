@@ -27,3 +27,65 @@ description: ""
 | <a href="/culture/cca/sports-and-games/modular-sports/"><img src="/images/CCA/cca21.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg" align = "center"></a> |
 | <a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg" align = "center"></a> |
 | <a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" align = "center"></a> |               |               |
+
+<br clear="left" />	
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/resilience-building-programme/"><img src="/images/CCA/cca1.jpg" style="width:280px; height:210px;"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/malay-language-elective-programme/"><img src="/images/CCA/cca2.jpg" style="width:280px; height:210px;"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/student-leadership/"><img src="/images/CCA/cca3.jpg" style="width:280px; height:210px;"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/resilience-building-programme/">Resilience-Building Programme</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/culture/cca/performing-arts/malay-language-elective-programme/">Malay Language Elective Programme</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/student-leadership/">Student Leadership</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/talent-development-programme/"><img src="/images/CCA/cca4.jpg" style="width:280px; height:210px;"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/education-and-career-guidance/"><img src="/images/CCA/cca1.jpg" style="width:280px; height:210px;"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/digital-literacies/"><img src="/images/CCA/cca6.jpg" style="width:280px; height:210px;"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/talent-development-programme/">Talent Development Programme</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/culture/cca/performing-arts/education-and-career-guidance/">Education & Career Guidance</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/digital-literacies/">Digital Literacies</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/"><img src="/images/CCA/cca7.jpg" style="width:280px; height:210px;"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/">Internationalisation & Cross Cultural Programme</a>
+		</td>
+	</tr>
+</table>
