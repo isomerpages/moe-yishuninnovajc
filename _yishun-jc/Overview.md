@@ -66,7 +66,7 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/about-us/heritage-wall/yishun-jc/the-arts/">The Art</a>
+			<a href="/about-us/heritage-wall/yishun-jc/the-arts/">The Arts</a>
 </td>
 		<td style= "text-align: center;">			
 			<a href="/about-us/heritage-wall/yishun-jc/co-curricular-programme/">The Co-Curricular Programme</a>
