@@ -152,13 +152,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/art-and-guitar/club/">Art & Guitar Club</a>
+			<a href="/culture/cca/sports-and-games/art-and-guitar/club/">Air Weapons</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/class-leaders-council/">Class Leaders' Council</a>
+			<a href="/culture/cca/sports-and-games/class-leaders-council/">Badminton</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/interact-club/">Interact Club</a>
+			<a href="/culture/cca/sports-and-games/interact-club/">Basketball</a>
 		</td>
 	</tr>
 </table>
@@ -176,13 +176,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Library Council & Strategy Club</a>
+			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Floorball</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Makers' Academy</a>
+			<a href="/culture/cca/sports-and-games/makers-academy/">Football</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Outdoor Adventure Club</a>
+			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Netball</a>
 		</td>
 	</tr>
 </table>
@@ -200,13 +200,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Library Council & Strategy Club</a>
+			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Modular Sports</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Makers' Academy</a>
+			<a href="/culture/cca/sports-and-games/makers-academy/">Table Tennis</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Outdoor Adventure Club</a>
+			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Tenpin Bowling</a>
 		</td>
 	</tr>
 </table>
@@ -224,13 +224,13 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Library Council & Strategy Club</a>
+			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Tennis</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Makers' Academy</a>
+			<a href="/culture/cca/sports-and-games/makers-academy/">Track & Field</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Outdoor Adventure Club</a>
+			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Ultimate Frisbee</a>
 		</td>
 	</tr>
 </table>
@@ -242,8 +242,7 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/students-council/">Students' Council</a>
+			<a href="/culture/cca/sports-and-games/students-council/">Volleyball</a>
 		</td>
 	</tr>
 </table>
-
