@@ -82,5 +82,4 @@ description: ""
 | <a href="/culture/cca/sports-and-games/modular-sports/"><img src="/images/CCA/cca21.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg" align = "center"></a> |
 | <a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg" align = "center"></a> |
 | <a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" align = "center"></a> |               |               |
-<br clear="left" />	
-
+<br clear="left" />
