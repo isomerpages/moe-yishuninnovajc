@@ -4,8 +4,6 @@ permalink: /curriculum/subject-combi-and-eligibility/subject-eligibility-criteri
 description: ""
 third_nav_title: Subject Combinations
 ---
-
-
 ### **Subject Eligibility Criteria**
 #### **Subjects with pre-requisites or selection test**
 ![](/images/subjectcriteria1.png)
@@ -18,7 +16,7 @@ Note: Passing the selection tests are set requirements that students must fulfil
 Refer to the SEAB Syllabus document for the assumed knowledge for O-Level subjects. [https://www.seab.gov.sg/](https://www.seab.gov.sg/)
 
 Note:<br>
-If a subject or subject combination is **oversubscribed**, students will be selected based on **academic merit**.<br>(see section on Merit Based Allocation)
+If a subject or subject combination is **oversubscribed**, students will be selected based on **academic merit**.<br>(Please see section on Merit Based Allocation)
 
 #### **Merit Based Allocation**
 If a subject or subject combination is oversubscribed, students will be selected **based on academic merit**, including performance in the relevant subject and L1R5 (excluding bonus points). Thus, the College may not be able to offer a subject to all the students who opted for it.
