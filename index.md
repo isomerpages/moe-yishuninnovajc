@@ -9,10 +9,14 @@ sections:
   - hero:
       background: /images/Homepage/banner9.jpg
       dropdown:
-        title: Experience @ YIJC
+        title: The YIJC Experience
         options:
-          - title: CCA
-            url: /culture/cca/
+          - title: Signature Programmes
+            url: /curriculum/signature-programmes/
+          - title: Co-curricular Activities
+            url: /culture/cca
+          - title: Education & Career Guidance
+            url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
       title: Yishun Innova Junior College
