@@ -84,7 +84,7 @@ Ms Yun Xiuling Stella
 	<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
 Ms Woon Peng Steffi
 <br><br>	
-	<b><font color="003dA5">Subject Head/Comm &amp; Partnership</font></b><br>
+	<b><font color="003dA5">Subject Head/Communications &amp; Partnerships</font></b><br>
 Ms Somasundaram Divya
 <br><br>	
 	<b><font color="003dA5">Senior Teacher/Character &amp; Citizenship Education</font></b><br>
