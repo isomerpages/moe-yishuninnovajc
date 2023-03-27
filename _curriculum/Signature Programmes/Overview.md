@@ -5,17 +5,16 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 ### **Signature Programmes**
-<br clear="left" />	
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/resilience-building-programme/"><img src="/images/signatureprogrammec1a.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/resilience-building-programme/"><img src="/images/Signature/sig1.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/malay-language-elective-programme/"><img src="/images/signatureprogramme2.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/malay-language-elective-programme/"><img src="/images/Signature/sig2.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/student-leadership/"><img src="/images/signatureprogramme3.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/student-leadership/"><img src="/images/Signature/sig3.jpg"></a>
 		</td>
 	</tr>
 		<tr>
@@ -33,13 +32,13 @@ third_nav_title: Signature Programmes
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/talent-development-programme/"><img src="/images/signatureprogramme4.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/talent-development-programme/"><img src="/images/Signature/sig4.jpg" ></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/education-and-career-guidance/"><img src="/images/ecg1.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/education-and-career-guidance/"><img src="/images/Signature/sig5.jpg" ></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/digital-literacies/"><img src="/images/signatureprogramme6.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/digital-literacies/"><img src="/images/Signature/sig6.jpg" ></a>
 		</td>
 	</tr>
 		<tr>
@@ -57,7 +56,7 @@ third_nav_title: Signature Programmes
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/curriculum/signature-programmes/internationalisation-and-cross-cultural-programme/"><img src="/images/signatureprogramme7.jpg" style="width:220px; height:160px;"></a>
+			<a href="/curriculum/signature-programmes/internationalisation-and-cross-cultural-programme/"><img src="/images/Signature/sig7.jpg" style="width:30%"></a>
 		</td>
 	</tr>
 		<tr>
