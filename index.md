@@ -13,6 +13,8 @@ sections:
         options:
           - title: CCA
             url: /culture/cca/
+      title: Yishun Innova Junior College
+      subtitle: Aude Exaurare
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
