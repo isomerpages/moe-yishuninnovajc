@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Education & Career Guidance/Education & Career Guidance.md
-      - Education & Career Guidance/Current Student.md
+      - Education & Career Guidance/Current Students.md
       - Education & Career Guidance/Alumni.md
       - Education & Career Guidance/Overseas University Applications.md
       - Education & Career Guidance/.keep
