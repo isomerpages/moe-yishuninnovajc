@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/banner8.jpg
+      background: /images/Homepage/banner9.jpg
       dropdown:
         title: Experience @ YIJC
         options:
