@@ -141,108 +141,108 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/art-and-guitar/club/"><img src="/images/CCA/cca15.jpg"></a>
+			<a href="/culture/cca/sports-and-games/air-weapons"><img src="/images/CCA/cca15.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/class-leaders-council/"><img src="/images/CCA/cca16.jpg"></a>
+			<a href="/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/interact-club/"><img src="/images/CCA/cca17.jpg" ></a>
+			<a href="/culture/cca/sports-and-games/basketball/"><img src="/images/CCA/cca17.jpg" ></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/art-and-guitar/club/">Air Weapons</a>
+			<a href="/culture/cca/sports-and-games/air-weapons">Air Weapons</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/class-leaders-council/">Badminton</a>
+			<a href="/culture/cca/sports-and-games/badminton/">Badminton</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/interact-club/">Basketball</a>
+			<a href="/culture/cca/sports-and-games/basketball/">Basketball</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/"><img src="/images/CCA/cca18.jpg"></a>
+			<a href="/culture/cca/sports-and-games/floorball/"><img src="/images/CCA/cca18.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/makers-academy/"><img src="/images/CCA/cca19.jpg"></a>
+			<a href="/culture/cca/sports-and-games/football/"><img src="/images/CCA/cca19.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/"><img src="/images/CCA/cca20.jpg"></a>
+			<a href="/culture/cca/sports-and-games/netball/"><img src="/images/CCA/cca20.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Floorball</a>
+			<a href="/culture/cca/sports-and-games/floorball/">Floorball</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Football</a>
+			<a href="/culture/cca/sports-and-games/football/">Football</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Netball</a>
+			<a href="/culture/cca/sports-and-games/netball/">Netball</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/"><img src="/images/CCA/cca21.jpg"></a>
+			<a href="/culture/cca/sports-and-games/modular-sports/"><img src="/images/CCA/cca21.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/makers-academy/"><img src="/images/CCA/cca22.jpg"></a>
+			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/"><img src="/images/CCA/cca23.jpg"></a>
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Modular Sports</a>
+			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Table Tennis</a>
+			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Tenpin Bowling</a>
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/"><img src="/images/CCA/cca24.jpg"></a>
+			<a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/makers-academy/"><img src="/images/CCA/cca25.jpg"></a>
+			<a href="/culture/cca/sports-and-games/track-and-field"><img src="/images/CCA/cca25.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/"><img src="/images/CCA/cca26.jpg"></a>
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/library-council-and-strategy-club/">Tennis</a>
+			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/sports-and-games/makers-academy/">Track & Field</a>
+			<a href="/culture/cca/sports-and-games/track-and-field/">Track & Field</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/outdoor-adventure-club/">Ultimate Frisbee</a>
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
 		</td>
 	</tr>
 </table>
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/students-council/"><img style="width:30%" src="/images/CCA/cca27.jpg"></a>
+			<a href="/culture/cca/sports-and-games/volleyball/"><img style="width:30%" src="/images/CCA/cca27.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/sports-and-games/students-council/">Volleyball</a>
+			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
 		</td>
 	</tr>
 </table>
