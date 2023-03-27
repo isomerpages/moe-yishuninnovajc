@@ -32,13 +32,13 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/resilience-building-programme/"><img src="/images/CCA/cca1.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/resilience-building-programme/"><img src="/images/CCA/cca1.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/malay-language-elective-programme/"><img src="/images/CCA/cca2.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/malay-language-elective-programme/"><img src="/images/CCA/cca2.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/student-leadership/"><img src="/images/CCA/cca3.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/student-leadership/"><img src="/images/CCA/cca3.jpg" ></a>
 		</td>
 	</tr>
 		<tr>
@@ -56,13 +56,13 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/talent-development-programme/"><img src="/images/CCA/cca4.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/talent-development-programme/"><img src="/images/CCA/cca4.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/education-and-career-guidance/"><img src="/images/CCA/cca1.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/education-and-career-guidance/"><img src="/images/CCA/cca1.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/digital-literacies/"><img src="/images/CCA/cca6.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/digital-literacies/"><img src="/images/CCA/cca6.jpg"></a>
 		</td>
 	</tr>
 		<tr>
@@ -80,7 +80,7 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/"><img src="/images/CCA/cca7.jpg" style="width:280px; height:210px;"></a>
+			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/"><img src="/images/CCA/cca7.jpg" style="width: 90%;"></a>
 		</td>
 	</tr>
 		<tr>
