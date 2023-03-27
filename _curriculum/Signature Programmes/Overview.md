@@ -30,7 +30,6 @@ third_nav_title: Signature Programmes
 		</td>
 	</tr>
 </table>
-<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
@@ -55,7 +54,6 @@ third_nav_title: Signature Programmes
 		</td>
 	</tr>
 </table>
-<br clear="left" />
 <table>
 	<tr>
     <td style= "text-align: center;">
