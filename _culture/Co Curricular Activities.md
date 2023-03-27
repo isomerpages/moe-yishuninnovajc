@@ -87,24 +87,24 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/art-and-guitar/"><img src="/images/CCA/cca8.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/CCA/cca8.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/culture-and-aesthetic-club/"><img src="/images/CCA/cca9.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg"></a>
 		</td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/chorale/"><img src="/images/CCA/cca10.jpg" ></a>
+			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg" ></a>
 		</td>
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/art-and-guitar/">Art & Guitar Club</a>
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/club/">Art & Guitar Club</a>
 </td>
 		<td style= "text-align: center;">			
-			<a href="/culture/cca/clubs-and-societies/Class Leaders' Council/">Culture & Aesthetic Club</a>
+			<a href="/culture/cca/clubs-and-societies/class-leaders-council/">Class Leaders' Council</a>
 </td>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/chorale/">Interact Club</a>
+			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
 		</td>
 	</tr>
 </table>
