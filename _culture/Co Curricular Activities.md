@@ -87,7 +87,7 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/chinese-orchestra/"><img src="/images/CCA/cca8.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/"><img src="/images/CCA/cca8.jpg"></a>
 		</td>
 		<td style= "text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/culture-and-aesthetic-club/"><img src="/images/CCA/cca9.jpg"></a>
@@ -98,7 +98,7 @@ description: ""
 	</tr>
 		<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/chinese-orchestra/">Art & Guitar Club</a>
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/">Art & Guitar Club</a>
 </td>
 		<td style= "text-align: center;">			
 			<a href="/culture/cca/clubs-and-societies/Class Leaders' Council/">Culture & Aesthetic Club</a>
