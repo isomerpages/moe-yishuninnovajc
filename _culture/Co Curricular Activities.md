@@ -83,3 +83,64 @@ description: ""
 | <a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg" align = "center"></a> | <a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg" align = "center"></a> |
 | <a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" align = "center"></a> |               |               |
 <br clear="left" />
+
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/chinese-orchestra/"><img src="/images/CCA/cca8.jpg"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/culture-and-aesthetic-club/"><img src="/images/CCA/cca9.jpg"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/chorale/"><img src="/images/CCA/cca10.jpg" ></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/chinese-orchestra/">Art & Guitar Club</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/culture/cca/clubs-and-societies/Class Leaders' Council/">Culture & Aesthetic Club</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/chorale/">Interact Club</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/dance/"><img src="/images/CCA/cca11.jpg"></a>
+		</td>
+		<td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/eldds/"><img src="/images/CCA/cca12.jpg"></a>
+		</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/musicians-club/"><img src="/images/CCA/cca13.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/dance/">Library Council & Strategy Club</a>
+</td>
+		<td style= "text-align: center;">			
+			<a href="/culture/cca/clubs-and-societies/eldds/">Makers' Academy</a>
+</td>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/musicians-club/">Outdoor Adventure Club</a>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/symphonic-band/"><img style="width:30%" src="/images/CCA/cca14.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style= "text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/symphonic-band/">Students' Council</a>
+		</td>
+	</tr>
+</table>
