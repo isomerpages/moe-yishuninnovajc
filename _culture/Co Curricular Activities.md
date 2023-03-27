@@ -81,7 +81,7 @@ description: ""
 <table>
 	<tr>
     <td style= "text-align: center;">
-			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/"><img src="/images/CCA/cca7.jpg" style="width: 90%;"></a>
+			<a href="/culture/cca/performing-arts/internationalisation-and-cross-cultural-programme/"><img style="width:80%" src="/images/CCA/cca7.jpg"></a>
 		</td>
 	</tr>
 		<tr>
