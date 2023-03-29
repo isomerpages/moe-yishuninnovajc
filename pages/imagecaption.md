@@ -21,19 +21,26 @@ Adopting a structured leadership developmental approach of Assignments-Relations
 #### **Key Student Leadership Platforms**
 Student leaders are provided first-hand experience at planning, implementing, evaluating, and reviewing key College events. Student leaders from the Students’ Council, Class Leaders Council, and different CCA groups collaborate to organise student-led College events and strive to generate a strong and positive College spirit within the YIJC community.
 
-<img src="/images/studentleadership4.jpg" style="width:40%">
-<figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figcaption>
-
+<img src="/images/studentleadership4.jpg" style="width:40%" alt="studentleadership4">
+<figure>
+  <figcaption>
+    Helming the 2021 Student Leaders’ Investiture
+  </figcaption>
 <br>
-
-<img src="/images/studentleadership5.jpg" style="width:40%">
-<figure><figcaption>Orientation Group Leaders planning the 2021 Orientation and welcoming the JC1</figcaption>
-
+  <img src="/images/studentleadership5.jpg" style="width:40%" alt="studentleadership5">
+  <figure>
+    <figcaption>
+      Orientation Group Leaders planning the 2021 Orientation and welcoming the JC1
+    </figcaption>
 <br>
-
-<img src="/images/studentleadership6.jpg" style="width:40%">
-<figure><figcaption>Hosting the livestream for the 2021 Teachers’ Day Celebrations</figcaption>
-
+    <img src="/images/studentleadership6.jpg" style="width:40%" alt="studentleadership6">
+    <figure>
+      <figcaption>
+        Hosting the livestream for the 2021 Teachers’ Day Celebrations
+      </figcaption>
+    </figure>
+  </figure>
+</figure>
 
 
 Students are also given opportunities to take the lead in Academic and Character & Citizenship Education (CCE) Councils to support the joy of learning. In these positions, they spearhead student-led learning experiences for their peers. 
@@ -44,7 +51,6 @@ Students are also given the autonomy to form Interest Groups with like-minded pe
 Selected student leaders will embark on a signature Student Leadership Enrichment Programme which is conducted either overseas or locally to provide a platform for students to enhance their awareness of the global landscape and hone their leadership and cross-cultural skills. This programme allows students to better appreciate the interconnectedness between the leadership domains of Intellectual Capacity, Teamwork, and Drive within an organisational context, and to apply their learning through a leadership assignment.
 
 <img src="/images/studentleadership7.jpg" style="width:40%;margin-left:55px;" align = "left">
-
 <img src="/images/studentleadership8.jpg" style="width:40%;margin-right:85px;" align = "right">
 
 <br clear="left">
@@ -55,4 +61,3 @@ Selected student leaders will embark on a signature Student Leadership Enrichmen
 <figure><figcaption>2019 Student Leadership Enrichment Programm</figcaption>
 
 <br clear="left">
-	
