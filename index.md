@@ -19,7 +19,7 @@ sections:
             url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
-      title: Yishun Innova Junior College
+      title: Yishun Innova Junior College1
       subtitle: Welcome to
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
