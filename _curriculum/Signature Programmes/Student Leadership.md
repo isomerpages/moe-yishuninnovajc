@@ -15,29 +15,34 @@ Adopting a structured leadership developmental approach of Assignments-Relations
 <img src="/images/studentleadership2.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/studentleadership3.jpg" style="width:30%;margin-right:15px;" align="left">
 
-<br clear="left">
+<br clear="left"> 
 
 <center>2021 Students’ Council Camp: Building competencies through collaboration and camaraderie</center>
 
 #### **Key Student Leadership Platforms**
 Student leaders are provided first-hand experience at planning, implementing, evaluating, and reviewing key College events. Student leaders from the Students’ Council, Class Leaders Council, and different CCA groups collaborate to organise student-led College events and strive to generate a strong and positive College spirit within the YIJC community.
 
-<img src="/images/studentleadership4.jpg" style="width:40%;margin-left:55px;" align="left">
-<img src="/images/studentleadership5.jpg" style="width:40%;margin-right:55px;" align="right">
+<img src="/images/studentleadership4.jpg" style="width:40%" alt="studentleadership4">
+<figure>
+  <figcaption>
+    Helming the 2021 Student Leaders’ Investiture
+  </figcaption>
+<br>
+  <img src="/images/studentleadership5.jpg" style="width:40%" alt="studentleadership5">
+  <figure>
+    <figcaption>
+      Orientation Group Leaders planning the 2021 Orientation and welcoming the JC1
+    </figcaption>
+<br>
+    <img src="/images/studentleadership6.jpg" style="width:40%" alt="studentleadership6">
+    <figure>
+      <figcaption>
+        Hosting the livestream for the 2021 Teachers’ Day Celebrations
+      </figcaption>
+    </figure>
+  </figure>
+</figure>
 
-<br clear="left"><br clear="left">
-
-|  |  |
-|---|---|
-| Helming the 2021 Student Leaders’ Investiture | Orientation Group Leaders planning the 2021 Orientation and welcoming the JC1s |
-
-<img src="/images/studentleadership6.jpg" style="width:40%;margin-left:55px;" align="left">
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| Hosting the livestream for the 2021 Teachers’ Day Celebrations| |
 
 Students are also given opportunities to take the lead in Academic and Character &amp; Citizenship Education (CCE) Councils to support the joy of learning. In these positions, they spearhead student-led learning experiences for their peers. 
 
@@ -54,7 +59,6 @@ Selected student leaders will embark on a signature Student Leadership Enrichmen
 <img src="/images/studentleadership9.jpg" style="width:80%">
 
 <img src="/images/studentleadership10.jpg" style="width:45%">
-	
-|  |  |
-|---|---|
-| 2019 Student Leadership Enrichment Programme |
+<figure><figcaption>2019 Student Leadership Enrichment Programm</figcaption>
+
+<br clear="left"></figure>
