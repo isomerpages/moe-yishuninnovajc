@@ -12,7 +12,7 @@ Successful DSA-JC students are&nbsp;**NOT**&nbsp;allowed to participate in the J
 #### **DSA Categories**
 Students may apply to YIJC through the following DSA talent areas:
 
-<img src="/images/DSA/table1.png" style="width:85%" align="left">
+<img src="/images/DSA/table1.png" style="width:100%" align="left">
 
 <br clear="left">
 
