@@ -11,10 +11,10 @@ Our passionate ECG Counsellor, Vina provides individual counselling or group gui
 [Click here](https://sites.google.com/yijc.edu.sg/ecgyijc/exploration/ecg-counselling?authuser=0)
 
 #### **Overseas University Applications**
-[Click here](https://staging.dy8spnni5p31k.amplifyapp.com/curriculum/cce/ecg/overseas-uni-applications/)
+[Click here](https://yijc.moe.edu.sg/curriculum/cce/ecg/overseas-uni-applications/)
 
 #### **Feedback**
-[Click here](https://sites.google.com/yijc.edu.sg/ecgyijc/feedback?authuser=0)
+[Click here](https://sites.google.com/moe.edu.sg/ecgyijc/feedback?authuser=0)
 
 #### **Events**
 
