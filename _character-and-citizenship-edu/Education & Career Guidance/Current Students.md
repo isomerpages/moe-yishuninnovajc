@@ -8,7 +8,7 @@ third_nav_title: Education & Career Guidance
 #### **ECG Counselling**
 Our passionate ECG Counsellor, Vina provides individual counselling or group guidance to help our students make sense of the world of work and explore possible career options.
 
-[Click here](https://sites.google.com/yijc.edu.sg/ecgyijc/exploration/ecg-counselling?authuser=0)
+[Click here](https://sites.google.com/moe.edu.sg/ecgyijc/exploration/ecg-counselling?authuser=0)
 
 #### **Overseas University Applications**
 [Click here](https://yijc.moe.edu.sg/curriculum/cce/ecg/overseas-uni-applications/)
