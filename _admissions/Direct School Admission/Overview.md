@@ -102,7 +102,7 @@ All applications should be accompanied by an e-portfolio consisting of the follo
 * Awards / certificates from relevant competitions and events.
 * Related courses that you have completed.
 
-Successful applicants will&nbsp;**honour their commitment in either the Interactive Making or Design (iMAD) or App Development Unit (ADU)**&nbsp;of YIJC’s Makers' Academy CCA. Students can expect a rewarding experience where they would be&nbsp;**trained in specialised coding, digital making and innovation skills**&nbsp;that are increasingly valued in the future workplace. They will also work on various innovation-related projects that will help them build a&nbsp;**strong portfolio**&nbsp;for relevant fields in the worlds of further education and work.
+Successful applicants will honour their commitment in either the Interactive Making or Design (iMAD) or Artifical Intelligence Development Unit (ADU) of YIJC’s Makers' Academy CCA. Students can expect a rewarding experience where they would be trained in specialised coding, AI, digital making and innovation skills that are increasingly valued in the future workplace. They will also work on various innovation-related projects that will help them build a strong portfolio for relevant fields in the worlds of further education and work.
 
 **Science Research Programme**<br>
 The Science Research Programme further supports students’ holistic development through a breadth of enrichment activities and depth of scientific research. Students who join us will have multiple opportunities to challenge and prove themselves throughout their two years in college.
