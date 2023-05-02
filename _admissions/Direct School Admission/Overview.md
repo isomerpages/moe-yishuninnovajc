@@ -21,8 +21,8 @@ Students may apply to YIJC through the following DSA talent areas:
 Candidates should satisfy one or more of the following:
 
 * Selected in National / Youth/ Singapore Schools OR
-* Achievement / Participation in the Zonal Inter-school ‘B’ Division Team Championships OR
-* Achievement / Participation in the National school ‘B’ Division Team Championships OR
+* Achievement in the Zonal Inter-school ‘B’ Division Team Championships OR
+* Achievement in the National school ‘B’ Division Team Championships OR
 * Outstanding individual performance in sports.
 
 Successful applicants will honour the commitment in the relevant CCA.
