@@ -21,8 +21,8 @@ Students may apply to YIJC through the following DSA talent areas:
 Candidates should satisfy one or more of the following:
 
 * Selected in National / Youth/ Singapore Schools OR
-* Achievement / Participation in the Zonal Inter-school ‘B’ Division Team Championships OR
-* Achievement / Participation in the National school ‘B’ Division Team Championships OR
+* Achievement in the Zonal Inter-school ‘B’ Division Team Championships OR
+* Achievement in the National school ‘B’ Division Team Championships OR
 * Outstanding individual performance in sports.
 
 Successful applicants will honour the commitment in the relevant CCA.
@@ -91,17 +91,18 @@ Successful applicants will honour the commitment in the English Debate CCA.
 
 ##### **(VI) Science, Technology, Engineering and Mathematics**
 **Digital Literacies Programme**<br>
-YIJC is committed to developing&nbsp;**future-ready students by inculcating Digital Literacies**&nbsp;in three distinct domains -&nbsp;**Digital innovation, citizenship and productivity**. Through this, students will possess an understanding of&nbsp;**Digital Anthropology**, which can be seen as the&nbsp;**impact of technology on human societies**&nbsp;and the challenges and opportunities that abound as a result.
+YIJC is committed to developing future-ready students by inculcating Digital Literacies in three distinct domains - Digital innovation, citizenship and productivity. Through this, students will possess an understanding of Digital Anthropology, which can be seen as the impact of technology on human societies and the challenges and opportunities that abound as a result.
 
-We welcome&nbsp;**students who have passion and experience in coding and digital making**&nbsp;to apply via&nbsp;**DSA for Digital Literacies**. While this is especially relevant to students c**onsidering higher education fields in computing and design**, it also develops project management and leadership skills that are relevant to other fields in the future workplace.
+
+We welcome students who have passion and experience in coding and digital making to apply via DSA for Digital Literacies. While this is especially relevant to students considering higher education fields in computing, AI, infocomm technologies and UI/UX design, it also develops project management and leadership skills that are relevant to other fields in the future workplace.
 
 All applications should be accompanied by an e-portfolio consisting of the following where possible:
-* **An essay**&nbsp;of not more than 300 words explaining your passion, experiences and abilities in Coding, Digital Making, App Design etc&nbsp;
-* **Personal portfolio**&nbsp;comprising related projects in areas such as robotics, Arduino, Micro:bit (or other microcontrollers), programming, coding, app development etc.
-* **Awards / certificates**&nbsp;from relevant competitions and events&nbsp;
-* **Related courses**&nbsp;that you have completed
+* An essay of not more than 300 words explaining your passion, experiences and abilities in Coding, Digital Making, App Design, AI development etc.
+* Personal portfolio comprising related projects in areas such as robotics, Arduino, Micro:bit (or other microcontrollers), programming, coding, app development, AI etc.
+* Awards / certificates from relevant competitions and events.
+* Related courses that you have completed.
 
-Successful applicants will&nbsp;**honour their commitment in either the Interactive Making or Design (iMAD) or App Development Unit (ADU)**&nbsp;of YIJC’s Makers' Academy CCA. Students can expect a rewarding experience where they would be&nbsp;**trained in specialised coding, digital making and innovation skills**&nbsp;that are increasingly valued in the future workplace. They will also work on various innovation-related projects that will help them build a&nbsp;**strong portfolio**&nbsp;for relevant fields in the worlds of further education and work.
+Successful applicants will honour their commitment in either the Interactive Making or Design (iMAD) or Artifical Intelligence Development Unit (ADU) of YIJC’s Makers' Academy CCA. Students can expect a rewarding experience where they would be trained in specialised coding, AI, digital making and innovation skills that are increasingly valued in the future workplace. They will also work on various innovation-related projects that will help them build a strong portfolio for relevant fields in the worlds of further education and work.
 
 **Science Research Programme**<br>
 The Science Research Programme further supports students’ holistic development through a breadth of enrichment activities and depth of scientific research. Students who join us will have multiple opportunities to challenge and prove themselves throughout their two years in college.
