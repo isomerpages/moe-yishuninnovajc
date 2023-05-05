@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 ### **Application Process**
-1\. Complete the DSA online application form. Click&nbsp;[here](https://go.gov.sg/yijc-dsa)&nbsp;for the form.
+1\. Complete the DSA online application form. Click&nbsp;[here](https://form.gov.sg/6441fd2c19d7c80013d48757)&nbsp;for the form.
 
 2\. Soft copies of the following documents should be submitted together in a single zipped file:
 
