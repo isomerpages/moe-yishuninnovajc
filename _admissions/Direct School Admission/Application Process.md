@@ -15,5 +15,7 @@ third_nav_title: Direct School Admission
 
 3\. Applicants must submit their applications:<br>
 **\-&nbsp; &nbsp;Phase 1 by 5pm, 26 June 2023**<br>
+**\-&nbsp; &nbsp;Phase 2 by 5pm, 14 Aug 2023**<br>
+
 
 Late applications will not be considered.
