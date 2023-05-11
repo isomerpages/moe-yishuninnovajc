@@ -2,4 +2,4 @@ collections:
   contact-us:
     output: true
     order:
-      - YIJC.md
+      - Contact YIJC.md
