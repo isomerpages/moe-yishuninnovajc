@@ -12,9 +12,17 @@ description: ""
 <div>
 <p>
 	<b><font color="003dA5">Principal</font></b><br>
-<img style="width:40%" src="/images/School Leaders/principal.jpg">
-Mr Michael de Silva
-<br><br>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+		<img style="width:30%" src="/images/School Leaders/principal.jpg">
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">Mr Michael de Silva
+		</td>
+	</tr>
+</tbody></table>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
 Mrs Lee Hui Xin<br>
 Mr Lim Kah Leong Marc<br>
