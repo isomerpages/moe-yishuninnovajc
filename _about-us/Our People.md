@@ -31,11 +31,11 @@ description: ""
 		<td style="text-align: center;">
 		<img style="width:70%" src="/images/School Leaders/vice principal1.jpg">		</td>
     <td style="text-align: center;">
-		<img style="width:60%" src="/images/School Leaders/vice principala.jpg">		</td>
+		<img style="width:52%" src="/images/School Leaders/vice principala.jpg">		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
-Mrs Lee Hui Xin1</td>
+Mrs Lee Hui Xin</td>
 <td style="text-align: center;">			
 Mr Lim Kah Leong Marc</td>
 <td style="text-align: center;">
