@@ -12,12 +12,36 @@ description: ""
 <div>
 <p>
 	<b><font color="003dA5">Principal</font></b><br>
-Mr Michael de Silva
-<br><br>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+		<img style="width:20%" src="/images/School Leaders/principal.jpg">
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">Mr Michael de Silva
+		</td>
+	</tr>
+</tbody></table>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
-Mrs Lee Hui Xin<br>
-Mr Lim Kah Leong Marc<br>
-Ms Tan Swee Eng Jennifer (Administration)
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+		<img style="width:75%" src="/images/School Leaders/vice principal2.jpg">		</td>
+		<td style="text-align: center;">
+		<img style="width:70%" src="/images/School Leaders/vice principal1.jpg">		</td>
+    <td style="text-align: left;">
+		<img style="width:52%" src="/images/School Leaders/vice principala.jpg">		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+Mrs Lee Hui Xin</td>
+<td style="text-align: center;">			
+Mr Lim Kah Leong Marc</td>
+<td style="text-align: center;">
+Ms Tan Swee Eng <br>Jennifer (Administration)</td>
+	</tr>
+</tbody></table>
 </p>
 </div>
 </li>
@@ -334,7 +358,7 @@ Mdm New Bee Hoon Janet
 	<b><font color="003dA5">Allied Educator</font></b><br>
 Mr Muhammad Hafiz Bin Hamzah
 <br><br>
-	<b><font color="003dA5">Education & Career Guidance Counsellor</font></b><br>
+	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Vina Sim
 <br><br>
 	<b><font color="003dA5">MSO</font></b><br>
