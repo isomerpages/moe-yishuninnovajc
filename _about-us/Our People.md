@@ -30,7 +30,7 @@ description: ""
 		<img style="width:75%" src="/images/School Leaders/vice principal2.jpg">		</td>
 		<td style="text-align: center;">
 		<img style="width:70%" src="/images/School Leaders/vice principal1.jpg">		</td>
-    <td style="text-align: center;">
+    <td style="text-align: left;">
 		<img style="width:52%" src="/images/School Leaders/vice principala.jpg">		</td>
 	</tr>
 		<tr>
@@ -38,7 +38,7 @@ description: ""
 Mrs Lee Hui Xin</td>
 <td style="text-align: center;">			
 Mr Lim Kah Leong Marc</td>
-<td style="text-align: center;">
+<td style="text-align: left;">
 Ms Tan Swee Eng <br>Jennifer (Administration)</td>
 	</tr>
 </tbody></table>
