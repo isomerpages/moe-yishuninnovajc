@@ -24,9 +24,24 @@ description: ""
 	</tr>
 </tbody></table>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
-Mrs Lee Hui Xin<br>
-Mr Lim Kah Leong Marc<br>
-Ms Tan Swee Eng Jennifer (Administration)
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+		<img style="width:30%" src="/images/School Leaders/vice principal2.jpg">		</td>
+		<td style="text-align: center;">
+		<img style="width:30%" src="/images/School Leaders/vice principal1.jpg">		</td>
+    <td style="text-align: center;">
+		<img style="width:30%" src="/images/School Leaders/vice principala.jpg">		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+Mrs Lee Hui Xin</td>
+<td style="text-align: center;">			
+Mr Lim Kah Leong Marc</td>
+<td style="text-align: center;">
+Ms Tan Swee Eng Jennifer</td>
+	</tr>
+</tbody></table>
 </p>
 </div>
 </li>
