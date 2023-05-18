@@ -1,7 +1,7 @@
 logo: /images/Homepage/logo-brand.png
 links:
-  - title: Aboutus
-    collection: aboutus
+  - title: About Us
+    collection: about-us
   - title: Admissions
     collection: admissions
   - title: Culture
