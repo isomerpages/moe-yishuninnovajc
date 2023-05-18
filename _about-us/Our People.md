@@ -31,7 +31,7 @@ description: ""
 		<td style="text-align: center;">
 		<img style="width:70%" src="/images/School Leaders/vice principal1.jpg">		</td>
     <td style="text-align: center;">
-		<img style="width:63%" src="/images/School Leaders/vice principala.jpg">		</td>
+		<img style="width:64%" src="/images/School Leaders/vice principala.jpg">		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
