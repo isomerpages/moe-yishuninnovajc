@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principal-msg/
+permalink: /about-us/principal-message/
 description: ""
 ---
 Welcome to Yishun Innova Junior College (YIJC), where we empower students to thrive as future-ready leaders and lifelong learners.
