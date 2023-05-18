@@ -38,7 +38,7 @@ description: ""
 Mrs Lee Hui Xin</td>
 <td style="text-align: center;">			
 Mr Lim Kah Leong Marc</td>
-<td style="text-align: left;">
+<td style="text-align: center;">
 Ms Tan Swee Eng <br>Jennifer (Administration)</td>
 	</tr>
 </tbody></table>
