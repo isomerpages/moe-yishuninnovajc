@@ -12,6 +12,8 @@ description: ""
 <div>
 <p>
 	<b><font color="003dA5">Principal</font></b><br>
+<img width="10%" src="/images/School Leaders/principal.jpg">
+<br>
 Mr Michael de Silva
 <br><br>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
@@ -334,7 +336,7 @@ Mdm New Bee Hoon Janet
 	<b><font color="003dA5">Allied Educator</font></b><br>
 Mr Muhammad Hafiz Bin Hamzah
 <br><br>
-	<b><font color="003dA5">Education & Career Guidance Counsellor</font></b><br>
+	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Vina Sim
 <br><br>
 	<b><font color="003dA5">MSO</font></b><br>
