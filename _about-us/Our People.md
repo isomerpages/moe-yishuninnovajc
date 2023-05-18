@@ -12,8 +12,7 @@ description: ""
 <div>
 <p>
 	<b><font color="003dA5">Principal</font></b><br>
-<img width="10%" src="/images/School Leaders/principal.jpg">
-<br>
+<img style="width:40%" src="/images/School Leaders/principal.jpg">
 Mr Michael de Silva
 <br><br>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
