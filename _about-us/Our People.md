@@ -27,11 +27,11 @@ description: ""
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-		<img style="width:100%" src="/images/School Leaders/vice principal2.jpg">		</td>
+		<img style="width:33%" src="/images/School Leaders/vice principal2.jpg">		</td>
 		<td style="text-align: center;">
-		<img style="width:100%" src="/images/School Leaders/vice principal1.jpg">		</td>
+		<img style="width:33%" src="/images/School Leaders/vice principal1.jpg">		</td>
     <td style="text-align: center;">
-		<img style="width:100%" src="/images/School Leaders/vice principala.jpg">		</td>
+		<img style="width:33%" src="/images/School Leaders/vice principala.jpg">		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
