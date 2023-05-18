@@ -15,7 +15,7 @@ description: ""
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-		<img style="width:30%" src="/images/School Leaders/principal.jpg">
+		<img style="width:10%" src="/images/School Leaders/principal.jpg">
 		</td>
 	</tr>
 		<tr>
