@@ -19,6 +19,10 @@ sections:
             url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
+      title: Announcement
+      description: College will be closed on 3 Jul 2023 for EAS Staff Learning Day.
+      button: Button Text
+  - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
       description: '<div style="text-align: center;"><iframe width="560" height="315"
