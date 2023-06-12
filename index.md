@@ -19,6 +19,12 @@ sections:
             url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
+      title: Youth Day
+      description: Mon 3 Jul 2023 is a scheduled school holiday for Youth Day. The
+        college will be closed for Staff Learning Day for our Executive and
+        Administrative (EAS) staff.
+      subtitle: announcement
+  - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
       description: '<div style="text-align: center;"><iframe width="560" height="315"
