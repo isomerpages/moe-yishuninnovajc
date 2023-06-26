@@ -97,8 +97,7 @@ Mdm Chitrakala d/o G Arumugam<br>
 Ms Ng Wee Li
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>
-Ms Lyana Khairunnisa Binte Masodi<br>
-Ms Natasha St Clare Alvar
+Ms Amitra Ilangovan<br>
 <br><br>
 <b>General Paper</b><br>
 	<b><font color="003dA5">Subject Head/General Paper</font></b><br>
@@ -144,6 +143,9 @@ Mrs Renee Low
 	<b><font color="003dA5">Subject Head/Student Leadership</font></b><br>
 	Ms Chew Jia Li Joscelin
 <br><br>
+	<b><font color="003dA5">Assistant Year Head</font></b><br>
+	Ms Jane Tan Hui Fen
+<br><br>
 <b>Geography</b><br>
 	<b><font color="003dA5">Subject Head/Geography</font></b><br>
 Mdm Poh Huay Woon<br>
@@ -186,13 +188,13 @@ Mdm Lee Koon Ha
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mdm Chan Puay San<br>
-Mr Chang Meng Pat<br>
 Ms Chew Hui Teng<br>
 Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Joshua Kim Kwan<br>
 Mr Lam Chien Kwok Roger<br>
 Mr Lee Wen Rong<br>
+Mr Lim Chee Mun<br>
 Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
@@ -222,7 +224,7 @@ Ms Yeo Ai Koon
 Mdm A Mallika<br>
 Mdm Erdiah Binte Samad<br>
 Mdm Li Hua<br>
-Mdm Li Nan<br>
+Ms Li Zhu<br>
 Mr Mohd Said Bin Saleh<br>
 Mdm Selvey Manickam<br>
 Mr Tay Yong Sng<br>
@@ -309,20 +311,20 @@ Mr Steven Wong Meng Wai
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
+Mdm Ang Lay Poh Sarah<br>
 Mr Chng Kok Poh Andy<br>
-Ms Hong Wan Mei<br>
 Mr Lim Cheng Xiang<br>
 Ms Loh Yi Lin Eileen<br>
 Ms Seah Sim Yee<br>
 Ms Sim Shin Ying<br>
-Ms Tan Kai Ying<br>
 Ms Vivian Lim Li Hui<br>
 Mdm Wong Huiping Valerie<br>
 Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
 	<b><font color="003dA5">Subject Head/Physics</font></b><br>
-Mr Tan Hao Kai
+Mr Tan Hao Kai<br>
+Mr Tay Jian Hao Jeremy
 <br><br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
 Mr Ong Chee Wah
@@ -343,6 +345,7 @@ Mr Wong Yih Chong
 <div>
 <p>
 	<b><font color="003dA5">Admin Managers</font></b><br>
+Mdm Koh Chwee Ngoh<br>
 Ms Lee Yin Mong Yvonne
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
@@ -361,11 +364,17 @@ Mr Muhammad Hafiz Bin Hamzah
 	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Vina Sim
 <br><br>
+	<b><font color="003dA5">School Counsellor</font></b><br>
+Ms Wong Soo Ping Mandy
+<br><br>
 	<b><font color="003dA5">MSO</font></b><br>
+Mdm Norlizah Bte Isa<br>
 Ms Yeo Yee Ling Sandra
 <br><br>
 	<b><font color="003dA5">TSO</font></b><br>
+Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
+Mr Muhammad Asri Bin Abdul Rahman<br>
 Mdm Suhailah Binte Satoo<br>
 Mr Zainuddin Bin Awaluddin
 <br><br>
