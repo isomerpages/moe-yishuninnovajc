@@ -4,6 +4,7 @@ permalink: /contact-us/echa/
 description: ""
 ---
 ##### **MOE EDUSAVE CHARACTER AWARD**
+
 The MOE Edusave Character Award (ECHA), recognises Singaporean students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. 
 MOE ECHA recipients at Pre-U Level will each receive a certificate and an award voucher of **S$500**.
 
