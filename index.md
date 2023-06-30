@@ -25,17 +25,17 @@ sections:
         Administrative (EAS) staff.
       subtitle: announcement
   - infobar:
+      title: MOE Edusave Character Award (ECHA)
+      subtitle: ANNOUNCEMENT
+      description: ECHA recognises Singaporean students who demonstrate exemplary
+        character and outstanding personal qualities through their behaviour and
+        actions.
+      button: View More
+      url: test
+  - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
-  - infobar:
-      title: MOE Edusave Character Award (ECHA)
-      subtitle: ANNOUNCEMENT
-      description: "ECHA recognises Singaporean students who demonstrate exemplary
-        character and outstanding personal qualities through their behaviour and
-        actions. "
-      button: View More
-      url: test
 ---
