@@ -12,9 +12,9 @@ MOE ECHA recipients at Pre-U Level will each receive a certificate and an award 
 * Who can nominate: **Staff, Students (Peer or Self), Parents, Public**
 (*Student’s self-nomination should be supported by a peer endorsement*)
 * Period of nomination: **5 July 2023, 1200 hrs to 26 July 2023, 1800 hrs**
-* **Staff, Parents, Public, Peer Nomination:** https://go.gov.sg/2023echa
+* **Staff, Parents, Public, Peer Nomination:** [https://go.gov.sg/2023echa](https://go.gov.sg/2023echa)
 * **Student Self-Nomination:**
-https://go.gov.sg/2023echa-self
+[https://go.gov.sg/2023echa-self](https://go.gov.sg/2023echa-self)
 
 ##### **ELIGIBILITY CRITERIA**
 * **Singapore citizens**
