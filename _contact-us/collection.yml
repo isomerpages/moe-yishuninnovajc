@@ -2,6 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - MOE Edusave Character Award.md
       - Contact Us.md
       - Canteen Vendor.md
+      - MOE Edusave Character Award.md
