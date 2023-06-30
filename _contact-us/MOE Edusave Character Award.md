@@ -4,12 +4,10 @@ permalink: /contact-us/echa/
 description: ""
 ---
 ##### **MOE EDUSAVE CHARACTER AWARD**
-
 The MOE Edusave Character Award (ECHA), recognises Singaporean students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. 
 MOE ECHA recipients at Pre-U Level will each receive a certificate and an award voucher of **S$500**.
 
 ##### **NOMINATION OF YIJC STUDENTS FOR 2023 MOE ECHA**
-
 * Who can nominate: **Staff, Students (Peer or Self), Parents, Public**
 (*Student’s self-nomination should be supported by a peer endorsement*)
 * Period of nomination: **5 July 2023, 1200 hrs to 26 July 2023, 1800 hrs**
