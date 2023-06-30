@@ -25,7 +25,7 @@ sections:
         character and outstanding personal qualities through their behaviour and
         actions.
       button: View More
-      url: test
+      url: /contact-us/echa/
   - infobar:
       title: Youth Day
       description: Mon 3 Jul 2023 is a scheduled school holiday for Youth Day. The
