@@ -25,3 +25,9 @@ https://go.gov.sg/2023echa-self
 		* Demonstrate perseverance in the face of difficult circumstances, and/or
 		* Demonstrate the College Values of **Clarity, Agility and Pursuit of Excellence** when facing difficulties/challenges in carrying out his/her responsibilities
 
+##### **SELECTION CRITERIA**
+* Consistency and Initiative shown in values and actions
+* Extent (scope and depth) of impact of actions
+* Substantiation of relevant examples for the values demonstrated and the actions shown. Examples quoted should be from
+	* **JC1 students : 1 Nov 2022 to 30 Sep 2023**
+	* **JC2 students : 1 Oct 2022 to 30 Sep 2023**
