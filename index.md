@@ -19,12 +19,6 @@ sections:
             url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
-      title: Youth Day
-      description: Mon 3 Jul 2023 is a scheduled school holiday for Youth Day. The
-        college will be closed for Staff Learning Day for our Executive and
-        Administrative staff (EAS).
-      subtitle: announcement
-  - infobar:
       title: MOE Edusave Character Award (ECHA)
       subtitle: ANNOUNCEMENT
       description: ECHA recognises Singaporean students who demonstrate exemplary
@@ -32,6 +26,12 @@ sections:
         actions.
       button: View More
       url: test
+  - infobar:
+      title: Youth Day
+      description: Mon 3 Jul 2023 is a scheduled school holiday for Youth Day. The
+        college will be closed for Staff Learning Day for our Executive and
+        Administrative staff (EAS).
+      subtitle: announcement
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
