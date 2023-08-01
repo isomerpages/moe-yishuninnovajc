@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Vegetarian Stall     | 31 July 2023     | Only Chinese Vegetarian    |
+| Chinese Vegetarian Stall     | 31 Aug 2023     | Only Chinese Vegetarian    |
 
 ##### **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s Security Guard House.
