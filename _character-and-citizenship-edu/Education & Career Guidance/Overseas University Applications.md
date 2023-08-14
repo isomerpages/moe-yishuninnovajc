@@ -19,22 +19,22 @@ More resources on overseas education can also be found [here](https://sites.goo
 
 **Timeline**
 
-![](/images/timeline.png)
+![](/images/ECG/timeline.png)
 
 #### **Applying to UK Universities**
 **How do I apply?**
 
-Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2022 onwards.
+Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2023 onwards.
 
 You may find a step-by-step guide to completing the UCAS application [here](https://www.ucas.com/undergraduate/applying-university/filling-your-ucas-undergraduate-application). 
 
-You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2023**
+You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2024**
 
 **Application deadlines**
 
-**15 Oct 2022** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
+**16 Oct 2023** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
 
-**26 Jan 2023** – For the majority of courses in the UK.
+**31 Jan 2024** – For the majority of courses in the UK.
 
 **Admission tests**
 
