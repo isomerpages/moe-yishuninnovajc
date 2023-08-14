@@ -63,7 +63,7 @@ Deadlines vary from university to university, and you will need to check the uni
 
 **Admission tests**
 
-As a result of ongoing COVID-19 restrictions leading to limited testing availability for both SAT and the ACT, universities across the US have made the SAT/ACT optional. Please visit the following [link](https://www.ivywise.com/blog/colleges-going-test-optional/#:~:text=Cornell%20University%20and%20Columbia%20University,the%202021%2D22%20admissions%20cycle.) for more information on the universities that have made the tests optional.
+Please check whether the university requires you to sit for the SAT or the ACT. Some universities across the US have made the SAT/ACT optional. Please visit the following [link](https://www.ivywise.com/blog/colleges-going-test-optional/#:~:text=Cornell%20University%20and%20Columbia%20University,the%202021%2D22%20admissions%20cycle.) for more information on the universities that have made the tests optional.
 
 
 #### **Need more information or personalised help?**
@@ -78,5 +78,3 @@ You can also contact Ms Vina via the Telegram App. Her username is @ECGC\_V
 [The British Council](https://www.britishcouncil.sg/study-uk)
 
 [EducationUSA](https://educationusa.state.gov/)
-
-Follow the links for important information ranging from student visas, scholarships and financial support to COVID-19 policy.
