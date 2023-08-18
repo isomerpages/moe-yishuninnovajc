@@ -19,14 +19,6 @@ sections:
             url: /curriculum/cce/ecg/
       title: Yishun Innova Junior College
   - infobar:
-      title: MOE Edusave Character Award (ECHA)
-      subtitle: ANNOUNCEMENT
-      description: ECHA recognises Singaporean students who demonstrate exemplary
-        character and outstanding personal qualities through their behaviour and
-        actions.
-      button: View More
-      url: /contact-us/echa/
-  - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
       description: '<div style="text-align: center;"><iframe width="560" height="315"
