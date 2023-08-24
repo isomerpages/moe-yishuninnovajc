@@ -239,4 +239,4 @@ description: ""
 	</tr>
 </tbody></table>
 
-*These CCAs (Culture and Aesthetic Club, Guitar Club, Library Council, Air Weapons, Tenpin Bowling) are not available in 2024. 
+*These CCAs (Culture and Aesthetic Club, Guitar Club, Library Council, Air Weapons and Tenpin Bowling) are not available in 2024.*
