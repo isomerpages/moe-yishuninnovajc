@@ -21,4 +21,4 @@ Designed for outstanding students who have excelled academically, H3 subjects ar
 Students must also demonstrate ability and passion for a particular subject and prove that they are able to manage the workload beyond the usual combination of subjects. Students will be recommended to take up H3 subjects based on their outstanding performance in all JC1 tests and examinations. In addition, recommendations by subject tutors on students’ passion and flair for the subject at the H2 level will be taken into consideration.
 
 <br> **H3 Subjects Offered** <br>
-Biology, Molecular Biology (Nanyang Technological University), Chemistry, Economics, Game Theory (Singapore Management University), Geography, History, Literature in English, Mathematics,  Malay Language and Literature, Humanities and Social Science Research (National University of Singapore-Ministry of Education), Physics
+Biology, Chemistry, Economics, Game Theory (Singapore Management University), Geography, History, Literature in English, Mathematics,  Malay Language and Literature, Humanities and Social Science Research (National University of Singapore-Ministry of Education), Physics
