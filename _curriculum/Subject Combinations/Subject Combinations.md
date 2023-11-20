@@ -13,8 +13,8 @@ Students must fulfil the stated subject combination eligibility criteria, subjec
 
 2\) In the event that there is insufficient subscription for a particular subject or subject combination, the college reserves the right not to offer that subject or subject combination.
 
-![](/images/subjeectcombi1.png)
+![](/images/subjectcombi/table1.png)
 
-![](/images/subjeectcombi2.png)
+![](/images/subjectcombi/table2.png)
 
-![](/images/subjeectcombi3.png)
+![](/images/subjectcombi/table3.png)
