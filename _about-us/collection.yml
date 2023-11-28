@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements.md
       - Principal's Message.md
       - About YIJC.md
       - Our College Identity/.keep
@@ -12,4 +11,5 @@ collections:
       - Our College Identity/Our Song.md
       - Our College Identity/Our Crest.md
       - Our People.md
+      - Our Achievements.md
       - Heritage Wall.md
