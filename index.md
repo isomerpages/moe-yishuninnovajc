@@ -25,13 +25,4 @@ sections:
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
-  - infopic:
-      title: This is a test.
-      subtitle: Our Achievements
-      id: infopic
-      description: "Our staff and alumni have achieved so much! "
-      button: Click here to find out more
-      url: test
-      image: /images/CCA/cca27.jpg
-      alt: Image alt text
 ---
