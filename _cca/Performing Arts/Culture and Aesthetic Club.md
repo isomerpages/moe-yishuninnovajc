@@ -15,4 +15,4 @@ The Culture &amp; Aesthetic Club (CAS) is an inter-cultural club that focuses on
 
 In our training sessions,we focus on developing students' leadership and communication skills through various language and literary activities. Our signature programmes are also part of the college's tradition.
 
-Our training session takes place twice a week on Wednesdays and Fridays from 4.30 pm to 6.30 pm.
+Our training sessions take place twice a week on Wednesdays and Fridays from 4.30 pm to 6.30 pm.
