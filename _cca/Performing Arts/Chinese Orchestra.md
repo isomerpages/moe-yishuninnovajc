@@ -3,17 +3,30 @@ title: Chinese Orchestra
 permalink: /culture/cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Chinese Orchestra**
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/ji-P-l_uZME" title="Chinese Orchestra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ji-P-l_uZME" title="Chinese Orchestra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Have you ever seen a Chinese Orchestra performing renowned hits such as Despacito and Havana? YIJC CO is definitely not your typical Orchestra! We play a myriad of songs ranging from upbeat Western chart-toppers to soothing Chinese movie soundtracks like 凉凉 from 三生三世十里桃花 (Eternal Love) and 那些年 from 那些年我们一起追的女孩 (You are the Apple of my Eye).
 
-Our vision is for members to develop a deeper interest and appreciation of Chinese music. Everyone will be given an equal opportunity to perform and be recognised as a leader. More importantly, the CCA also allows members to build confidence through performing and develop a sense of responsibility and resilience when learning something completely foreign to us.
 
-YIJC CO is a close knit community - we are one big family, including conductors and teachers. With a shared vision, we practice hard twice a week, striving to show our best to the audience, just like the famous chinese saying : 台上一分钟，台下十年功 (For one minute of performance on the stage, ten years of hard work is required offstage). Our CCA days and timings are as follow: (1) Every Wednesday 4.30pm to 7.30pm for combined practice and every Friday 5.15pm to 7.30pm for sectionals.
+Welcome to Yishun-Innova Junior College Chinese Orchestra (YIJC CO)! At YIJC CO, we believe that co-curricular activities (CCA) play a vital role in nurturing well-rounded individuals. Our Chinese Orchestra is more than just a CCA; it's a vibrant community of passionate musicians, a platform for self-expression, and an avenue for personal growth. YIJC CO is a dynamic and inclusive CCA that welcomes students from all musical backgrounds. Whether you're a seasoned musician or a beginner, our orchestra offers a supportive and encouraging environment where you can learn and grow. 
 
-A typical CCA session comprises the following: (a) Venue and instrument setup, (b) Warm up, (c) Review of melodies with the Conductor and/or Sectional instructors and (d) Debrief by Conductor / Sectional instructors, Teachers in-charge and/or Student Leaders.
+What Makes YIJC CO Unique?
+1. Passionate Musicians: Our members are united by their love for music. They come from diverse backgrounds and skill levels, creating a rich tapestry of musical talent. 
+2. Expert Guidance: Under the baton of our esteemed conductor, Mr. Low Cher Yong, and dedicated sectional instructors, you will receive top-notch musical training and mentorship. 
+3. Inclusivity: YIJC CO is more than just a CCA; it's a family. We embrace diversity and offer a warm and inclusive atmosphere where everyone can thrive.
+4. Performance Opportunities: From college events to external showcases, our orchestra provides numerous opportunities to showcase your talent and passion for music. 
+5. Values and Skills: Beyond music, we emphasize character development. Through our Values-in-Action (VIA) projects, you will learn about empathy, leadership, and community service. 
+6. Personal Growth: Joining YIJC CO is not just about learning music; it's about growing as an individual, building confidence, and fostering a sense of belonging. 
 
-Our annual highlights include participation in the Singapore Youth Arts Festival as well as Arts Fusion. Arts Fusion is a biennial celebration of the arts held in the college. Members also have the opportunity to perform in school events such as the Lunar New Year Celebrations and College Day. Members also participate in self-initiated Values-in-Action/Advocacy projects to develop the value of humanity - learning how to show care, empathy and compassion for others in the community.
+No. of CCA Sessions per Week: 
+* Every Wednesday and Friday, 4:30 PM to 7:15 PM  
+
+Regular CCA Session Overview: 
+* Wednesday Sessions: - Wednesday sessions are dedicated to combined practice under the guidance of our renowned conductor, Mr. Low Cher Yong. It's a time when the entire orchestra comes together to create beautiful music as one harmonious ensemble. Beyond music, students use this time for discussions related to leadership assignments and Values-in-Action (VIA) projects. 
+
+* Friday Sessions: - Fridays are all about sectional practice, where students receive specialized instruction from our talented sectional instructors. Each section of the orchestra is led by a dedicated tutor:  Mdm. Yan Yu for the pluckstring section; Ms. Janice Chua for the woodwind section; Ms. Guo Suwen for the cello and double bass section and Mr. Low Cher Yong for the Huqin and percussion section - These sessions allow students to refine their skills, technique, and musicality within their specific sections. 
+
+YIJC CO offers a comprehensive CCA experience where students not only hone their musical talents but also build essential life skills, create lasting friendships, and make a difference in the community. Join us on this harmonious journey!
