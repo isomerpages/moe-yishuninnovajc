@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /culture/cca/
 description: ""
+variant: markdown
 ---
 ### **Co-curricular Activities** 
 
