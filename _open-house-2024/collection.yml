@@ -2,6 +2,6 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Academic Subjects Info.md
+      - Academic Subjects.md
       - Programme Outline.md
       - Open House Brochure.md
