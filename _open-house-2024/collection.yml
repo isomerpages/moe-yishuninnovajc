@@ -1,4 +1,5 @@
 collections:
   open-house-2024:
     output: true
-    order: []
+    order:
+      - Programme Outline.md
