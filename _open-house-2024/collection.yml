@@ -2,4 +2,5 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Open House Brochure.md
       - Programme Outline.md
