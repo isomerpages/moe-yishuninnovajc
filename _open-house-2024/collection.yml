@@ -2,6 +2,7 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Overview/.keep
       - Open House 2024/.keep
       - Open House 2024/Programme.md
       - Open House 2024/Brochure.md
