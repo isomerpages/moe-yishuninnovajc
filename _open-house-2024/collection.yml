@@ -2,12 +2,12 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Prospectus 2024.md
+      - Open House 2024/.keep
       - Open House 2024/Programme Outline.md
       - Open House 2024/Open House Brochure.md
-      - Open House 2024/.keep
       - Admissions & Prospectus/.keep
       - Admissions & Prospectus/2024 Prospectus.md
       - Admissions & Prospectus/Post JAE Appeal & Other Info.md
+      - Prospectus 2024.md
       - Academic Subjects/.keep
       - Academic Subjects/Academic Subjects.md
