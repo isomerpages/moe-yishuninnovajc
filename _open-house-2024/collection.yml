@@ -2,10 +2,10 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Open House Brochure.md
       - Admissions & Prospectus/.keep
       - Admissions & Prospectus/2024 Prospectus.md
       - Admissions & Prospectus/Post JAE Appeal & Other Info.md
       - Academic Subjects/.keep
       - Academic Subjects/Academic Subjects.md
-      - Open House Brochure.md
       - Programme Outline.md
