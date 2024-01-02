@@ -2,6 +2,7 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Open House Programme/Programme Outline.md
       - Open House Programme/Open House Programme.md
       - Open House Programme/.keep
       - Admissions & Prospectus/.keep
