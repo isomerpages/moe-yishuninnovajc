@@ -7,17 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Website_Landing_Page_Gif.gif
+      background: /images/2024_Website_Landing_Page.gif
       variant: center
       key_highlights:
         - title: Social Media
           description: Check out our Instagram!
           url: https://www.instagram.com/yishuninnovajc
         - title: Signature Programmes
-          description: What's unique about YIJC?
+          description: Find out more!
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
         - title: Open House 2024
-          description: Open House highlights here!
+          description: Join us!
           url: /open-house-2024
   - infopic:
       title: Open House 2024
