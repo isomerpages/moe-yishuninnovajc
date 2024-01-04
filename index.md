@@ -23,8 +23,8 @@ sections:
       title: Open House 2024
       subtitle: Events
       id: infopic
-      description: We are looking forward to having at our Open House 2024 on 12 Jan,
-        from 10am to 5pm!
+      description: We are looking forward to having you at our Open House 2024 on 12
+        Jan, from 10am to 5pm!
       button: Find out more
       url: /open-house-2024
       image: /images/YIJC_MOTD_Banner_2024.jpg
