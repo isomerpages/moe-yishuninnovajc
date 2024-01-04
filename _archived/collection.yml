@@ -2,5 +2,6 @@ collections:
   archived:
     output: true
     order:
+      - Subject Registration Details.md
       - For Parents.md
       - For Students.md
