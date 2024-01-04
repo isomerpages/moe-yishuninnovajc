@@ -55,16 +55,19 @@ Ms Tan Swee Eng <br>Jennifer (Administration)</td>
 	<b><font color="003dA5">HOD/Economics</font></b><br>
 Ms Lim Shu Fen
 <br><br>	
-	<b><font color="003dA5">Year Head</font></b><br>
+	<b><font color="003dA5">Year Heads</font></b><br>
 Mr Loke Kok Leong<br>
 Mdm Ng Chai Ngoh
 <br><br>	
-	<b><font color="003dA5">HOD/Student Well-Being</font></b><br>
+	<b><font color="003dA5">HOD/Student Management</font></b><br>
 Ms Chong Jia Wei Serene
 <br><br>	
 	<b><font color="003dA5">Subject Head/Economics</font></b><br>
 Mr Low Hwan Liang Lenon
-<br><br>	
+<br><br>
+		<b><font color="003dA5">Subject Head/Information and Communication Technology</font></b><br>
+Mr Yeo Rong Yao Jeremy
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
 Mdm Lim Pow Choo
 <br><br>	
@@ -74,9 +77,9 @@ Ms Cheng Siew Peng Jasmine<br>
 Mr Foong Chongxiang<br>
 Ms Law Winnie<br>
 Ms Lim Wei Qi Samantha<br>
-Ms Moganeswary D/O Sakathevan<br>
-Mr Neo ZhiXian Ben<br>
-Ms Tan Li Yan Joscelyn	
+Mr Neo Zhixian Ben<br>
+Ms Tan Li Yan Joscelyn<br>
+Mr Tan Jit Ann Joshua<br>
 </p>
 </div>
 </li>
@@ -95,7 +98,6 @@ Ms Tan Yin Ping Maxine
 <b>English Literature</b><br>
 	<b><font color="003dA5">Subject Head/English Literature</font></b><br>
 Mdm Chitrakala d/o G Arumugam<br>
-Ms Ng Wee Li
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Amitra Ilangovan
@@ -119,14 +121,13 @@ Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
 Ms Charis Lee Xin-Ning<br>
-Mr Chen De Zhi, Daniel<br>
+Ms Chew Ziying<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mdm Karoline Kamalam Pathrose<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
-Mr Tan Xian Li, Joshua<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
 </div>
@@ -160,7 +161,7 @@ Ms Liew Feng Chuan Karen<br>
 Mr Mohamad Irfan Bin Mohamad Salihin
 <br><br>
 <b>History</b><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+	<b><font color="003dA5">Assistant Year Head</font></b><br>
 Mr Goh Han-Ming Jasper
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
@@ -191,6 +192,7 @@ Mr Jaymond Tan Jia Wen<br>
 Mr Joshua Kim Kwan<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
+Mr Lim Kah Hong<br>
 Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
@@ -277,14 +279,17 @@ Mrs Teo Eng Leong Emily
 <label for="accordion9">Science Department</label>
 <div>
 <p>
-	<b><font color="003dA5">HOD/Science</font></b><br>
-Mdm Goh Sok Sing
+	<b><font color="003dA5">HOD/Science (covering)</font></b><br>
+Mr Tan Hao Kai
 <br><br>
 	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
 Mr Ang Tze Siong Clayton
 <br><br>
-	<b><font color="003dA5">School Staff Developer</font></b><br>
+	<b><font color="003dA5">HOD/Special Projects</font></b><br>
 Mdm Tan Xiao Juan Magdalene
+<br><br>
+	<b><font color="003dA5">School Staff Developer</font></b><br>
+Mdm Goh Sok Sing
 <br><br>
 <b>Biology</b><br>
 	<b><font color="003dA5">Subject Head/Biology</font></b><br>
@@ -298,12 +303,18 @@ Ms Wong Mei Yee
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
 Mrs Lim Sze Cheng
 <br><br>
-	<b><font color="003dA5">Subject Head/Talent Development</font></b><br>
+	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+Mr Choo Chong Yu Gerald
+<br><br>
+	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
 <br><br>
-	<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
+	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
 Mdm Lim Chieh Yeng Jane<br>
-Mr Steven Wong Meng Wai
+<br><br>
+		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
+Mr Steven Wong Meng Wai<br>
+Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
@@ -318,15 +329,15 @@ Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
 	<b><font color="003dA5">Subject Head/Physics</font></b><br>
-Mr Tan Hao Kai<br>
-Mr Tay Jian Hao Jeremy
-<br><br>
+Mr Tay Jian Hao Jeremy<br>
+<br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
 Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Chong Phow Loong<br>
-Mr Lim Wei Jun<br>
+Mr Lim Chee Seng<br>
+	Mr Lim Wei Jun<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
 </p>
