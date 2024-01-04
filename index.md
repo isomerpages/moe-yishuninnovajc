@@ -27,11 +27,11 @@ sections:
         from 10am to 5pm!
       button: Find out more
       url: /open-house-2024
-      image: /images/YIJC_OH_Brochure_2024_D4_Page_01.png
+      image: /images/2024 Images/YIJC_OH_Brochure_2024_D4_Page_01.png
       alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
-      subtitle: Welcome to
+      subtitle: "Rise up to every challenge at "
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
