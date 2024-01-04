@@ -97,9 +97,8 @@ Ms Tan Yin Ping Maxine
 <br><br>	
 <b>English Literature</b><br>
 	<b><font color="003dA5">Subject Head/English Literature</font></b><br>
-Mdm Chitrakala d/o G Arumugam<br>
-<br><br>	
-	<b><font color="003dA5">Teachers</font></b><br>
+Mdm Chitrakala d/o G Arumugam<br><br>
+<b><font color="003dA5">Teacher</font></b><br>
 Ms Amitra Ilangovan
 <br><br>
 <b>General Paper</b><br>
