@@ -18,7 +18,7 @@ sections:
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
         - title: Open House 2024
           description: Join us!
-          url: /open-house-2024
+          url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
   - infopic:
       title: Open House 2024
       subtitle: Events
