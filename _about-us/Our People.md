@@ -302,14 +302,14 @@ Ms Wong Mei Yee
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
 Mrs Lim Sze Cheng
 <br><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
-Mr Choo Chong Yu Gerald
-<br><br>
 	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
 <br><br>
+	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+Mr Choo Chong Yu Gerald
+<br><br>
 	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
-Mdm Lim Chieh Yeng Jane<br>
+Mdm Lim Chieh Yeng Jane
 <br><br>
 		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
 Mr Steven Wong Meng Wai<br>
