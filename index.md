@@ -19,12 +19,6 @@ sections:
         - title: Open House 2024
           description: Open House highlights here!
           url: /openhouse-2024
-  - infobar:
-      title: Yishun Innova Junior College
-      subtitle: Welcome to
-      description: '<div style="text-align: center;"><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe></div>'
   - infopic:
       title: Open House 2024
       subtitle: Events
@@ -35,4 +29,10 @@ sections:
       url: /openhouse-2024
       image: /images/YIJC_OH_Brochure_2024_D4_Page_01.png
       alt: Image alt text
+  - infobar:
+      title: Yishun Innova Junior College
+      subtitle: Welcome to
+      description: '<div style="text-align: center;"><iframe width="560" height="315"
+        src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe></div>'
 ---
