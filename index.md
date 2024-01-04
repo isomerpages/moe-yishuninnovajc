@@ -7,18 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/banner9.jpg
-      dropdown:
-        title: The YIJC Experience
-        options:
-          - title: Signature Programmes
-            url: /curriculum/signature-programmes/
-          - title: Co-curricular Activities
-            url: /culture/cca
-          - title: Education & Career Guidance
-            url: /curriculum/cce/ecg/
-      title: Yishun Innova Junior College
+      background: /images/2024_Website_Landing_Page_Gif.gif
       variant: center
+      key_highlights:
+        - title: Social Media
+          description: Check out our Instagram!
+          url: https://www.instagram.com/yishuninnovajc
+        - title: Signature Programmes
+          description: What's unique about YIJC?
+          url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
+        - title: Open House 2024
+          description: Open House highlights here!
+          url: /openhouse-2024
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Welcome to
