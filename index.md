@@ -18,7 +18,7 @@ sections:
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
         - title: Open House 2024
           description: Open House highlights here!
-          url: /openhouse-2024
+          url: /open-house-2024
   - infopic:
       title: Open House 2024
       subtitle: Events
@@ -26,7 +26,7 @@ sections:
       description: We are looking forward to having at our Open House 2024 on 12 Jan,
         from 10am to 5pm!
       button: Find out more
-      url: /openhouse-2024
+      url: /open-house-2024
       image: /images/YIJC_OH_Brochure_2024_D4_Page_01.png
       alt: Image alt text
   - infobar:
