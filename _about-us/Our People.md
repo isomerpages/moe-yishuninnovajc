@@ -59,7 +59,7 @@ Ms Lim Shu Fen
 Mr Loke Kok Leong<br>
 Mdm Ng Chai Ngoh
 <br><br>	
-	<b><font color="003dA5">Subject Head/Student Well-Being</font></b><br>
+	<b><font color="003dA5">HOD/Student Well-Being</font></b><br>
 Ms Chong Jia Wei Serene
 <br><br>	
 	<b><font color="003dA5">Subject Head/Economics</font></b><br>
@@ -178,9 +178,6 @@ Ms Siti Zakiah Bte Sidek
 	<b><font color="003dA5">HOD/Mathematics</font></b><br>
 Ms Ng Sock Cheng
 <br><br>
-	<b><font color="003dA5">HOD/Student Management</font></b><br>
-Mdm Nai Yuan Ting
-<br><br>
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
 <br><br>
@@ -188,12 +185,10 @@ Mr Tan Wai Yean
 Mdm Lee Koon Ha
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mdm Chan Puay San<br>
 Ms Chew Hui Teng<br>
 Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Joshua Kim Kwan<br>
-Mr Lam Chien Kwok Roger<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
 Mr Low Rui Hao<br>
@@ -313,7 +308,6 @@ Mr Steven Wong Meng Wai
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
 Mdm Ang Lay Poh Sarah<br>
-Mr Chng Kok Poh Andy<br>
 Mr Lim Cheng Xiang<br>
 Ms Loh Yi Lin Eileen<br>
 Ms Seah Sim Yee<br>
@@ -332,7 +326,6 @@ Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Chong Phow Loong<br>
-Mdm Koh Sau Tiang Cheyanne<br>
 Mr Lim Wei Jun<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
@@ -346,8 +339,7 @@ Mr Wong Yih Chong
 <div>
 <p>
 	<b><font color="003dA5">Admin Managers</font></b><br>
-Mdm Koh Chwee Ngoh<br>
-Ms Lee Yin Mong Yvonne
+Mdm Koh Chwee Ngoh
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
 Mr Lee Boon Yong
@@ -368,27 +360,21 @@ Ms Vina Sim
 	<b><font color="003dA5">School Counsellor</font></b><br>
 Ms Wong Soo Ping Mandy
 <br><br>
-	<b><font color="003dA5">MSO</font></b><br>
-Mdm Norlizah Bte Isa<br>
-Ms Yeo Yee Ling Sandra
+	<b><font color="003dA5">CSO</font></b><br>
+Mdm Norlizah Bte Isa
 <br><br>
 	<b><font color="003dA5">TSO</font></b><br>
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
-Mr Muhammad Asri Bin Abdul Rahman<br>
 Mdm Suhailah Binte Satoo<br>
 Mr Zainuddin Bin Awaluddin
 <br><br>
 	<b><font color="003dA5">OSO</font></b><br>
-Mrs Mohan N (K Saraswathy)<br>
 Mdm Maryani Binte Mohamed<br>
-Ms Ho Jui Hwa Emily<br>
 Mdm Deelaila Binte Dollah<br>
 Mdm S Kalaiselvi<br>
 Mr Teo Cheng Hoe Peter<br>
 Mdm Chan Puay Mui<br>
-Mr Mohamed Bin Shukor<br>
-Mr Ong Thiam Huat<br>
 Mdm Tan Cheng Huy<br>
 Mr Lee Kah Bian
 <br><br>
