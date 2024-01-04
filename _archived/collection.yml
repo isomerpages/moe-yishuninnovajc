@@ -1,4 +1,5 @@
 collections:
   archived:
     output: true
-    order: []
+    order:
+      - For Students.md
