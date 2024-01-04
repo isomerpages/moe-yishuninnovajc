@@ -27,7 +27,7 @@ sections:
         from 10am to 5pm!
       button: Find out more
       url: /open-house-2024
-      image: /images/2024 Images/YIJC_OH_Brochure_2024_D4_Page_01.png
+      image: /images/YIJC_MOTD_Banner_2024.jpg
       alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
