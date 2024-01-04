@@ -98,7 +98,7 @@ Mdm Chitrakala d/o G Arumugam<br>
 Ms Ng Wee Li
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>
-Ms Amitra Ilangovan<br>
+Ms Amitra Ilangovan
 <br><br>
 <b>General Paper</b><br>
 	<b><font color="003dA5">Subject Head/General Paper</font></b><br>
