@@ -31,7 +31,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
-      subtitle: "Rise up to every challenge at "
+      subtitle: Rise up to every challenge at
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
