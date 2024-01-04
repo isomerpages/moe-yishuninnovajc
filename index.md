@@ -11,13 +11,13 @@ sections:
       variant: center
       key_highlights:
         - title: Social Media
-          description: Check out our Instagram!
+          description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
         - title: Signature Programmes
-          description: Find out more!
+          description: Find out more
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
         - title: Open House 2024
-          description: Join us!
+          description: Join us
           url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
   - infopic:
       title: Open House 2024
