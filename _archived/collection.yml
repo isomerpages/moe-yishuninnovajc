@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Frequently Asked Questions (FAQs).md
       - Subject Registration Details.md
       - For Parents.md
       - For Students.md
