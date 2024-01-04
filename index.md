@@ -25,4 +25,14 @@ sections:
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
+  - infopic:
+      title: Open House 2024
+      subtitle: Events
+      id: infopic
+      description: We are looking forward to having at our Open House 2024 on 12 Jan,
+        from 10am to 5pm!
+      button: Find out more
+      url: /openhouse-2024
+      image: /images/YIJC_OH_Brochure_2024_D4_Page_01.png
+      alt: Image alt text
 ---
