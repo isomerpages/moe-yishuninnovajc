@@ -2,8 +2,8 @@ collections:
   culture:
     output: true
     order:
-      - Houses/Our Houses.md
-      - Houses/.keep
       - Co Curricular Activities.md
+      - Houses/.keep
+      - Houses/Our Houses.md
       - 2024 Orientation/.keep
       - 2024 Orientation/Coming Soon!.md
