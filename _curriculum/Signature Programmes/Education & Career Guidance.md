@@ -11,12 +11,13 @@ Against the backdrop of a more dynamic work landscape with new emerging jobs, th
 The ECG programme is differentiated based on the needs and readiness levels of the students. Through our ECG programme, we aim to help our students identify their strengths and interests, and develop their aspirations by exposing them to a wide range of careers, providing ECG counselling, as well as timely and accurate information about further education. We also guide students in the necessary preparation for further education and hone workplace readiness skills to prepare them for the future.
 
 **Our learning journeys to universities:**
-<img src="/images/ecg1.jpg" style="width:40%;margin-left:65px;" align="left">
-<img src="/images/ecg2.jpg" style="width:40%;margin-right:65px;" align="right">
+
+<img src="/images/ecg1.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/ecg2.jpg" style="width:50%;margin-right:65px;" align="right">
 
 <br clear="left">
 
-<img src="/images/ecg3.jpg" style="width:35%;margin-left:90px;" align="left">
+<img src="/images/ecg3.jpg" style="width:45%;margin-left:90px;" align="left">
 
 <br clear="left">
 
