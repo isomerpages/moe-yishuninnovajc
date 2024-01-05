@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Website_Landing_Page_Gif_New_2.gif
+      background: /images/2024_Website_Landing_Page_Gif__4_.gif
       variant: center
       key_highlights:
         - title: Social Media
