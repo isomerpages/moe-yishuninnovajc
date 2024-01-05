@@ -15,7 +15,6 @@ With digital technologies permeating every aspect of our lives, a future-ready s
 We conduct in-house workshops, events, and learning journeys that promote Digital Literacies for our students. We also collaborate with the Infocomm Media Development Authority (IMDA) and Media Literacy Council (MLC) to organise external webinars and competitions for other schools, as well as DL-related VIA projects for the community.
   
 **Our workshops, learning journeys, and projects:**
-
 <img src="/images/digitalliteracies1.jpg" style="width:40%;margin-left:65px;" align="left">
 <img src="/images/digitalliteracies2.jpg" style="width:40%;margin-right:65px;" align="right">
 
@@ -26,8 +25,7 @@ We conduct in-house workshops, events, and learning journeys that promote Digita
 
 <br clear="left">
 
-Our events and showcases:
-
+**Our events and showcases:**
 <img src="/images/digitalliteracies5.jpg" style="width:40%;margin-left:65px;" align="left">
 <img src="/images/digitalliteracies6.jpg" style="width:40%;margin-right:65px;" align="right">
 
@@ -41,7 +39,6 @@ Our events and showcases:
 Students who wish to delve deeper into digital literacies and the related technological competencies can also choose to join the Makers’ Academy, a specialised CCA that hones their media, computational, and innovation skills. Students from the Makers’ Academy experience digital making, artificial intelligence app development as well as photography and filmmaking. They work with cutting-edge technology and equipment in our various specialised venues such as the Co-Lab.
 
 **Our specialised venues and equipment:**
-
 <img src="/images/digitalliteracies9.jpg" style="width:40%;margin-left:65px;" align="left">
 <img src="/images/digitalliteracies10.jpg" style="width:40%;margin-right:65px;" align="right">
 
