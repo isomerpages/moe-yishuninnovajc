@@ -28,21 +28,43 @@ variant: markdown
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal2.jpg" style="width:75%">		</td>
-		<td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal1.jpg" style="width:70%">		</td>
-    <td style="text-align: left;">
-		<img src="" style="width:52%">		</td>
+		<img src="/images/School Leaders/vice principal2.jpg" style="width:20%">
+		</td>
 	</tr>
 		<tr>
-    <td style="text-align: center;">
-Mrs Lee Hui Xin</td>
-<td style="text-align: center;">			
-Mr Lim Kah Leong Marc</td>
-<td style="text-align: center;">
-Mr Loi Guang You <br>Mr Long Tien Ho (Administration)</td>
+    <td style="text-align: center;">Mrs Lee Hui Xin
+		</td>
 	</tr>
-</tbody></table>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal1.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Lim Kah Leong Marc
+		</td>
+ </tr>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal3.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Loi Guang You
+		</td>
+ </tr>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal4.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Long Tien Ho
+		</td>
+ </tr>
+
+</tbody>	
+</table>
 </p>
 </div>
 </li>
