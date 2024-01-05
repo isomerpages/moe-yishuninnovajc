@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - YIJC Prospectus 2023.md
       - Subject Combinations/.keep
       - Subject Combinations/Subject Combinations & Eligibility.md
       - Subject Combinations/Subjects Offered.md
