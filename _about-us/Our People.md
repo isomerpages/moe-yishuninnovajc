@@ -32,7 +32,7 @@ variant: markdown
 		<td style="text-align: center;">
 		<img src="/images/School Leaders/vice principal1.jpg" style="width:70%">		</td>
     <td style="text-align: left;">
-		<img src="/images/School Leaders/vice principala.jpg" style="width:52%">		</td>
+		<img src="" style="width:52%">		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
@@ -40,7 +40,7 @@ Mrs Lee Hui Xin</td>
 <td style="text-align: center;">			
 Mr Lim Kah Leong Marc</td>
 <td style="text-align: center;">
-Ms Tan Swee Eng <br>Jennifer (Administration)</td>
+Mr Loi Guang You <br>Mr Long Tien Ho (Administration)</td>
 	</tr>
 </tbody></table>
 </p>
