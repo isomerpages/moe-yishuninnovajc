@@ -3,6 +3,7 @@ title: Student Leadership
 permalink: /curriculum/signature-programmes/student-leadership/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 ### **Student Leadership**
 Here at YIJC, the Student Leadership Programme enhances leadership learning and further develops leadership competencies for all our students. The programme prepares every YIJC-ian to be responsible students of the College and responsible future citizens of our society.
@@ -44,7 +45,7 @@ Student leaders are provided first-hand experience at planning, implementing, ev
 </figure>
 
 
-Students are also given opportunities to take the lead in Academic and Character &amp; Citizenship Education (CCE) Councils to support the joy of learning. In these positions, they spearhead student-led learning experiences for their peers. 
+Students are also given opportunities to take the lead as Subject Representatives to support the joy of learning. In these positions, they spearhead student-led learning experiences for their peers. 
 
 Students are also given the autonomy to form Interest Groups with like-minded peers who share a common passion to contribute to positive school experiences.
 
