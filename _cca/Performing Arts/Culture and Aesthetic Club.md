@@ -9,7 +9,7 @@ variant: markdown
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/xhxU6OMgyDc" title="Culture &amp; Aesthetic Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-**Please note that there will be no JC1 intake for Culture &amp; Aesthetic Club (CAS) in 2024.***
+**Please kindly note that there will be no JC1 intake for Culture &amp; Aesthetic Club (CAS) in 2024.***
 
 The Culture &amp; Aesthetic Club (CAS) is an inter-cultural club that focuses on instilling a greater love for Mother Tongue languages through cultural and literary-based programmes, activities and competitions. CAS is a unique CCA where members possess a strong passion for upholding and integrating Singaporean culture and literature, working collaboratively on drama and dance performances, Values-In-Action (VIA) projects as well as other signature programmes such as the Pre-University Seminar. 
 
