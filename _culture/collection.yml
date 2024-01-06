@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Houses/Sagitar.md
       - Houses/.keep
       - Houses/Our Houses.md
+      - Houses/Sagitar.md
       - 2024 Orientation/.keep
       - 2024 Orientation/Coming Soon!.md
