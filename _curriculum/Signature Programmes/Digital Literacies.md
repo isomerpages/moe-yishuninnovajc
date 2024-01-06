@@ -38,6 +38,7 @@ We conduct in-house workshops, events, and learning journeys that promote Digita
 
 Students who wish to delve deeper into digital literacies and the related technological competencies can also choose to join the Makers’ Academy, a specialised CCA that hones their media, computational, and innovation skills. Students from the Makers’ Academy experience digital making, artificial intelligence app development as well as photography and filmmaking. They work with cutting-edge technology and equipment in our various specialised venues such as the Co-Lab.
 
+
 **Our specialised venues and equipment:**
 <img src="/images/digitalliteracies9.jpg" style="width:40%;margin-left:65px;" align="left">
 <img src="/images/digitalliteracies10.jpg" style="width:40%;margin-right:65px;" align="right">
