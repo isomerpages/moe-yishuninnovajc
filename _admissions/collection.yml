@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Post JAE Appeal.md
-      - Scholarships & Financial Assistance.md
       - Direct School Admission/.keep
       - Direct School Admission/Overview.md
       - Direct School Admission/Application Process.md
       - Direct School Admission/Selection Process.md
       - Returning Singaporeans.md
       - International Students.md
+      - Scholarships & Financial Assistance.md
