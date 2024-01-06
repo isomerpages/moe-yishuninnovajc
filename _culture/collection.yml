@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
+      - Houses/Roquila.md
       - Houses/Arius.md
       - Houses/Peirseus.md
       - Houses/.keep
