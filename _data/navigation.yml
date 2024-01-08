@@ -4,13 +4,15 @@ links:
     collection: about-us
   - title: Admissions
     collection: admissions
+  - title: Open House 2024
+    collection: open-house-2024
   - title: Culture
     collection: culture
   - title: Curriculum
-    url: /curriculum/YIJC-prospectus-2023/
+    url: /open-house-2024/prospectus2024/
     sublinks:
-      - title: YIJC Prospectus 2023
-        url: /curriculum/YIJC-prospectus-2023/
+      - title: 2024 Prospectus
+        url: /open-house-2024/prospectus2024/
       - title: Subject Combinations
         url: /curriculum/subject-combinations/
       - title: Signature Programmes

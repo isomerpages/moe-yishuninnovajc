@@ -2,12 +2,13 @@
 title: Our People
 permalink: /about-us/our-people/
 description: ""
+variant: markdown
 ---
 ### **Our People**
 
 <ul class="jekyllcodex_accordion">
 <li>
-<input id="accordion1" type="checkbox">
+<input type="checkbox" id="accordion1">
 <label for="accordion1">School Leaders</label>
 <div>
 <p>
@@ -15,7 +16,7 @@ description: ""
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-		<img style="width:20%" src="/images/School Leaders/principal.jpg">
+		<img src="/images/School Leaders/principal.jpg" style="width:20%">
 		</td>
 	</tr>
 		<tr>
@@ -27,43 +28,68 @@ description: ""
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-		<img style="width:75%" src="/images/School Leaders/vice principal2.jpg">		</td>
-		<td style="text-align: center;">
-		<img style="width:70%" src="/images/School Leaders/vice principal1.jpg">		</td>
-    <td style="text-align: left;">
-		<img style="width:52%" src="/images/School Leaders/vice principala.jpg">		</td>
+		<img src="/images/School Leaders/vice principal2.jpg" style="width:20%">
+		</td>
 	</tr>
 		<tr>
-    <td style="text-align: center;">
-Mrs Lee Hui Xin</td>
-<td style="text-align: center;">			
-Mr Lim Kah Leong Marc</td>
-<td style="text-align: center;">
-Ms Tan Swee Eng <br>Jennifer (Administration)</td>
+    <td style="text-align: center;">Mrs Lee Hui Xin
+		</td>
 	</tr>
-</tbody></table>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal1.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Lim Kah Leong Marc
+		</td>
+ </tr>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal3.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Loi Guang You
+		</td>
+ </tr>
+	<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/vice principal4.jpg" style="width:20%">
+		</td>
+ </tr>
+ <tr>
+    <td style="text-align: center;">Mr Long Tien Ho (Administration)
+		</td>
+ </tr>
+
+</tbody>	
+</table>
 </p>
 </div>
 </li>
 	
 <li>
-<input id="accordion2" type="checkbox">
+<input type="checkbox" id="accordion2">
 <label for="accordion2">Economics Department</label>
 <div>
 <p>
 	<b><font color="003dA5">HOD/Economics</font></b><br>
 Ms Lim Shu Fen
 <br><br>	
-	<b><font color="003dA5">Year Head</font></b><br>
+	<b><font color="003dA5">Year Heads</font></b><br>
 Mr Loke Kok Leong<br>
 Mdm Ng Chai Ngoh
 <br><br>	
-	<b><font color="003dA5">Subject Head/Student Well-Being</font></b><br>
+	<b><font color="003dA5">HOD/Student Management</font></b><br>
 Ms Chong Jia Wei Serene
 <br><br>	
 	<b><font color="003dA5">Subject Head/Economics</font></b><br>
 Mr Low Hwan Liang Lenon
-<br><br>	
+<br><br>
+		<b><font color="003dA5">Subject Head/Information and Communication Technology</font></b><br>
+Mr Yeo Rong Yao Jeremy
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
 Mdm Lim Pow Choo
 <br><br>	
@@ -73,15 +99,15 @@ Ms Cheng Siew Peng Jasmine<br>
 Mr Foong Chongxiang<br>
 Ms Law Winnie<br>
 Ms Lim Wei Qi Samantha<br>
-Ms Moganeswary D/O Sakathevan<br>
-Mr Neo ZhiXian Ben<br>
-Ms Tan Li Yan Joscelyn	
+Mr Neo Zhixian Ben<br>
+Ms Tan Li Yan Joscelyn<br>
+Mr Tan Jit Ann Joshua<br>
 </p>
 </div>
 </li>
 	
 <li>
-<input id="accordion3" type="checkbox">
+<input type="checkbox" id="accordion3">
 <label for="accordion3">English Department</label>
 <div>
 <p>
@@ -93,11 +119,9 @@ Ms Tan Yin Ping Maxine
 <br><br>	
 <b>English Literature</b><br>
 	<b><font color="003dA5">Subject Head/English Literature</font></b><br>
-Mdm Chitrakala d/o G Arumugam<br>
-Ms Ng Wee Li
-<br><br>	
-	<b><font color="003dA5">Teachers</font></b><br>
-Ms Amitra Ilangovan<br>
+Mdm Chitrakala d/o G Arumugam<br><br>
+<b><font color="003dA5">Teacher</font></b><br>
+Ms Amitra Ilangovan
 <br><br>
 <b>General Paper</b><br>
 	<b><font color="003dA5">Subject Head/General Paper</font></b><br>
@@ -118,21 +142,20 @@ Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
 Ms Charis Lee Xin-Ning<br>
-Mr Chen De Zhi, Daniel<br>
+Ms Chew Ziying<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mdm Karoline Kamalam Pathrose<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
-Mr Tan Xian Li, Joshua<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
 </div>
 </li>
 	
 <li>
-<input id="accordion4" type="checkbox">
+<input type="checkbox" id="accordion4">
 <label for="accordion4">Humanities Department</label>
 <div>
 <p>
@@ -159,7 +182,7 @@ Ms Liew Feng Chuan Karen<br>
 Mr Mohamad Irfan Bin Mohamad Salihin
 <br><br>
 <b>History</b><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+	<b><font color="003dA5">Assistant Year Head</font></b><br>
 Mr Goh Han-Ming Jasper
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
@@ -170,15 +193,12 @@ Ms Siti Zakiah Bte Sidek
 </li>
 	
 <li>
-<input id="accordion5" type="checkbox">
+<input type="checkbox" id="accordion5">
 <label for="accordion5">Mathematics Department</label>
 <div>
 <p>
 	<b><font color="003dA5">HOD/Mathematics</font></b><br>
 Ms Ng Sock Cheng
-<br><br>
-	<b><font color="003dA5">HOD/Student Management</font></b><br>
-Mdm Nai Yuan Ting
 <br><br>
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
@@ -187,14 +207,13 @@ Mr Tan Wai Yean
 Mdm Lee Koon Ha
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mdm Chan Puay San<br>
 Ms Chew Hui Teng<br>
 Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Joshua Kim Kwan<br>
-Mr Lam Chien Kwok Roger<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
+Mr Lim Kah Hong<br>
 Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
@@ -210,7 +229,7 @@ Mr Wee Soon Ming
 </li>
 	
 <li>
-<input id="accordion6" type="checkbox">
+<input type="checkbox" id="accordion6">
 <label for="accordion6">Mother Tongue Languages Department</label>
 <div>
 <p>
@@ -234,7 +253,7 @@ Ms Tin Yi Ya
 </li>
 	
 <li>
-<input id="accordion7" type="checkbox">
+<input type="checkbox" id="accordion7">
 <label for="accordion7">Physical Education Department</label>
 <div>
 <p>
@@ -258,7 +277,7 @@ Mr Sher Zi Ao
 </li>
 	
 <li>
-<input id="accordion8" type="checkbox">
+<input type="checkbox" id="accordion8">
 <label for="accordion8">Project Work Department</label>
 <div>
 <p>
@@ -277,18 +296,21 @@ Mrs Teo Eng Leong Emily
 </li>
 	
 <li>
-<input id="accordion9" type="checkbox">
+<input type="checkbox" id="accordion9">
 <label for="accordion9">Science Department</label>
 <div>
 <p>
-	<b><font color="003dA5">HOD/Science</font></b><br>
-Mdm Goh Sok Sing
+	<b><font color="003dA5">HOD/Science (covering)</font></b><br>
+Mr Tan Hao Kai
 <br><br>
 	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
 Mr Ang Tze Siong Clayton
 <br><br>
-	<b><font color="003dA5">School Staff Developer</font></b><br>
+	<b><font color="003dA5">HOD/Special Projects</font></b><br>
 Mdm Tan Xiao Juan Magdalene
+<br><br>
+	<b><font color="003dA5">School Staff Developer</font></b><br>
+Mdm Goh Sok Sing
 <br><br>
 <b>Biology</b><br>
 	<b><font color="003dA5">Subject Head/Biology</font></b><br>
@@ -302,17 +324,22 @@ Ms Wong Mei Yee
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
 Mrs Lim Sze Cheng
 <br><br>
-	<b><font color="003dA5">Subject Head/Talent Development</font></b><br>
+	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
 <br><br>
-	<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
-Mdm Lim Chieh Yeng Jane<br>
-Mr Steven Wong Meng Wai
+	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+Mr Choo Chong Yu Gerald
+<br><br>
+	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
+Mdm Lim Chieh Yeng Jane
+<br><br>
+		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
+Mr Steven Wong Meng Wai<br>
+Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
 Mdm Ang Lay Poh Sarah<br>
-Mr Chng Kok Poh Andy<br>
 Mr Lim Cheng Xiang<br>
 Ms Loh Yi Lin Eileen<br>
 Ms Seah Sim Yee<br>
@@ -323,16 +350,15 @@ Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
 	<b><font color="003dA5">Subject Head/Physics</font></b><br>
-Mr Tan Hao Kai<br>
-Mr Tay Jian Hao Jeremy
-<br><br>
+Mr Tay Jian Hao Jeremy<br>
+<br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
 Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Chong Phow Loong<br>
-Mdm Koh Sau Tiang Cheyanne<br>
-Mr Lim Wei Jun<br>
+Mr Lim Chee Seng<br>
+	Mr Lim Wei Jun<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
 </p>
@@ -340,13 +366,12 @@ Mr Wong Yih Chong
 </li>
 	
 <li>
-<input id="accordion10" type="checkbox">
+<input type="checkbox" id="accordion10">
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
 	<b><font color="003dA5">Admin Managers</font></b><br>
-Mdm Koh Chwee Ngoh<br>
-Ms Lee Yin Mong Yvonne
+Mdm Koh Chwee Ngoh
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
 Mr Lee Boon Yong
@@ -367,27 +392,21 @@ Ms Vina Sim
 	<b><font color="003dA5">School Counsellor</font></b><br>
 Ms Wong Soo Ping Mandy
 <br><br>
-	<b><font color="003dA5">MSO</font></b><br>
-Mdm Norlizah Bte Isa<br>
-Ms Yeo Yee Ling Sandra
+	<b><font color="003dA5">CSO</font></b><br>
+Mdm Norlizah Bte Isa
 <br><br>
 	<b><font color="003dA5">TSO</font></b><br>
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
-Mr Muhammad Asri Bin Abdul Rahman<br>
 Mdm Suhailah Binte Satoo<br>
 Mr Zainuddin Bin Awaluddin
 <br><br>
 	<b><font color="003dA5">OSO</font></b><br>
-Mrs Mohan N (K Saraswathy)<br>
 Mdm Maryani Binte Mohamed<br>
-Ms Ho Jui Hwa Emily<br>
 Mdm Deelaila Binte Dollah<br>
 Mdm S Kalaiselvi<br>
 Mr Teo Cheng Hoe Peter<br>
 Mdm Chan Puay Mui<br>
-Mr Mohamed Bin Shukor<br>
-Mr Ong Thiam Huat<br>
 Mdm Tan Cheng Huy<br>
 Mr Lee Kah Bian
 <br><br>

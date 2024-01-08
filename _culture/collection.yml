@@ -3,8 +3,12 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - 2023 Orientation/For Students.md
-      - 2023 Orientation/For Parents.md
-      - 2023 Orientation/Subject Registration Details.md
-      - 2023 Orientation/Frequently Asked Questions (FAQs).md
-      - 2023 Orientation/.keep
+      - Houses/.keep
+      - Houses/Our Houses.md
+      - Houses/Sagitar.md
+      - Houses/Peirseus.md
+      - Houses/Arius.md
+      - Houses/Roquila.md
+      - Houses/Kyra.md
+      - 2024 Orientation/.keep
+      - 2024 Orientation/Coming Soon!.md

@@ -2,14 +2,14 @@
 title: Canteen Vendor
 permalink: /contact-us/canteen/
 description: ""
+variant: markdown
 ---
 ### **School Canteen Advertisement**
 
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Vegetarian     | 31 Oct 2023     | Only Chinese Vegetarian    |
-| Muslim Cuisine (Halal)     | 31 Oct 2023     | Mixed Rice and Noodles    |
+| Chinese Vegetarian     | 31 Jan 2024     | Only Chinese Vegetarian    |
 
 ##### **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s Security Guard House.
