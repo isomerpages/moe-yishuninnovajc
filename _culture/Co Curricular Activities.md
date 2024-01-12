@@ -4,4 +4,241 @@ permalink: /culture/cca/
 description: ""
 variant: markdown
 ---
-<h3><strong>Co-curricular Activities</strong></h3><h4><strong>Performing Arts</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca1.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca2.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca3.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/culture-and-aesthetic-club/" rel="noopener noreferrer nofollow" target="_blank">Culture &amp; Aesthetic Club*</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/chorale/" rel="noopener noreferrer nofollow" target="_blank">Chorale</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca4.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca5.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca6.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/dance/" rel="noopener noreferrer nofollow" target="_blank">Dance</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/eldds/" rel="noopener noreferrer nofollow" target="_blank">English Language Drama &amp; Debate Society</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/musicians-club/" rel="noopener noreferrer nofollow" target="_blank">Musicians' Club</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:30%" height="auto" width="100%" src="/images/CCA/cca7.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/performing-arts/symphonic-band/" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Clubs &amp; Societies</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca8.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca9.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca10.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/art-and-guitar/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/class-leaders-council/" rel="noopener noreferrer nofollow" target="_blank">Class Leaders' Council</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/interact-club/" rel="noopener noreferrer nofollow" target="_blank">Interact Club</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca11.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca12.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca13.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/library-council-and-strategy-club/" rel="noopener noreferrer nofollow" target="_blank">Strategy Club</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/makers-academy/" rel="noopener noreferrer nofollow" target="_blank">Makers' Academy</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Adventure Club</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:30%" height="auto" width="100%" src="/images/CCA/cca14.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/clubs-and-societies/students-council/" rel="noopener noreferrer nofollow" target="_blank">Students' Council</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Sports &amp; Games</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca15.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca16.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca17.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/air-weapons" rel="noopener noreferrer nofollow" target="_blank">Air Weapons*</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca18.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca19.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca20.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca21.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca22.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca23.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/modular-sports/" rel="noopener noreferrer nofollow" target="_blank">Modular Sports</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">Table Tennis*</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/tenpin-bowling/" rel="noopener noreferrer nofollow" target="_blank">Tenpin Bowling*</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca24.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca25.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA/cca26.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/tennis/" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/track-and-field/" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></p></td><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/ultimate-frisbee/" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:30%" height="auto" width="100%" src="/images/CCA/cca27.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/culture/cca/sports-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><em>*Please kindly note that there will be no JC1 intake for these CCAs in 2024.*</em></p>
+### **Co-curricular Activities** 
+
+#### **Performing Arts**
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/chinese-orchestra/">Chinese Orchestra</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/">Culture &amp; Aesthetic Club*</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/chorale/">Chorale</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/">Dance</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/performing-arts/eldds/">English Language Drama &amp; Debate Society</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/musicians-club/">Musicians' Club</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg" style="width:30%"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/symphonic-band/">Symphonic Band</a>
+		</td>
+	</tr>
+</tbody></table>
+
+#### **Clubs &amp; Societies**
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/CCA/cca8.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/art-and-guitar/club/">Art &amp; Guitar Club</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/clubs-and-societies/class-leaders-council/">Class Leaders' Council</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/library-council-and-strategy-club/"><img src="/images/CCA/cca11.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/library-council-and-strategy-club/">Library Council &amp; Strategy Club</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" style="width:30%"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/students-council/">Students' Council</a>
+		</td>
+	</tr>
+</tbody></table>
+
+#### **Sports &amp; Games**
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/air-weapons"><img src="/images/CCA/cca15.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/basketball/"><img src="/images/CCA/cca17.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/air-weapons">Air Weapons*</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/sports-and-games/badminton/">Badminton</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/basketball/">Basketball</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/floorball/"><img src="/images/CCA/cca18.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/football/"><img src="/images/CCA/cca19.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/netball/"><img src="/images/CCA/cca20.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/floorball/">Floorball</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/sports-and-games/football/">Football</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/netball/">Netball</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/modular-sports/"><img src="/images/CCA/cca21.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis*</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling*</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/track-and-field"><img src="/images/CCA/cca25.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/sports-and-games/track-and-field/">Track &amp; Field</a>
+</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
+		</td>
+	</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" style="width:30%"></a>
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
+		</td>
+	</tr>
+</tbody></table>
+
+<br>
+*Please kindly note that there will be no JC1 intake for these CCAs in 2024.
