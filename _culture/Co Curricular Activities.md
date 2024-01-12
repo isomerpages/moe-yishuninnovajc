@@ -134,7 +134,6 @@ variant: markdown
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/air-weapons"><img src="/images/CCA/cca15.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg"></a>
@@ -145,7 +144,6 @@ variant: markdown
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/air-weapons">Air Weapons*</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/sports-and-games/badminton/">Badminton</a>
