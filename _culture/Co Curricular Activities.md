@@ -136,10 +136,10 @@ variant: markdown
     <td style="text-align: center;">
 		</td>
 		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg"></a>
+			<a href="/culture/cca/sports-and-games/badminton/"><img style="width:70%" src="/images/CCA/cca16.jpg"></a>
 		</td>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/basketball/"><img src="/images/CCA/cca17.jpg"></a>
+			<a href="/culture/cca/sports-and-games/basketball/"><img style="width:70%" src="/images/CCA/cca17.jpg"></a>
 		</td>
 	</tr>
 		<tr>
