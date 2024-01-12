@@ -107,7 +107,7 @@ variant: markdown
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/library-council/">Library Council</a>
+			<a href="/culture/cca/clubs-and-societies/Strategy-club/">Strategy Club</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
