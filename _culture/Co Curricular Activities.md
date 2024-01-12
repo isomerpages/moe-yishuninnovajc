@@ -96,7 +96,7 @@ variant: markdown
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/library-council/"><img src="/images/CCA/cca11.jpg"></a>
+			<a href="/culture/cca/clubs-and-societies/strategy-club/"><img src="/images/CCA/cca11.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg"></a>
@@ -107,7 +107,7 @@ variant: markdown
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/Strategy-club/">Strategy Club</a>
+			<a href="/culture/cca/clubs-and-societies/strategy-club/">Strategy Club</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
