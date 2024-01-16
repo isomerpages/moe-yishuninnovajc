@@ -134,109 +134,99 @@ variant: markdown
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/badminton/"><img src="/images/CCA/cca16.jpg"></a>
 		</td>
 		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/badminton/"><img style="width:70%" src="/images/CCA/cca16.jpg"></a>
+			<a href="/culture/cca/sports-and-games/basketball/"><img src="/images/CCA/cca17.jpg"></a>
 		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/basketball/"><img style="width:70%" src="/images/CCA/cca17.jpg"></a>
-		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">
-</td>
-		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/badminton/">Badminton</a>
-</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/basketball/">Basketball</a>
-		</td>
-	</tr>
-</tbody></table>
-<table>
-	<tbody><tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/floorball/"><img src="/images/CCA/cca18.jpg"></a>
 		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/football/"><img src="/images/CCA/cca19.jpg"></a>
-		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/netball/"><img src="/images/CCA/cca20.jpg"></a>
-		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/floorball/">Floorball</a>
+			<a href="/culture/cca/sports-and-games/badminton/">Badminton</a>
 </td>
 		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/football/">Football</a>
+			<a href="/culture/cca/sports-and-games/basketball/">Basketball</a>
 </td>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/netball/">Netball</a>
+			<a href="/culture/cca/sports-and-games/floorball/">Floorball</a>
 		</td>
 	</tr>
 </tbody></table>
+
 <table>
 	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/football/"><img src="/images/CCA/cca19.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/netball/"><img src="/images/CCA/cca20.jpg"></a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/modular-sports/"><img src="/images/CCA/cca21.jpg"></a>
 		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
-		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
-		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
+			<a href="/culture/cca/sports-and-games/football/">Football</a>
 </td>
 		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis*</a>
+			<a href="/culture/cca/sports-and-games/netball/">Netball</a>
 </td>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling*</a>
+			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
 		</td>
 	</tr>
 </tbody></table>
 <table>
 	<tbody><tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg"></a>
 		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/track-and-field"><img src="/images/CCA/cca25.jpg"></a>
-		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
-		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
+			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis*</a>
 </td>
 		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/track-and-field/">Track &amp; Field</a>
+			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling*</a>
 </td>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
+			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
 		</td>
 	</tr>
 </tbody></table>
 <table>
 	<tbody><tr>
     <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg" style="width:30%"></a>
+			<a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg"></a>
+		</td>
+		<td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
+		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg"></a>
 		</td>
 	</tr>
 		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/track-and-field/">Track &amp; Field</a>
+</td>
+		<td style="text-align: center;">			
+			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
+</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
 		</td>
 	</tr>
 </tbody></table>
-
 <br>
 *Please kindly note that there will be no JC1 intake for these CCAs in 2024.
