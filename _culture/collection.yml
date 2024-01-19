@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
+      - Houses/Sagitar.md
       - Houses/.keep
       - Houses/Our Houses.md
       - Houses/Sagita.md
