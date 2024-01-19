@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Houses/Sagitar.md
       - Houses/.keep
       - Houses/Our Houses.md
+      - Houses/Sagitar.md
       - Houses/Peirseus.md
       - Houses/Arius.md
       - Houses/Roquila.md
