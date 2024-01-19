@@ -370,7 +370,7 @@ Mr Wong Yih Chong
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
-	<b><font color="003dA5">Admin Managers</font></b><br>
+	<b><font color="003dA5">Admin Manager</font></b><br>
 Mdm Koh Chwee Ngoh
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
@@ -383,8 +383,8 @@ Mr Tan Wei Keng
 Ms Choh Mei Ling Wendy<br>
 Mdm New Bee Hoon Janet
 <br><br>
-	<b><font color="003dA5">Allied Educator</font></b><br>
-Mr Muhammad Hafiz Bin Hamzah
+	<b><font color="003dA5">CSO</font></b><br>
+Mdm Norlizah Bte Isa
 <br><br>
 	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Vina Sim
@@ -392,10 +392,10 @@ Ms Vina Sim
 	<b><font color="003dA5">School Counsellor</font></b><br>
 Ms Wong Soo Ping Mandy
 <br><br>
-	<b><font color="003dA5">CSO</font></b><br>
-Mdm Norlizah Bte Isa
+	<b><font color="003dA5">SEN Officer</font></b><br>
+Mr Muhammad Hafiz Bin Hamzah
 <br><br>
-	<b><font color="003dA5">TSO</font></b><br>
+	<b><font color="003dA5">STEM Instructors (Laboratory)</font></b><br>
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Mdm Suhailah Binte Satoo<br>
