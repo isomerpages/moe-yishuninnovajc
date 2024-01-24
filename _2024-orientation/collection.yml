@@ -2,5 +2,6 @@ collections:
   2024-orientation:
     output: true
     order:
+      - Subject Registration Details.md
       - For Parents.md
       - For Students.md
