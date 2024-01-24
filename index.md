@@ -23,12 +23,11 @@ sections:
       title: Orientation 2024
       subtitle: Events
       id: infopic
-      description: We are looking forward to having you at our Open House 2024 on 12
-        Jan, from 10am to 5pm!
+      description: A warmest welcome to our new students of Yishun Innova Junior College!
       button: Find out more
-      url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
+      url: /2024-orientation/students/
       image: /images/2024 Orientation/Orientation_2024.png
-      alt: Image alt text
+      alt: Adventura
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
