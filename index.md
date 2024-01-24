@@ -18,7 +18,7 @@ sections:
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
         - title: Orientation 2024
           description: Welcome to YIJC!
-          url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
+          url: https://staging.dy8spnni5p31k.amplifyapp.com/2024-orientation/students/
   - infopic:
       title: Orientation 2024
       subtitle: Events
