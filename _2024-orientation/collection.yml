@@ -2,7 +2,7 @@ collections:
   2024-orientation:
     output: true
     order:
-      - Frequently Asked Questions.md
-      - Subject Registration Details.md
-      - For Parents.md
       - For Students.md
+      - For Parents.md
+      - Subject Registration Details.md
+      - Frequently Asked Questions.md
