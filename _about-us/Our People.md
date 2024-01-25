@@ -317,6 +317,7 @@ Mdm Goh Sok Sing
 Ms Lim Hwee Ming Irene
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
+Mr Koh Chin Poh<br>
 Mr Tan Kok Ping Lawrence<br>
 Ms Wong Mei Yee
 <br><br>
