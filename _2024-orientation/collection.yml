@@ -1,0 +1,8 @@
+collections:
+  2024-orientation:
+    output: true
+    order:
+      - For Students.md
+      - For Parents.md
+      - Subject Registration Details.md
+      - Frequently Asked Questions.md

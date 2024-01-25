@@ -1,0 +1,23 @@
+logo: /images/Homepage/logo-brand.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Admissions
+    collection: admissions
+  - title: Orientation 2024
+    collection: 2024-orientation
+  - title: Culture
+    collection: culture
+  - title: Curriculum
+    url: /open-house-2024/prospectus2024/
+    sublinks:
+      - title: 2024 Prospectus
+        url: /open-house-2024/prospectus2024/
+      - title: Subject Combinations
+        url: /curriculum/subject-combinations/
+      - title: Signature Programmes
+        url: /curriculum/signature-programmes/
+      - title: Character & Citizenship
+        url: /curriculum/cce/ecg/
+  - title: Contact Us
+    collection: contact-us

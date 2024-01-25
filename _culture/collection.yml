@@ -1,0 +1,12 @@
+collections:
+  culture:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Houses/.keep
+      - Houses/Our Houses.md
+      - Houses/Sagitar.md
+      - Houses/Peirseus.md
+      - Houses/Arius.md
+      - Houses/Roquila.md
+      - Houses/Kyra.md

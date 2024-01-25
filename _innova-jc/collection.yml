@@ -1,0 +1,16 @@
+collections:
+  innova-jc:
+    output: true
+    order:
+      - Overview.md
+      - The Innnovian Spirit.md
+      - The Teachers.md
+      - Exploring Learning Beyond the Classroom.md
+      - Student Leadership.md
+      - Digital Literacies.md
+      - College Facilities.md
+      - Aesthetic Appreciation in IJC.md
+      - Sports Programmes.md
+      - National Education.md
+      - Community Outreach.md
+      - School Leadership.md
