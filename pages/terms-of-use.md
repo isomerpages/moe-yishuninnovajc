@@ -39,3 +39,6 @@ variant: markdown
 <p>16. In no circumstances shall YIJC be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.</p> 
 <p>17. YIJC reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.</p> 
 <p>18. YIJC reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. </p>
+
+#### **Governing Law** 
+<p>19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.</p>
