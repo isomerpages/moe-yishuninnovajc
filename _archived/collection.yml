@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Coming Soon!.md
       - Frequently Asked Questions (FAQs).md
       - Subject Registration Details.md
       - For Parents.md

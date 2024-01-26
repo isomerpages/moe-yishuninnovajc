@@ -7,28 +7,27 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_landing_page.gif
+      background: /images/2024 Images/2024_Website_Landing_Page_Gif__4_.gif
       variant: center
       key_highlights:
         - title: Social Media
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
         - title: Signature Programmes
-          description: Find out more
+          description: Find out more here
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
-        - title: Open House 2024
-          description: Join us
-          url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
+        - title: Orientation 2024
+          description: Welcome to YIJC!
+          url: https://staging.dy8spnni5p31k.amplifyapp.com/2024-orientation/students/
   - infopic:
-      title: Open House 2024
+      title: Orientation 2024
       subtitle: Events
       id: infopic
-      description: We are looking forward to having you at our Open House 2024 on 12
-        Jan, from 10am to 5pm!
+      description: A warmest welcome to our new students of Yishun Innova Junior College!
       button: Find out more
-      url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/overview/
-      image: /images/YIJC_MOTD_Banner_2024.jpg
-      alt: Image alt text
+      url: /2024-orientation/students/
+      image: /images/2024 Orientation/Orientation_2024.png
+      alt: Adventura
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
