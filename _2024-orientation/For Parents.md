@@ -4,7 +4,7 @@ permalink: /2024-orientation/forparents/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Beginning-of-Year JC1 Parent Engagement Session </strong></h4>
+<h4><strong>Beginning-of-Year JC1 Parent Engagement Session</strong></h4>
 <p>This session will provide an overview of our college and expand on the
 academic and co-curricular journey your child will embark on. The session
 will also provide information that will help your child decide on his/her
