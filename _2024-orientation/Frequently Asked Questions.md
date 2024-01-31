@@ -91,12 +91,13 @@ Feb.</p>
 </p>
 <p><strong>Q: When do the students need to purchase notes?&nbsp;</strong>
 </p>
-<p>The students would not need to purchase notes until lessons have formally
-started on Wed 14 Feb. More instructions will be given to the students
-in due course.</p>
-<p>
-<br>
-</p>
+<p>Students will be required to bring their personal learning devices for
+PW, H1HT, H1ELIT, H2HT and H2ELIT lectures. For the other subjects, the
+first set of notes would be printed for students. More instructions on
+the purchase of notes for the subsequent topics will be shared by the respective
+subjects during the lectures.</p>
+<p></p>
+<p></p>
 <p><strong>Q: When do the students need to purchase their uniforms? How much are the uniforms?</strong>
 </p>
 <p>The students will receive more information about the purchase of uniforms
