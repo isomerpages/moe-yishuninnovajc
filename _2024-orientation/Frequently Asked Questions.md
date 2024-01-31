@@ -106,4 +106,30 @@ specific slots to make the purchase between Mon 5 Feb to Wed 7 Feb.&nbsp;</p>
 <p>Payment modes accepted are: Cash and PayNow. If paying by cash, please
 be advised to bring exact change to facilitate payment.</p>
 <p></p>
+<p></p>
+<p><strong>Q: When do the H1 or H2 Math students need to purchase the Graphing Calculator (GC)?</strong>
+</p>
+<p>H1 or H2 Math students can purchase the GC in College on Mon 19 Feb or
+Thu 22 Feb. Students can refer to the interim timetable that will be released
+at a later date. H1 or H2 Math students are strongly encouraged to purchase
+the GC on Mon 19 Feb as the first topic requires the use of a GC.</p>
+<p>Payment modes accepted are:</p>
+<ul>
+<li>
+<p>Cash (bring exact change to facilitate payment and reduce queuing time)</p>
+</li>
+<li>
+<p>PayNow</p>
+</li>
+<li>
+<p>Cheque (made payable to “Learning Interactive Pte Ltd” and indicate student’s
+name, CG, and contact number on the reverse side of the cheque)</p>
+</li>
+</ul>
+<p>Students may refer to the Orientation e-booklet for more information regarding
+the price and support for students on FAS.</p>
+<p>
+<br>
+</p>
+<p></p>
 <p>information regarding the price and support for students on FAS.</p>
