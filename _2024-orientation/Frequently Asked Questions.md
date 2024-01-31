@@ -128,4 +128,3 @@ name, CG, and contact number on the reverse side of the cheque)</p>
 </ul>
 <p>Students may refer to the Orientation e-booklet for more information regarding
 the price and support for students on FAS.</p>
-<p>information regarding the price and support for students on FAS.</p>
