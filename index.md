@@ -13,9 +13,9 @@ sections:
         - title: Signature Programmes
           description: Find out more here
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
-        - title: About Us
-          description: Our vision, mission & values
-          url: ""
+        - title: About YIJC
+          description: What defines us as a college?
+          url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
