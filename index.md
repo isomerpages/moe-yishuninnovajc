@@ -7,18 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 Images/2024_Website_Landing_Page_Gif__4_.gif
+      background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
-        - title: Social Media
-          description: Check out our Instagram
-          url: https://www.instagram.com/yishuninnovajc
         - title: Signature Programmes
           description: Find out more here
           url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
-        - title: Orientation 2024
-          description: Welcome to YIJC!
-          url: https://staging.dy8spnni5p31k.amplifyapp.com/2024-orientation/students/
+        - title: About YIJC
+          description: What defines us as a college?
+          url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
+        - title: Connect with us!
+          description: Check out our Instagram
+          url: https://www.instagram.com/yishuninnovajc
   - infopic:
       title: Orientation 2024
       subtitle: Events
