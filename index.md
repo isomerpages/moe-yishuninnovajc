@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 Images/2024_Website_Landing_Page_Gif__4_.gif
+      background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
         - title: Signature Programmes
