@@ -51,15 +51,15 @@ School candidates may contact the college for assistance if they are unable to a
 **Education and Career Guidance (ECG)**
 
 <p>
-5. Candidates are encouraged to explore the range of education and career pathways available to them to make informed decisions about their next steps. They may refer to the following websites for more information:&nbsp;
+6.	School candidates who would like guidance on their education pathways can approach their teachers or ECG Counsellors supporting their schools. Candidates can also refer to the following websites to find out more about the range of education and career pathways available to them:
 
-• MOE’s CourseFinder ([www.moe.gov.sg/coursefinder](http://www.moe.gov.sg/coursefinder)) on the course offerings in AUs&nbsp;
+• MOE’s CourseFinder ([www.moe.gov.sg/coursefinder](http://www.moe.gov.sg/coursefinder))
 
-• MySkillsFuture ([go.gov.sg/mysfpreu](https://go.gov.sg/mysfpreu)) on education and career pathways&nbsp;
+• MySkillsFuture ([go.gov.sg/mysfpreu](https://go.gov.sg/mysfpreu))
 
 •&nbsp;ECG Googlesite ([go.gov.sg/ecgyijc](http://go.gov.sg/ecgyijc)) and Beyond A Levels Booklet ([go.gov.sg/beyondalevelsbooklet23](http://go.gov.sg/beyondalevelsbooklet23)) on application to institutes of higher learning, retaking A levels, important deadlines and more
 </p>
   
 <p>
-6. School candidates may also consult their teachers or ECG Counsellors supporting their schools about their next steps.&nbsp;To book an appointment with our YIJC ECG Counsellor, Ms Vina, fill out the Online Form&nbsp;<a href="https://go.gov.sg/yijcecg" target="_new">[https://go.gov.sg/yijcecg]</a>. You can also contact Ms Vina via the Telegram App. Her username is @ecgc\_v.&nbsp;To complement the ECG services provided by schools, candidates may make an appointment for counselling with an ECG Counsellor from the ECG Centre at MOE (Grange Road) via the <a href="go.gov.sg/moe-ecg-centre" target="_new">e-Appointment</a> system, calling the ECG hotline at 6831 1420, or emailing&nbsp;MOE_ECG@moe.gov.sg. The MOE ECG Centre will offer online or phone counselling from Friday, 10 February 2023 to Saturday, 18 March 2023 (Weekdays: 9am to 5pm; Saturdays: 9am to 12pm).
+7.	To complement the ECG support provided by schools, students can also make an ECG counselling appointment at https://go.gov.sg/moe-ecg-centre. The MOE ECG Centre offers online or phone counselling services to GCE A-Level candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).
 </p>
