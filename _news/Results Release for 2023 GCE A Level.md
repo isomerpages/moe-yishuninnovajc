@@ -56,8 +56,6 @@ School candidates may contact the college for assistance if they are unable to a
 • MOE’s CourseFinder ([www.moe.gov.sg/coursefinder](http://www.moe.gov.sg/coursefinder))
 
 • MySkillsFuture ([go.gov.sg/mysfpreu](https://go.gov.sg/mysfpreu))
-
-•&nbsp;ECG Googlesite ([go.gov.sg/ecgyijc](http://go.gov.sg/ecgyijc)) and Beyond A Levels Booklet ([go.gov.sg/beyondalevelsbooklet23](http://go.gov.sg/beyondalevelsbooklet23)) on application to institutes of higher learning, retaking A levels, important deadlines and more
 </p>
   
 <p>
