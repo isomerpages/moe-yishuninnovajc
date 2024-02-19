@@ -18,7 +18,7 @@ The results of the 2023 Singapore-Cambridge General Certificate of Education Adv
 	<b><u>Results Release for 2023 GCE A Level School Candidates</u></b>
 </p>
 <p>
-1.	School candidates can return to college to receive their results in their respective assigned venues from 2.30pm on Friday 23 February 2024. Please click here for your assigned venues.
+1.	School candidates can return to college to receive their results in their respective assigned venues from 2.30pm on Friday 23 February 2024. Please [Click here](/files/News/Venues.pdf) for your assigned venues.
 </p>
 <p>
 2.	School candidates will be permitted into the college from 1.15pm.  Please enter from the main college gate and proceed to your assigned venues.  You are not to loiter elsewhere in the college.
@@ -31,7 +31,7 @@ The results of the 2023 Singapore-Cambridge General Certificate of Education Adv
 **Appointing a proxy to collect a physical copy of your results**
 
 <p>
-School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results as well as have the Letter of Authorization with them when collecting the results on behalf of the school candidate.  The Letter of Authorization can be found here.
+School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results as well as have the Letter of Authorization with them when collecting the results on behalf of the school candidate.  The Letter of Authorization can be [found here](/files/News/YIJC_Letter_of_Authorisation.pdf).
 </p>
 <p>
 School candidates may contact the college for assistance if they are unable to appoint a proxy.  
