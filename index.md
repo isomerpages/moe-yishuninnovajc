@@ -28,8 +28,8 @@ sections:
           announcement: The results of the 2023 Singapore-Cambridge General Certificate of
             Education Advanced Level (GCE A-Level) examination will be released
             on Friday, 23 February 2024, 2.30pm.
-          link_text: ""
-          link_url: ""
+          link_text: Find out more
+          link_url: /news/01/
   - infopic:
       title: Orientation 2024
       subtitle: Events
