@@ -26,7 +26,7 @@ link above). You are not to loiter elsewhere in the college.</p>
 <p>School candidates who are unwell should seek medical attention and not
 return to school to collect their results. They can appoint a proxy to
 collect a physical copy of their results on their behalf from the school.
-More information on appointing a proxy can be found below.</p>
+More information on appointing a proxy can be found below:</p>
 <p></p>
 <p><strong><u>Appointing a proxy to collect a physical copy of your results</u></strong>
 </p>
