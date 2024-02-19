@@ -19,6 +19,17 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of GCE A-Level Examination Results
+          date: 23 February 2024
+          announcement: The results of the 2023 Singapore-Cambridge General Certificate of
+            Education Advanced Level (GCE A-Level) examination will be released
+            on Friday, 23 February 2024, 2.30 m.
+          link_text: Find out more
+          link_url: /news/01/
   - infopic:
       title: Orientation 2024
       subtitle: Events
