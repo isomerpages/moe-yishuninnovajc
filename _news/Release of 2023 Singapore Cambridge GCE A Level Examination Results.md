@@ -18,7 +18,9 @@ The results of the 2023 Singapore-Cambridge General Certificate of Education Adv
 	<b><u>Results Release for 2023 GCE A Level School Candidates</u></b>
 </p>
 <p>
-1.	School candidates can return to college to receive their results in their respective assigned venues from 2.30pm on Friday 23 February 2024. Please [Click here](/files/News/Venues.pdf) for your assigned venues.
+1.	School candidates can return to college to receive their results in their respective assigned venues from 2.30pm on Friday 23 February 2024. 
+
+Please [click here](/files/News/Venues.pdf) for your assigned venues.
 </p>
 <p>
 2.	School candidates will be permitted into the college from 1.15pm.  Please enter from the main college gate and proceed to your assigned venues.  You are not to loiter elsewhere in the college.
@@ -31,14 +33,16 @@ The results of the 2023 Singapore-Cambridge General Certificate of Education Adv
 **Appointing a proxy to collect a physical copy of your results**
 
 <p>
-School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results as well as have the Letter of Authorization with them when collecting the results on behalf of the school candidate.  The Letter of Authorization can be [found here](/files/News/YIJC_Letter_of_Authorisation.pdf).
+School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results as well as have the Letter of Authorization with them when collecting the results on behalf of the school candidate.  
+
+The Letter of Authorization can be [found here.](/files/News/YIJC_Letter_of_Authorisation.pdf)
 </p>
 <p>
 School candidates may contact the college for assistance if they are unable to appoint a proxy.  
 </p>
 
 <p>
-4.	School candidates who are unable to collect their results in person can also access their results online via Singapore Examinations and Assessment Board (SEAB)’s Candidates Portal at [www.seab.gov.sg](www.seab.gov.sg) from 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Tuesday, 20 February 2024.	
+4.	School candidates who are unable to collect their results in person can also access their results online via Singapore Examinations and Assessment Board (SEAB)’s Candidates Portal at <a href="www.seab.gov.sg">www.seab.gov.sg</a> from 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from Tuesday, 20 February 2024.	
 </p>  
 
 **Applications to Autonomous Universities**
@@ -59,5 +63,5 @@ School candidates may contact the college for assistance if they are unable to a
 </p>
   
 <p>
-7.	To complement the ECG support provided by schools, students can also make an ECG counselling appointment at [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre). The MOE ECG Centre offers online or phone counselling services to GCE A-Level candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).
+7.	To complement the ECG support provided by schools, students can also make an ECG counselling appointment at (<a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a>). The MOE ECG Centre offers online or phone counselling services to GCE A-Level candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).
 </p>
