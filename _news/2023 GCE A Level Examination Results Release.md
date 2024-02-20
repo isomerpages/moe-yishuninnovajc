@@ -40,7 +40,7 @@ the Letter of Authorization with them when collecting the results on behalf
 of the school candidate.</p>
 </li>
 </ol>
-<p>The <strong>Letter of Authorization</strong> can be <strong><a href="/files/News/YIJC_Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">found here</a></strong> 
+<p>The <strong>Letter of Authorization</strong> can be <strong><a href="/files/News/YIJC_Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">found here</a></strong>
 <a href="/files/News/YIJC_Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p>School candidates may contact the college for assistance if they are unable
