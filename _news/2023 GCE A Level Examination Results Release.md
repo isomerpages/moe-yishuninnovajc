@@ -77,6 +77,10 @@ the range of education and career pathways available to them:</p>
 </ol>
 <p>• MOE’s CourseFinder (<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 <p>• MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</p>
+<p>• ECG Googlesite (<a href="http://go.gov.sg/ecgyijc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgyijc</a>) and Beyond A Levels
+Booklet (<a href="http://go.gov.sg/beyondalevelsbooklet24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beyondalevelsbooklet24</a>)
+on application to institutes of higher learning, retaking A levels, important
+deadlines and more</p>
 <p></p>
 <ol start="8" data-tight="true" class="tight">
 <li>
