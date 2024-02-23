@@ -48,11 +48,12 @@ to appoint a proxy.</p>
 <li>
 <p>School candidates who are unable to collect their results in person can
 also access their results online via Singapore Examinations and Assessment
-Board (SEAB)’s Candidates Portal at <a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on Friday, 23 February
-2024 till 11.59pm on Thursday, 7 March 2024. School candidates who are
-eligible for Singpass can use their Singpass account to access SEAB’s Candidates
-Portal. School candidates who are International Students will receive their
-system-generated username via email from Tuesday, 20 February 2024.</p>
+Board (SEAB)’s Candidates Portal at <a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on Friday,
+23 February 2024 till 11.59pm on Thursday, 7 March 2024. School candidates
+who are eligible for Singpass can use their Singpass account to access
+SEAB’s Candidates Portal. School candidates who are International Students
+will receive their system-generated username via email from Tuesday, 20
+February 2024.</p>
 </li>
 </ol>
 <h4><strong>Applications to Autonomous Universities</strong></h4>
