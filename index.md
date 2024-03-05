@@ -30,8 +30,8 @@ sections:
             SP PowerGrid will be carrying out equipment maintenance works at the
             substation. If you need assistance, please email yijc@moe.edu.sg.
             Thank you.
-          link_text: Find out more
-          link_url: /news/01/
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Orientation 2024
       subtitle: Events
