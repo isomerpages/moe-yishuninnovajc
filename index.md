@@ -23,7 +23,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Update in School General Office Operating Hours
+        - title: Update in General Office Operating Hours
           date: 11 March 2024
           announcement: Our office will be closed on Mon, 11 March 2024 due to
             interruption of electricity supply to our college. This is because
