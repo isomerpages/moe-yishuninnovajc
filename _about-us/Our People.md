@@ -37,15 +37,6 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal1.jpg" style="width:20%">
-		</td>
- </tr>
- <tr>
-    <td style="text-align: center;">Mr Lim Kah Leong Marc
-		</td>
- </tr>
-	<tr>
-    <td style="text-align: center;">
 		<img src="/images/School Leaders/vice principal3.jpg" style="width:20%">
 		</td>
  </tr>
