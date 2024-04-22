@@ -8,7 +8,7 @@ third_nav_title: In the Media
 <h3><strong><u>Academic Excellence as Recompense for Mother's Sacrifices</u></strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07972.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSC07972.jpg">
 </div>
 <p></p>
 <p></p>
@@ -74,3 +74,5 @@ to contribute to YIJC because I believe in its potential.</p>
 despite various challenges they face. I'm confident that with the right
 opportunities, they would excel I want to return to my alma mater and make
 a positive contribution to the school," he said.</p>
+<p>Original source: <a href="https://www.beritaharian.sg/singapura/kecemerlangan-akademik-sebagai-balas-jasa-ibu" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/kecemerlangan-akademik-sebagai-balas-jasa-ibu</a> 
+</p>
