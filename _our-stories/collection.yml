@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - In the Media/.keep
       - In the Media.md
       - 2023 GCE A Level Examination Results Release.md
