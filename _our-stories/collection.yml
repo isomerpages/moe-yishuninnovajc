@@ -1,5 +1,5 @@
 collections:
-  news:
+  our-stories:
     output: true
     order:
       - 2023 GCE A Level Examination Results Release.md
