@@ -138,7 +138,6 @@ Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mdm Karoline Kamalam Pathrose<br>
 Mr Li Qingyi<br>
-Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
