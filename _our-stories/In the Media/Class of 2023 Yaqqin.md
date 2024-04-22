@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: In the Media
 ---
-<p><strong><u>Academic Excellence as Recompense for Mother's Sacrifices</u></strong>
-</p>
+<h3><strong><u>Academic Excellence as Recompense for Mother's Sacrifices</u></strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07972.jpg">
