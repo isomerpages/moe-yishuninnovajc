@@ -6,12 +6,11 @@ description: ""
 third_nav_title: In the Media
 ---
 <h3><strong><u>Academic Excellence as Recompense for Mother's Sacrifices</u></strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSC07972.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSC07969.jpg">
 </div>
-<p></p>
-<p></p>
+<p><em>Mr Michael de Silva (left) and Muhammad Yaqqin Mohd Yasin (right)</em>
+</p>
 <p></p>
 <p>From the age of five, when Muhammad Yaqqin Mohd Yasin lost his father,
 his mother had to take on more responsibilities than just being the sole
