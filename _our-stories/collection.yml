@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - In the Media/Class of 2022 Ng Jin Han Joshua.md
       - In the Media/Class of 2023 Yaqqin.md
       - In the Media/.keep
