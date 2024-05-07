@@ -6,7 +6,7 @@ third_nav_title: Direct School Admission
 variant: markdown
 ---
 ### **Application Process**
-1\. Complete the DSA online application form. Click&nbsp;[here](https://form.gov.sg/admin/form/66397f28cecabd226917dd57)&nbsp;for the form.
+1\. Complete the DSA online application form. Click&nbsp;[here](https://form.gov.sg/66397f28cecabd226917dd57)&nbsp;for the form.
 
 2\. Soft copies of the following documents should be submitted together in a single zipped file:
 
