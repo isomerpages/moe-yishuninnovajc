@@ -3,6 +3,7 @@ title: Application Process
 permalink: /admissions/dsa/application-process/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### **Application Process**
 1\. Complete the DSA online application form. Click&nbsp;[here](https://form.gov.sg/6441fd2c19d7c80013d48757)&nbsp;for the form.
@@ -14,8 +15,8 @@ third_nav_title: Direct School Admission
 * portfolio (if relevant)
 
 3\. Applicants must submit their applications:<br>
-**\-&nbsp; &nbsp;Phase 1 by 5pm, 26 June 2023**<br>
-**\-&nbsp; &nbsp;Phase 2 by 5pm, 10 Aug 2023**<br>
+**\-&nbsp; &nbsp;Phase 1 by 5pm, 24 June 2024**<br>
+**\-&nbsp; &nbsp;Phase 2 by 5pm, 12 Aug 2024**<br>
 
 
 Late applications will not be considered.
