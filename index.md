@@ -19,15 +19,6 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-  - infopic:
-      title: Orientation 2024
-      subtitle: Events
-      id: infopic
-      description: A warmest welcome to our new students of Yishun Innova Junior College!
-      button: Find out more
-      url: /2024-orientation/students/
-      image: /images/2024 Orientation/Orientation_2024.png
-      alt: Adventura
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
