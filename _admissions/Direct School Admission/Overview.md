@@ -3,6 +3,7 @@ title: Overview
 permalink: /admissions/dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### **Direct School Admission**
 Graduating students from mainstream Singapore secondary schools can apply to enrol into Yishun Innova Junior College (YIJC) based on their achievements and talents through DSA. Students admitted to YIJC via DSA are expected to honour their commitment in the relevant talent areas.&nbsp;  
@@ -65,7 +66,7 @@ All applications should be accompanied by an e-portfolio consisting of the follo
 * **Awards / certificates**&nbsp;based on past leadership experience&nbsp;
 * **Related leadership courses**&nbsp;that you have attended
 
-Successful applicants will serve as a student leader in YIJC.
+Successful applicants will serve as student leaders in the Students' Council Co-Curricular Activity at YIJC.
 
 ##### **(V) Language and Humanities**
 **Malay Language Elective Programme (MLEP)**<br>
