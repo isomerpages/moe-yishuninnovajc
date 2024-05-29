@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Our College Identity
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/sparkyi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/SPARKYI.jpg">
 </div>
 <p>Introducing <strong>SPARKYI</strong>, the fiery and vibrant mascot of Yishun
 Innova Junior College!&nbsp;</p>
