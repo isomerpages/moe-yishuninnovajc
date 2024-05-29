@@ -6,6 +6,8 @@ description: ""
 third_nav_title: What's Happening
 ---
 <h3><strong>JC1 Orientation 2024</strong></h3>
+<p><em>Adventura - Explore, Experience, Evolve</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 Images/yijc_ori_2024.png">
 </div>
