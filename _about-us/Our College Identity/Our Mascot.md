@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our College Identity
 ---
-<p></p>
-<p></p>
+<h3>Our Mascot</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/SPARKYI.jpg">
 </div>
@@ -21,6 +20,5 @@ the intricate design of its body adorned with stars and flame symbols.
 These elements represent the college’s commitment to nurture students to
 thrive in the VUCA future. Additionally, the integration of the house colours
 serves as a symbol of the unity and camaraderie of the college community.&nbsp;</p>
-<p><strong>SPARKYI</strong> ignites a blaze of enthusiasm, inspiring each
-and every one of our students to shine brightly and carry the torch of
-YIJC forward.</p>
+<h4><strong>SPARKYI</strong> ignites a blaze of enthusiasm, inspiring each and every one of our students to shine brightly and carry the torch of YIJC forward.</h4>
+<p></p>
