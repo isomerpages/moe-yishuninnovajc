@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: What's Happening
 ---
-<p></p>
+<h3><strong>JC1 Orientation 2024</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jc1_orientation_2024.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 Images/yijc_ori_2024.png">
 </div>
-<p></p>
 <p>The 2024 Orientation Theme, "<strong>Adventura - Explore, Experience, Evolve</strong>",
 signifies an exciting journey for the new JC1 students to explore their
 individual strengths and areas of growth, adapt to the new college environment
