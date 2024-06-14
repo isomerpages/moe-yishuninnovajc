@@ -2,7 +2,9 @@ collections:
   our-stories:
     output: true
     order:
-      - What's Happening/In Conversation With YI Alumni.md
       - What's Happening/.keep
+      - What's Happening/JC1 Orientation.md
+      - What's Happening/In Conversation With YI Alumni.md
+      - What's Happening/Cultural Exchange Programme.md
       - In the Media/Class of 2023 Yaqqin.md
       - In the Media/.keep
