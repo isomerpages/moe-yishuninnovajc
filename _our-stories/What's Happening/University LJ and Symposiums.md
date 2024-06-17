@@ -11,10 +11,10 @@ third_nav_title: What's Happening
 </div>
 <p><em>One of the NTU learning journeys at the School of Social Sciences.</em>
 </p>
-<p>To start the year off meaningfully, the college organised learning journeys
-to 13 different faculties in the 6 autonomous universities on 9 January
-2024. In these visits, various university representatives highlighted the
-unique aspects of their degree programmes and provided insight on what
+<p>To help broaden our students' horizons, the college organised learning
+journeys to 13 different faculties in the 6 autonomous universities on
+9 January 2024. In these visits, various university representatives highlighted
+the unique aspects of their degree programmes and provided insight on what
 our students can expect as an undergraduate. For some faculties, students
 had the opportunity to see and experience first-hand some of the equipment
 that they will use for their undergraduate studies. This was followed by
