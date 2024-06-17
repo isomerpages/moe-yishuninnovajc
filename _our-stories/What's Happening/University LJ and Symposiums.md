@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: What's Happening
 ---
+<h4>Further Education and Career-related Symposiums</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="one of the learning journeys at NTU" src="/images/2024 Images/IMG_20240109_WA0189.jpg">
+</div>
+<p><em>One of the NTU learning journeys at the School of Social Sciences.</em>
+</p>
 <p>To start the year off meaningfully, the college organised learning journeys
 to 13 different faculties in the 6 autonomous universities on 9 January
 2024. In these visits, various university representatives highlighted the
