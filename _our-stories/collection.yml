@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - What's Happening/College Open House.md
       - What's Happening/.keep
       - What's Happening/JC1 Orientation.md
       - What's Happening/In Conversation With YI Alumni.md
