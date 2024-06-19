@@ -9,7 +9,7 @@ third_nav_title: What's Happening
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="one of the learning journeys at NTU" src="/images/2024 Images/IMG_20240109_WA0189.jpg">
 </div>
-<p><em>One of the many learning journeys organised in January 2024, here - our students visited the NTU School of Social Sciences.</em>
+<p><em>One of the many learning journeys organised in January 2024 - here, our students visited the NTU School of Social Sciences.</em>
 </p>
 <p>To help broaden our students' horizons, the college organised learning
 journeys to 13 different faculties in the 6 autonomous universities on
