@@ -299,7 +299,6 @@ Mr Tan Hao Kai
 <br><br>
 	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
 Mr Ang Tze Siong Clayton
-
 <br><br>
 	<b><font color="003dA5">School Staff Developer</font></b><br>
 Mdm Goh Sok Sing
@@ -363,8 +362,9 @@ Mr Wong Yih Chong
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
-	<b><font color="003dA5">Admin Manager</font></b><br>
-Mdm Koh Chwee Ngoh
+	<b><font color="003dA5">Admin Managers</font></b><br>
+Mdm Koh Chwee Ngoh<br>
+	Mrs Lee See Nee
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
 Mr Lee Boon Yong
@@ -396,7 +396,6 @@ Mr Zainuddin Bin Awaluddin
 <br><br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mdm Maryani Binte Mohamed<br>
-Mdm Deelaila Binte Dollah<br>
 Mdm S Kalaiselvi<br>
 Mr Teo Cheng Hoe Peter<br>
 Mdm Chan Puay Mui<br>
