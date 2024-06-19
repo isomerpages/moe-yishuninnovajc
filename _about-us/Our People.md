@@ -136,7 +136,6 @@ Ms Charis Lee Xin-Ning<br>
 Ms Chew Ziying<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
-Mdm Karoline Kamalam Pathrose<br>
 Mr Li Qingyi<br>
 Ms Mark Jin Rong<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
@@ -196,6 +195,9 @@ Ms Ng Sock Cheng
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
 <br><br>
+		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
+Mr Low Rui Hao
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
 Mdm Lee Koon Ha
 <br><br>
@@ -207,7 +209,6 @@ Mr Joshua Kim Kwan<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
 Mr Lim Kah Hong<br>
-Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
 Ms Tan Rui Min Cristal
@@ -298,9 +299,7 @@ Mr Tan Hao Kai
 <br><br>
 	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
 Mr Ang Tze Siong Clayton
-<br><br>
-	<b><font color="003dA5">HOD/Special Projects</font></b><br>
-Mdm Tan Xiao Juan Magdalene
+
 <br><br>
 	<b><font color="003dA5">School Staff Developer</font></b><br>
 Mdm Goh Sok Sing
@@ -313,8 +312,6 @@ Ms Lim Hwee Ming Irene
 Ms Chan Tze Cheng Tricia <br>
 Mr Koh Chin Poh<br>
 Mr Tan Kok Ping Lawrence<br>
-Ms Wong Mei Yee
-
 <br><br>
 <b>Chemistry</b><br>
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
