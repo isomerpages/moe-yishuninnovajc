@@ -177,9 +177,7 @@ Mr Goh Han-Ming Jasper
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Jeyseelan S/O Kalimuthu<br>
 Mr Loke Zhi Ming Christopher<br>
-Ms Siti Zakiah Bte Sidek
 
-	
 </p>
 </div>
 </li>
@@ -314,8 +312,8 @@ Ms Lim Hwee Ming Irene
 Ms Chan Tze Cheng Tricia <br>
 Mr Koh Chin Poh<br>
 Mr Tan Kok Ping Lawrence<br>
-<br><br>
-<b>Chemistry</b><br>
+<br>
+	<b>Chemistry</b><br>
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
 Mrs Lim Sze Cheng
 <br><br>
