@@ -136,7 +136,6 @@ Ms Charis Lee Xin-Ning<br>
 Ms Chew Ziying<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
-Mdm Karoline Kamalam Pathrose<br>
 Mr Li Qingyi<br>
 Ms Mark Jin Rong<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
@@ -178,9 +177,7 @@ Mr Goh Han-Ming Jasper
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Jeyseelan S/O Kalimuthu<br>
 Mr Loke Zhi Ming Christopher<br>
-Ms Siti Zakiah Bte Sidek
 
-	
 </p>
 </div>
 </li>
@@ -196,6 +193,9 @@ Ms Ng Sock Cheng
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
 <br><br>
+		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
+Mr Low Rui Hao
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
 Mdm Lee Koon Ha
 <br><br>
@@ -207,7 +207,6 @@ Mr Joshua Kim Kwan<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
 Mr Lim Kah Hong<br>
-Mr Low Rui Hao<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
 Ms Tan Rui Min Cristal
@@ -279,9 +278,12 @@ Ms Cara Mok Shuwen
 <br><br>
 	<b><font color="003dA5">Subject Head/Project Work</font></b><br>
 Ms Lee Xiuli
-<br><br>
+<br><br> <b><font color="003dA5">Subject Head/Student Well-being</font></b><br>
+	Ms Nasihah Binte Abdul Majid<br>
+
+	
+<br> 
 	<b><font color="003dA5">Teachers</font></b><br>	
-Ms Nasihah Binte Abdul Majid<br>
 Ms Tay Shunwei Felicia<br>
 Mrs Teo Eng Leong Emily	
 </p>
@@ -293,14 +295,11 @@ Mrs Teo Eng Leong Emily
 <label for="accordion9">Science Department</label>
 <div>
 <p>
-	<b><font color="003dA5">HOD/Science (covering)</font></b><br>
+	<b><font color="003dA5">HOD/Science</font></b><br>
 Mr Tan Hao Kai
 <br><br>
 	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
 Mr Ang Tze Siong Clayton
-<br><br>
-	<b><font color="003dA5">HOD/Special Projects</font></b><br>
-Mdm Tan Xiao Juan Magdalene
 <br><br>
 	<b><font color="003dA5">School Staff Developer</font></b><br>
 Mdm Goh Sok Sing
@@ -313,10 +312,8 @@ Ms Lim Hwee Ming Irene
 Ms Chan Tze Cheng Tricia <br>
 Mr Koh Chin Poh<br>
 Mr Tan Kok Ping Lawrence<br>
-Ms Wong Mei Yee
-
-<br><br>
-<b>Chemistry</b><br>
+<br>
+	<b>Chemistry</b><br>
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
 Mrs Lim Sze Cheng
 <br><br>
@@ -366,8 +363,9 @@ Mr Wong Yih Chong
 <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <p>
-	<b><font color="003dA5">Admin Manager</font></b><br>
-Mdm Koh Chwee Ngoh
+	<b><font color="003dA5">Admin Managers</font></b><br>
+Mdm Koh Chwee Ngoh<br>
+	Mrs Lee See Nee
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
 Mr Lee Boon Yong
@@ -380,7 +378,8 @@ Ms Choh Mei Ling Wendy<br>
 Mdm New Bee Hoon Janet
 <br><br>
 	<b><font color="003dA5">CSO</font></b><br>
-Mdm Norlizah Bte Isa
+Mdm Norlizah Bte Isa<br>
+Mrs Nurulhuda
 <br><br>
 	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Vina Sim
@@ -399,7 +398,6 @@ Mr Zainuddin Bin Awaluddin
 <br><br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mdm Maryani Binte Mohamed<br>
-Mdm Deelaila Binte Dollah<br>
 Mdm S Kalaiselvi<br>
 Mr Teo Cheng Hoe Peter<br>
 Mdm Chan Puay Mui<br>
