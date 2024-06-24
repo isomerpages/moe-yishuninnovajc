@@ -196,9 +196,6 @@ Mr Tan Wai Yean
 		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
 Mr Low Rui Hao
 <br><br>
-	<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
-Mdm Lee Koon Ha
-<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chew Hui Teng<br>
 Mr Foo Seck Shin<br>
