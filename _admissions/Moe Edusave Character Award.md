@@ -13,7 +13,7 @@ an award voucher of <strong>S$500</strong>.</p>
 <h4><strong><u>NOMINATION OF YIJC STUDENTS FOR 2024 MOE ECHA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public </strong>
+<p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public</strong>
 </p>
 <p><em>(Student’s self-nomination should be supported by a peer endorsement)</em>
 </p>
