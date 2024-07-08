@@ -13,9 +13,7 @@ an award voucher of <strong>S$500</strong>.</p>
 <h4><strong><u>NOMINATION OF YIJC STUDENTS FOR 2024 MOE ECHA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public</strong>
-</p>
-<p><em>(Student’s self-nomination should be supported by a peer endorsement)</em>
+<p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public               </strong><em>(Student’s self-nomination should be supported by a peer endorsement)</em>
 </p>
 </li>
 <li>
@@ -76,11 +74,11 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 <p>Extent (scope and depth) of impact of actions</p>
 </li>
 <li>
-<p>Substantiation of relevant examples for the values demonstrated and the
+<p>Substantiation of relevant examples* for the values demonstrated and the
 actions shown</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Examples quoted should be from</p>
+</li>
+</ul>
+<p>*Examples quoted should be from:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>JC1 students : 1 Nov 2023 to 30 Sep 2024</strong>
@@ -89,10 +87,6 @@ actions shown</p>
 <li>
 <p><strong>JC2 students : 1 Oct 2023 to 30 Sep 2024</strong>
 </p>
-</li>
-</ul>
-</li>
-</ul>
 </li>
 </ul>
 <p></p>
