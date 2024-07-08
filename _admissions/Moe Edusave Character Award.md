@@ -76,6 +76,9 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 <p>Substantiation of relevant examples for the values demonstrated and the
 actions shown</p>
 </li>
+<li>
+<p>Personal Qualities</p>
+</li>
 </ul>
 <p>Examples quoted should be from</p>
 <ul data-tight="true" class="tight">
