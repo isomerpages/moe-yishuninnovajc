@@ -67,6 +67,9 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 <h4><strong><u>SELECTION CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Personal Qualities</p>
+</li>
+<li>
 <p>Consistency and Initiative shown in values and actions</p>
 </li>
 <li>
@@ -75,11 +78,8 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 <li>
 <p>Substantiation of relevant examples for the values demonstrated and the
 actions shown</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p>Personal Qualities</p>
-</li>
-</ul>
 <p>Examples quoted should be from</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,6 +89,10 @@ actions shown</p>
 <li>
 <p><strong>JC2 students : 1 Oct 2023 to 30 Sep 2024</strong>
 </p>
+</li>
+</ul>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
