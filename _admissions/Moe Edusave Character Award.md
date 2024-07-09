@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong><u>Moe Edusave Character Award</u></strong></h3>
-<p>The MOE Edusave Character Award (<strong>ECHA</strong>), recognises Singaporean
+<p>The MOE Edusave Character Award (<strong>ECHA</strong>) recognises Singaporean
 students who demonstrate exemplary character and outstanding personal qualities
 through their behaviour and actions.</p>
 <p>MOE ECHA recipients at Pre-U Level will each receive a certificate and
@@ -21,15 +21,12 @@ an award voucher of <strong>S$500</strong>.</p>
 </p>
 </li>
 <li>
-<p>Where to nominate (link is active from 8 July, 1200 hrs onwards):</p>
-</li>
-</ul>
-<p><strong>Nomination Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024echa</a>
+<p>Please find the <strong>Nomination Link here: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024echa</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Images/echa_qr_code.png">
-</div>
-<h3><strong><u>ELIGIBILITY CRITERIA</u></strong></h3>
+<p>(link is active from 8 July, 1200 hrs onwards):</p>
+</li>
+</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/2024echa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Images/echa_qr_code.png"></a>
+<h4><strong><u>ELIGIBILITY CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Singapore citizens</strong>
