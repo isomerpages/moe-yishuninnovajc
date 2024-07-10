@@ -35,5 +35,5 @@ sections:
             character and outstanding personal qualities? Find out more by
             clicking on the link below!
           link_text: Nomination information for ECHA
-          link_url: https://yijc.edu.sg/moe-edusave-character-award/
+          link_url: https://www.yijc.moe.edu.sg/moe-edusave-character-award/
 ---
