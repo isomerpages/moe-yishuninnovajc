@@ -4,7 +4,7 @@ permalink: /moe-edusave-character-award/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>Moe Edusave Character Award</u></strong></h3>
+<h3><strong><u>MOE Edusave Character Award (ECHA)</u></strong></h3>
 <p>The MOE Edusave Character Award (<strong>ECHA</strong>) recognises Singaporean
 students who demonstrate exemplary character and outstanding personal qualities
 through their behaviour and actions.</p>
