@@ -25,4 +25,15 @@ sections:
       description: '<div style="text-align: center;"><iframe width="560" height="315"
         src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe></div>'
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Moe Edusave Character Award
+          date: 08 July 2024
+          announcement: Keen to nominate students who have demonstrated exemplary
+            character and outstanding personal qualities? Find out more by
+            clicking on the link below!
+          link_text: Nomination information for ECHA
+          link_url: https://yijc.edu.sg/moe-edusave-character-award/
 ---
