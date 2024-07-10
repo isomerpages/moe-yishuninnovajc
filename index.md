@@ -29,7 +29,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: MOE Edusave Character Award
+        - title: MOE Edusave Character Award (ECHA)
           date: 08 July 2024
           announcement: Keen to nominate students who have demonstrated exemplary
             character and outstanding personal qualities? Find out more by
