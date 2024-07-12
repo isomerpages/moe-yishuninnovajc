@@ -19,12 +19,6 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-  - infobar:
-      title: Yishun Innova Junior College
-      subtitle: Rise up to every challenge at
-      description: '<div style="text-align: center;"><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe></div>'
   - announcements:
       title: Announcements
       id: announcements
@@ -36,4 +30,10 @@ sections:
             clicking on the link below!
           link_text: Nomination information for ECHA
           link_url: https://www.yijc.moe.edu.sg/moe-edusave-character-award/
+  - infobar:
+      title: Yishun Innova Junior College
+      subtitle: Rise up to every challenge at
+      description: '<div style="text-align: center;"><iframe width="560" height="315"
+        src="https://www.youtube.com/embed/GNoojU-pzeg" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe></div>'
 ---
