@@ -1,5 +1,4 @@
 collections:
   1archive:
     output: true
-    order:
-      - Canteen Vendor.md
+    order: []
