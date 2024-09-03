@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Canteen Vendor.md
       - Contact Us.md
