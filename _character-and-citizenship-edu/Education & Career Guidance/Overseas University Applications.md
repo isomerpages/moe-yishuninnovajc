@@ -10,6 +10,7 @@ variant: markdown
 **Important information**
 * Most applications to US universities have to be made on the Common App platform, while applications to UK universities have to be made on the UCAS platform. See sub-sections (2) and (3) below for more information on applications to US and UK universities respectively.
 * The application deadlines are usually in early January (next year). This means that current JC2 students will need to request for **predicted grades**, as your A Level results will not be ready yet. Request for your predicted grades can be made between **14 Aug 2024 – 30 Sep 2024**. You can make a request via this [online form](https://form.gov.sg/66f6346b362d593ca47439ad).
+* Although the deadline for request for predicted grades was 30 Sep 2024, we are able to process your requests on an ad-hoc basis. Please note that we may not be so quick in responding to your requests as the teachers might be away for national examinations duties at the end of the year.
 * Both UK and US universities require a personal statement and recommendation letter(s) from your tutors.
 
 _Personal statement_: Admissions offices in the UK and the US expect to see different things in the personal statement. Follow [the link here](https://drive.google.com/drive/folders/1-f5QMPR5gPmm3KSfn8KijHDo37eItFkx) (login to Student ICON email account) to find out more about how you can write an impressive personal statement for the universities you are applying to!
