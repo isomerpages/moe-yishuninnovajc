@@ -22,14 +22,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      announcement_items:
-        - title: MOE Edusave Character Award (ECHA)
-          date: 08 July 2024
-          announcement: Keen to nominate students who have demonstrated exemplary
-            character and outstanding personal qualities? Find out more by
-            clicking on the link below!
-          link_text: Nomination information for ECHA
-          link_url: https://www.yijc.moe.edu.sg/moe-edusave-character-award/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
