@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subject Combinations
 variant: tiptap
 ---
-<h4><strong>The A-Level Curriculum</strong></h4>
+<h3><strong>The A-Level Curriculum</strong></h3>
 <p>Ignite the flames of knowledge as you explore the various possibilities
 on offer here at YIJC!</p>
 <p>Our students undertake the Singapore-Cambridge GCE A-Level Curriculum,
