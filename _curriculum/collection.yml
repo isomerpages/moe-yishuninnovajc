@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Subject Combinations/.keep
-      - Subject Combinations/Subject Combinations & Eligibility.md
+      - Subject Combinations/The A Level Curriculum.md
       - Subject Combinations/Subjects Offered.md
       - Subject Combinations/Subject Combinations.md
       - Subject Combinations/Subject Eligibility Criteria.md
