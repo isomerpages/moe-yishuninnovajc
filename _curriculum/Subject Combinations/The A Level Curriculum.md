@@ -11,9 +11,9 @@ on offer here at YIJC!</p>
 <p>Our students undertake the Singapore-Cambridge GCE A-Level Curriculum,
 typically offering&nbsp;<strong>three H2 content-based subjects</strong>&nbsp;and
 one&nbsp;<strong>H1 content-based subject</strong>.&nbsp;</p>
-<p>The three&nbsp;<strong>compulsory</strong>&nbsp;subjects for students
+<p>The three other&nbsp;<strong>compulsory</strong>&nbsp;subjects for students
 are&nbsp;<strong>H1 General Paper, Project Work and H1 Mother Tongue</strong>.&nbsp;
-In their first year, students must offer&nbsp;<strong>H1 Project Work</strong>.</p>
+In their first year, students must offer&nbsp;<strong>Project Work</strong>.</p>
 <h4><strong>Mother Tongue (MT)</strong></h4>
 <p>Students must offer Mother Tongue (H1) unless they have obtained a minimum
 grade of D7 for Higher Mother Tongue at GCE O-Level.</p>
