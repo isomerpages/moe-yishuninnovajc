@@ -37,5 +37,7 @@ or F9 in their GCE O-Level Examination (subjected to approval).</p>
 one of the four content-based subjects. A subject cannot be offered at
 both H1 and H2 levels. Students must offer at least one subject from Group
 (A) Mathematics and Science subjects, and at least one subject from Group
-(B) Humanities and Arts subjects.
-<br>(See the full list of subjects offered in the next sub-tab.)</p>
+(B) Humanities and Arts subjects.</p>
+<p>
+<br>See the full list of subjects offered <strong><u>here.</u></strong>
+</p>
