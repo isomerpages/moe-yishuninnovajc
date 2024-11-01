@@ -10,22 +10,21 @@ students who demonstrate exemplary character and outstanding personal qualities
 through their behaviour and actions.</p>
 <p>MOE ECHA recipients at Pre-U Level will each receive a certificate and
 an award voucher of <strong>S$500</strong>.</p>
-<h4><strong><u>NOMINATION OF YIJC STUDENTS FOR 2024 MOE ECHA</u></strong></h4>
+<h4><strong><u>NOMINATION OF YIJC STUDENTS FOR 2025 MOE ECHA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public </strong><em>(Student’s self-nomination should be supported by a peer endorsement)</em>
 </p>
 </li>
 <li>
-<p>Period of nomination: <strong>8 July 2024, 1200 hrs to 31 July 2024, 1800 hrs</strong>
+<p>Period of nomination: <em>To be updated in July 2025</em>
 </p>
 </li>
 <li>
-<p>Please find the <strong>Nomination Link here: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024echa</a>
+<p>Please find the <strong>Nomination Link here: </strong><em>To be updated in July 2025</em>
 </p>
-<p>(link is active from 8 July, 1200 hrs onwards):</p>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/2024echa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Images/echa_qr_code.png"></a>
+</ul>
 <h4><strong><u>ELIGIBILITY CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,11 +74,11 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 actions shown. Examples quoted should be from:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>JC1 students : 1 Nov 2023 to 30 Sep 2024</strong>
+<p><strong>JC1 students: </strong><em>To be updated in July 2025</em>
 </p>
 </li>
 <li>
-<p><strong>JC2 students : 1 Oct 2023 to 30 Sep 2024</strong>
+<p><strong>JC2 students: </strong><em>To be updated in July 2025</em>
 </p>
 </li>
 </ul>
