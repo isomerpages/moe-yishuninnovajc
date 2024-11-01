@@ -1,6 +1,6 @@
 ---
 title: The A Level Curriculum
-permalink: /curriculum/overview-alevels/
+permalink: /curriculum/overviewalevels/
 description: ""
 third_nav_title: Subject Combinations
 variant: tiptap
