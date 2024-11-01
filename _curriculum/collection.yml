@@ -2,6 +2,12 @@ collections:
   curriculum:
     output: true
     order:
+      - Subject Combinations/.keep
+      - Subject Combinations/The A Level Curriculum.md
+      - Subject Combinations/Subjects Offered.md
+      - Subject Combinations/Subject Combinations.md
+      - Subject Combinations/Subject Eligibility Criteria.md
+      - Subject Combinations/Subject Combination Eligibility Criteria.md
       - Signature Programmes/.keep
       - Signature Programmes/Overview.md
       - Signature Programmes/Resilience Building Programme.md
@@ -11,10 +17,4 @@ collections:
       - Signature Programmes/Education & Career Guidance.md
       - Signature Programmes/Digital Literacies.md
       - Signature Programmes/Internationalisation & Cross Cultural Programme.md
-      - Subject Combinations/.keep
-      - Subject Combinations/The A Level Curriculum.md
-      - Subject Combinations/Subjects Offered.md
-      - Subject Combinations/Subject Combinations.md
-      - Subject Combinations/Subject Eligibility Criteria.md
-      - Subject Combinations/Subject Combination Eligibility Criteria.md
       - Character & Citizenship Edu/.keep
