@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **International Students**
 #### **International Students Seeking Admission to YIJC**
-International students with good academic results and active co-curricular involvement are welcome to apply to pursue a junior college education at Yishun Innova Junior College. The application period begins from end December to 15 Jan 2024. Admission is subject to availability of vacancies after JAE school posting.
+International students with good academic results and active co-curricular involvement are welcome to apply to pursue a junior college education at Yishun Innova Junior College. The application period begins from end December to 13 Jan 2025. Admission is subject to availability of vacancies after JAE school posting.
 
 International Students (IS) seeking admission to YIJC are required to sit for a centralised assessment (J-PACT - Junior College Principals Academy Certification Test) conducted by&nbsp;[Principals Academy Inc (PAI)](https://www.pai.sg/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=105).&nbsp;
 
@@ -15,9 +15,9 @@ The J-PACT results only provide a benchmark for all international students seeki
 Applicants who have passed the J-PACT test and wish to apply for admission to Yishun Innova Junior College would also need to fulfil the following application pre-requisites and take the college-based entrance test(s) to ascertain their eligibility for admission and to choose specific subject combinations.
 
 #### **Application Pre-requisites**
-1\. Applicant is 16 to 18+ years old as of 1 January 2024.<br>
+1\. Applicant is 16 to 18+ years old as of 1 January 2025.<br>
 2\. Applicant has passed the J-PACT test.<br>
-3\. Applicant has attained good academic results from 2023 examination results in the previous school
+3\. Applicant has attained good academic results from 2024 examination results in the previous school
 
 #### **Application Procedure**
 1\. Complete the&nbsp;[application form here](https://go.gov.sg/yijc-is).<br>
@@ -29,7 +29,7 @@ Applicants who have passed the J-PACT test and wish to apply for admission to Yi
 * any other relevant documents <br>
 
 3\. Email relevant documents to YIJC Admission Executive, Ms Wendy Choh at&nbsp;[yijc@moe.edu.sg](mailto:yijc@moe.edu.sg)<br>
-4\. Application deadline:&nbsp;**10 January 2024**<br>
+4\. Application deadline:&nbsp;**10 January 2025**<br>
 5\. Incomplete or applications received after the closing date will not be considered.
 
 #### **Selection Process**
@@ -44,7 +44,7 @@ Selection Test (During Orientation)
 * H2 Art
 * H2 Computing
 
-2\. The schedule of the entrance tests will be made known to shortlisted applicants. Shortlisted applicants will be informed by 19 Jan 2024. Entrance test dates are currently scheduled on 22 Jan &amp; 23 Jan 2024. Candidates are strongly encouraged to prepare well. Each applicant is only allowed to take the entrance tests once.
+2\. The schedule of the entrance tests will be made known to shortlisted applicants. Shortlisted applicants will be informed by 20 Jan 2025. Entrance test dates are currently scheduled on 22 Jan &amp; 23 Jan 2025. Candidates are strongly encouraged to prepare well. Each applicant is only allowed to take the entrance tests once.
 
 The standard International Student Entrance Test Fee Rate (inclusive of GST) for one subject is&nbsp;**S$44**&nbsp;and&nbsp;**S$22**&nbsp;for every additional subject.
 
