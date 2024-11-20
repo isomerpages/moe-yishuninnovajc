@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **Returning Singaporeans**
-#### **Returning Singaporeans Seeking Admission to YIJC in 2024**
+#### **Returning Singaporeans Seeking Admission to YIJC**
 Returning Singaporean children (RS) seeking admission to Yishun Innova Junior College are strongly encouraged to sit for&nbsp;[School Placement Exercise for Returning Singaporeans (MOE SPERS – JC/MI)](https://www.moe.gov.sg/returning-singaporeans/post-secondary)&nbsp;in order to secure a place in a Junior College or Millennia Institute. MOE SPERS – JC/MI is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the new academic year.&nbsp;&nbsp;Admission is subject to availability of vacancies in the school, after JAE posting.
 
 #### **Application Pre-requisites**
