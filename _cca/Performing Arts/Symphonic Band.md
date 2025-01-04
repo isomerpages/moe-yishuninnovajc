@@ -17,7 +17,7 @@ not only create beautiful music but also forge stronger friendships. Whether
 you're an experienced musician or just starting out, our band offers a
 welcoming environment for self-expression, musical growth, and personal
 development.</p>
-<p><strong>What sets YISB apart? </strong>
+<p><strong>What sets YISB apart?</strong>
 </p>
 <p><strong>Expert Instruction and Performance Opportunities</strong>: Our
 dedicated instructors bring experience and passion to guide you toward
