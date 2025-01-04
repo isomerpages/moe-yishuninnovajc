@@ -20,7 +20,7 @@ to 6.30pm. During CCA sessions, members collaborate on various Values-In-Action
 based on community needs. These opportunities help members develop leadership,
 teamwork and interpersonal skills while building stronger friendships.
 We also organise team-building games to strengthen camaraderie.</p>
-<p><u>Some of our key events/initiatives include: </u>
+<p><u>Some of our key events/initiatives include:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
