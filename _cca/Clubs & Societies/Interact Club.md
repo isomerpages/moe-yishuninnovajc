@@ -5,4 +5,49 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<h3><strong>Interact Club</strong></h3><div class="iframe-wrapper"><iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5YVvH3bUj8M"></iframe></div><p>Do you love to help those in need? If the answer is ‘yes’, then Yishun Innova Junior College’s Interact Club is the CCA for you. We are looking for team players who are patient, committed and have the heart to help others. Interact Club’s motto is ‘service above self’. We plan and organise volunteer work so that we can give back to the community. These typically include activities with different groups of people like the elderly and the children. These activities serve the community, but they also make us more empathetic towards people from different walks of life.</p><p>Interact Club conducts two CCA sessions a week, on Wednesdays and Fridays, from 4.30pm to 6.30pm. During CCA sessions, our members would discuss and plan the various Values-In-Action (VIA) projects in smaller groups or propose and initiate any new VIA projects to meet the needs of the target community. These varied opportunities allow our members to develop their leadership and interpersonal skills and forge stronger friendships. We also organise games sessions for our members to help them build camaraderie.</p><p><u>Some of our CCA highlights include:</u></p><ul data-tight="true" class="tight"><li><p><strong>Dining in the Dark</strong> – Our College collaborates with the Singapore Association for the Visually Handicapped to organise this fundraising event. Participants will consume a meal in utter darkness, allowing them to relate with the hardships the visually impaired deal with when carrying out their daily activities.</p></li><li><p><strong>Pasar Pagi </strong>– This programme allows members to coordinate and plan simple but engaging activities and make long lasting memories with the elderly from Sri Narayana Mission Home. Pasar Pagi also allows Interact members to better understand and appreciate the older generation.</p></li><li><p><strong>ND imPact</strong> – We conduct an annual National Day themed programme for the children from Campus Impact and Life Student Care (Yishun) to let them learn more about Singapore’s rich heritage and culture through fun and meaningful activities and inculcate a sense of belonging to Singapore.</p></li><li><p><strong>Partnership with different organisations </strong>– Our partnership with the Rotary Club and the Rotaract Club of Singapore East provide other opportunities for us to serve the wider community which include the elderly, the less privileged children, and the intellectually disabled</p></li></ul><p></p>
+<h3><strong>Interact Club</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5YVvH3bUj8M"></iframe>
+</div>
+<p>Do you have a passion for helping others? If so, Yishun Innova Junior
+College’s Interact Club might be the CCA for you. We seek compassionate,
+committed team players who are eager to make a difference. Guided by our
+motto, ‘Service Above Self’, we plan and organise volunteer work that supports
+the community and fosters empathy for people from all walks of life.</p>
+<p>Interact Club meets twice a week, on Wednesdays and Fridays, from 4.30pm
+to 6.30pm. During CCA sessions, members collaborate on various Values-In-Action
+(VIA) projects, either planning ongoing initiatives or proposing new ones
+based on community needs. These opportunities help members develop leadership,
+teamwork and interpersonal skills while building stronger friendships.
+We also organise team-building games to strengthen camaraderie.</p>
+<p><u>Some of our key events/initiatives include: </u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dining in the Dark – A fundraising event in collaboration with the Singapore
+Association for the Visually Handicapped, where participants dine in darkness
+to better understand the challenges faced by the visually impaired.</p>
+</li>
+<li>
+<p>Bring Your Own (BYO) – An initiative encouraging staff and students to
+bring our own food containers and utensils to reduce waste, promoting environmental
+sustainability in our College.</p>
+</li>
+<li>
+<p>Pasar Pagi – A program where members engage with the elderly residents
+from Sree Narayana Mission Home, fostering cross-generational understanding
+and helping members better appreciate the older generation.</p>
+</li>
+<li>
+<p>ND imPact – An annual National Day program for children from Life Student
+Care, where they learn about Singapore’s heritage through interactive activities,
+promoting national pride and a sense of belonging.</p>
+</li>
+<li>
+<p>Partnership with Rotary Club of Singapore East – We collaborate on community
+service projects to expand our outreach, supporting a diverse range of
+groups including the underprivileged children, and the intellectually disabled.</p>
+</li>
+</ul>
+<p>Join us in making a positive impact and growing together through service!</p>
+<p></p>
