@@ -92,7 +92,7 @@ Ms Law Winnie<br>
 Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
 Ms Tan Li Yan Joscelyn<br>
-Mr Tan Jit Ann Joshua<br>
+
 </p>
 </div>
 </li>
@@ -133,7 +133,6 @@ Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
 Ms Charis Lee Xin-Ning<br>
-Ms Chew Ziying<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mr Li Qingyi<br>
@@ -197,10 +196,8 @@ Mr Tan Wai Yean
 Mr Low Rui Hao
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Ms Chew Hui Teng<br>
 Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
-Mr Joshua Kim Kwan<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
 Mr Lim Kah Hong<br>
