@@ -88,6 +88,8 @@ Mdm Lim Pow Choo
 Ms Adeline Lee Mei Pin<br>
 Ms Cheng Siew Peng Jasmine<br>
 Mr Foong Chongxiang<br>
+Ms Heng En-Hui Nicole<br>
+Ms Koh Jia Xin<br>
 Ms Law Winnie<br>
 Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
@@ -137,6 +139,7 @@ Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mr Li Qingyi<br>
 Ms Mark Jin Rong<br>
+Mr Mohamed Firdaus Bin Al-Amin<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
 </div>
