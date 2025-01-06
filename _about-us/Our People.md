@@ -155,7 +155,7 @@ Mrs Renee Low
 <br><br>
 <b>Art</b><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-	Ms Jane Tan Hui Fen
+	Ms Jane Catherine Tan Hui Fen
 <br><br>
 <b>Geography</b><br>
 	<b><font color="003dA5">Subject Head/Geography</font></b><br>
