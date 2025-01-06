@@ -375,7 +375,7 @@ Mdm Norlizah Bte Isa<br>
 Mrs Nurulhuda
 <br><br>
 	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
-Ms Vina Sim
+Ms Lee Tian Joyce
 <br><br>
 	<b><font color="003dA5">School Counsellor</font></b><br>
 Ms Wong Soo Ping Mandy
