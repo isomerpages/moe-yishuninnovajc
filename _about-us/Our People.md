@@ -313,14 +313,14 @@ Mdm You Kailun
 	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
 <br><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+	<b><font color="003dA5">Subject Head/Digital Literacies &amp; Chemistry</font></b><br>
 Mr Choo Chong Yu Gerald
 <br><br>
 	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
 Mdm Lim Chieh Yeng Jane
 <br><br>
 		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
-Mr Steven Wong Meng Wai<br>
+Mr Steven Wong Meng Wai
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
@@ -335,7 +335,7 @@ Mdm Wong Huiping Valerie<br>
 Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
-	<b><font color="003dA5">Subject Head/Physics</font></b><br>
+	<b><font color="003dA5">Subject Head/Physics and Assistant Year Head</font></b><br>
 Mr Tay Jian Hao Jeremy<br>
 <br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
