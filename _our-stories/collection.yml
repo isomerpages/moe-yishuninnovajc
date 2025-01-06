@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - What's Happening/KOTA & KOTS.md
       - What's Happening/.keep
       - What's Happening/College Open House.md
       - What's Happening/University LJ and Symposiums.md
