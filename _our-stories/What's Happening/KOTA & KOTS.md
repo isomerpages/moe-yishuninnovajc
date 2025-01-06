@@ -6,7 +6,6 @@ description: ""
 third_nav_title: What's Happening
 ---
 <h2>King of the Arena (KOTA) and King of the Streets (KOTS)</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kota_and_kots.png">
 </div>
