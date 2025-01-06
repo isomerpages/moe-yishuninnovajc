@@ -26,6 +26,9 @@ sections:
       button: Button Text
       image: /images/Open House 2024/YI_Open_House_Pop_up__1_.png
       alt: Image alt text
+      description: Want to know what it is like to be a YIJC student? Visit our campus
+        on 13 January from 10am to 5pm to find out more. We look forward to
+        seeing you soon!
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
