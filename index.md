@@ -19,9 +19,6 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-  - announcements:
-      title: Announcements
-      id: announcements
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
