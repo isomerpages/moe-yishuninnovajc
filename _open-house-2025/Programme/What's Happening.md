@@ -5,4 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Programme
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Open House Programme at YIJC" src="/images/Open House 2024/YIJC_OH_Brochure_2024_D4_Page_03.png"></div><p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Flyer_for_Website.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/campus_map.png">
+</div>
+<p></p>
