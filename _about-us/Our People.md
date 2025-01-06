@@ -68,8 +68,7 @@ variant: markdown
 	<b><font color="003dA5">HOD/Economics</font></b><br>
 Ms Lim Shu Fen
 <br><br>	
-	<b><font color="003dA5">Year Heads</font></b><br>
-Mr Loke Kok Leong<br>
+	<b><font color="003dA5">Year Head</font></b><br>
 Mdm Ng Chai Ngoh
 <br><br>	
 	<b><font color="003dA5">HOD/Student Management</font></b><br>
@@ -110,6 +109,9 @@ Mrs Shirley Charles-Sharan
 	<b><font color="003dA5">HOD/Character &amp; Citizenship Education</font></b><br>
 Ms Tan Yin Ping Maxine
 <br><br>	
+<b><font color="003dA5">Assistant Year Head</font></b><br>
+Ms Ong Siew Yee Pearlyn
+<br><br>	
 <b>English Literature</b><br>
 	<b><font color="003dA5">Subject Head/English Literature</font></b><br>
 Mdm Chitrakala d/o G Arumugam<br><br>
@@ -117,15 +119,12 @@ Mdm Chitrakala d/o G Arumugam<br><br>
 Ms Amitra Ilangovan
 <br><br>
 <b>General Paper</b><br>
-	<b><font color="003dA5">Subject Head/General Paper</font></b><br>
-Ms Ong Siew Yee Pearlyn <br>
+	<b><font color="003dA5">Subject Heads/General Paper</font></b><br>
+Ms Somasundaram Divya <br>
 Ms Yun Xiuling Stella
 <br><br>	
-	<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
+	<b><font color="003dA5">Subject Head/Student Leadership</font></b><br>
 Ms Woon Peng Steffi
-<br><br>	
-	<b><font color="003dA5">Subject Head/Communications &amp; Partnerships</font></b><br>
-Ms Somasundaram Divya
 <br><br>	
 	<b><font color="003dA5">Senior Teacher/Character &amp; Citizenship Education</font></b><br>
 Mr Anbu Ganesh s/o Kanapathy
@@ -138,6 +137,7 @@ Ms Charis Lee Xin-Ning<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mr Li Qingyi<br>
+Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
 Mr Mohamed Firdaus Bin Al-Amin<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
@@ -154,10 +154,7 @@ Ms Veera Gayatri Naidu D/O Rajagopal
 Mrs Renee Low
 <br><br>
 <b>Art</b><br>
-	<b><font color="003dA5">Subject Head/Student Leadership</font></b><br>
-	Ms Chew Jia Li Joscelin
-<br><br>
-	<b><font color="003dA5">Assistant Year Head</font></b><br>
+	<b><font color="003dA5">Teachers</font></b><br>
 	Ms Jane Tan Hui Fen
 <br><br>
 <b>Geography</b><br>
@@ -247,9 +244,6 @@ Ms Tin Yi Ya
 <div>
 <p>
 	<b><font color="003dA5">HOD/Physical Education and CCA</font></b><br>
-Mrs Thomas George
-<br><br>
-	<b><font color="003dA5">Subject Head/Physical Education and CCA</font></b><br>
 Ms Yeo Swee Ching
 <br><br>
 	<b><font color="003dA5">Senior Teacher/Physical Education</font></b><br>
@@ -260,7 +254,8 @@ Mr Mohamed Fauzi Bin Yusof<br>
 Mr Mus Effendi Bin Musa<br>
 Mr Ng Swee Loong Steven<br>
 Mdm Shelia Nagiah<br>
-Mr Sher Zi Ao	
+	Mr Sher Zi Ao	<br>
+Mrs Thomas George<br>
 </p>
 </div>
 </li>
@@ -274,15 +269,16 @@ Mr Sher Zi Ao
 Ms Cara Mok Shuwen
 <br><br>
 	<b><font color="003dA5">Subject Head/Project Work</font></b><br>
-Ms Lee Xiuli
+Ms Eunice Lim Shi Min
 <br><br> <b><font color="003dA5">Subject Head/Student Well-being</font></b><br>
 	Ms Nasihah Binte Abdul Majid<br>
 
 	
 <br> 
 	<b><font color="003dA5">Teachers</font></b><br>	
+Mr Loh Wei Jie<br>
 Ms Tay Shunwei Felicia<br>
-Mrs Teo Eng Leong Emily	
+Mrs Teo Eng Leong Emily<br>
 </p>
 </div>
 </li>
@@ -391,7 +387,6 @@ Mr Muhammad Hafiz Bin Hamzah
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Mdm Suhailah Binte Satoo<br>
-Mr Zainuddin Bin Awaluddin
 <br><br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mdm Maryani Binte Mohamed<br>
