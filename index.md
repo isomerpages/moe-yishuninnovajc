@@ -11,8 +11,8 @@ sections:
       variant: center
       key_highlights:
         - title: Open House 2025
-          description: What to expect
-          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/ohbrochure/
+          description: Programme highlights!
+          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/whatshappening/
         - title: About YIJC
           description: What defines us as a college?
           url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
