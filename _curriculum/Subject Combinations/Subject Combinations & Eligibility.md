@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subject Combinations
 variant: markdown
 ---
-### **Subject Combinations &amp; Eligibility Criteria**
+### **Subject Combinations**
 Students must fulfil the stated subject combination eligibility criteria, subject pre-requisites or possess the assumed knowledge in order to offer the respective subjects.
 
 #### **Important Note:**
