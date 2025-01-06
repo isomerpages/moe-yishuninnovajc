@@ -10,18 +10,18 @@ sections:
       background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
-        - title: Signature Programmes
-          description: Find out more here
-          url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
-        - title: About YIJC
-          description: What defines us as a college?
-          url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
-        - title: Connect with us!
-          description: Check out our Instagram
-          url: https://www.instagram.com/yishuninnovajc
         - title: Open House 2025
           description: What to expect
           url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/ohbrochure/
+        - title: About YIJC
+          description: What defines us as a college?
+          url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
+        - title: Signature Programmes
+          description: Find out more here
+          url: https://www.yijc.moe.edu.sg/curriculum/signature-programmes/
+        - title: Connect with us!
+          description: Check out our Instagram
+          url: https://www.instagram.com/yishuninnovajc
   - infopic:
       title: Open House 2025
       subtitle: UPCOMING!
