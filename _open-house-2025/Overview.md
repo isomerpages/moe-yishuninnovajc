@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/whatshappening/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024 Images/YIJC_2024_SOCIAL_D2_IG_3_1080X1080_copy_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open House 2025 Programme</div><div class="isomer-card-description">Access the day's programme and open house brochure here.</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2024/prospectus2024/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/prospectus2025/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prospectus" src="/images/2024 Images/prospectus_2.png">
