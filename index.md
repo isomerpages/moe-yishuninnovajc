@@ -19,6 +19,9 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
+        - title: Open House 2025
+          description: What to expect
+          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/ohbrochure/
   - infopic:
       title: Open House 2025
       subtitle: UPCOMING!
