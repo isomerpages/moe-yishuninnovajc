@@ -2,7 +2,6 @@ collections:
   open-house-2025:
     output: true
     order:
-      - Open House 2025.md
       - Overview.md
       - Programme/.keep
       - Programme/What's Happening.md
