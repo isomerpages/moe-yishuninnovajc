@@ -308,7 +308,7 @@ Mr Tan Kok Ping Lawrence<br>
 <br>
 	<b>Chemistry</b><br>
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
-Mrs Lim Sze Cheng
+Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
@@ -321,12 +321,12 @@ Mdm Lim Chieh Yeng Jane
 <br><br>
 		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
 Mr Steven Wong Meng Wai<br>
-Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
 Mdm Ang Lay Poh Sarah<br>
 Mr Lim Cheng Xiang<br>
+Mrs Lim Sze Cheng<br>
 Ms Loh Yi Lin Eileen<br>
 Ms Seah Sim Yee<br>
 Ms Sim Shin Ying<br>
@@ -342,9 +342,8 @@ Mr Tay Jian Hao Jeremy<br>
 Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Chong Phow Loong<br>
 Mr Lim Chee Seng<br>
-	Mr Lim Wei Jun<br>
+Mr Lim Wei Jun<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
 </p>
