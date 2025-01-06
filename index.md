@@ -19,6 +19,13 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
+  - infopic:
+      title: YIJC Open House 2025
+      subtitle: UPCOMING!
+      id: infopic
+      button: Button Text
+      image: /images/Open House 2024/YI_Open_House_Pop_up__1_.png
+      alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
