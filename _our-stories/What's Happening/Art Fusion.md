@@ -7,7 +7,7 @@ third_nav_title: What's Happening
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What's Happening/arts_fusion.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/What's Happening/arts_fusion.png">
 </div>
 <p>Arts Fusion 2024 was a mega Arts Concert that featured students from the
 Symphonic Band, the Chinese Orchestra, the Dance, the Chorale and the Drama
