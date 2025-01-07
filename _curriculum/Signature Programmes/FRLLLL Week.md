@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<h3><strong>YIJC Develops You, For Real </strong></h3>
+<h3><strong>YIJC Develops You, For Real</strong></h3>
 <blockquote>
-<h4><em>Real world environment . Real experiences.  Real fun!</em></h4>
+<h4><em>Real world environment . Real experiences. Real fun!</em></h4>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What's Happening/Future_Ready_Leaders__Lifelong_Learners_Photography.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/What's Happening/Future_Ready_Leaders__Lifelong_Learners_Photography.png">
 </div>
 <p>YIJC aims to develop students for the real, beyond the time and space
 of college, so that they can become Future-Ready Leaders and Lifelong Learners,
@@ -21,7 +20,7 @@ and learning dispositions that will enable them to navigate the VUCA world
 and embrace challenges as opportunities for growth.</p>
 <p>This intentional development is done not just through classroom teaching
 but through college-wide programmes that aim to make learning real for
-YIJCians. One signature event is the<strong> Future-Ready Leaders, Lifelong Learners (FRLLLL) Week.</strong> 
+YIJCians. One signature event is the<strong> Future-Ready Leaders, Lifelong Learners (FRLLLL) Week.</strong>
 </p>
 <p>FRLLLL (pronounced “for real”) Week is a unique opportunity for Yishun
 Innova JC students to step beyond the classroom and engage in experiential
