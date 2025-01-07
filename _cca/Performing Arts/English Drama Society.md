@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3><strong>English Drama Society </strong></h3>
+<h3><strong>English Drama Society</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oq0waCFsQck"></iframe>
 </div>
