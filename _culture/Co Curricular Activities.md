@@ -177,54 +177,43 @@ variant: markdown
 			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
 		</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <table>
 	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
-		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
-		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg"></a>
 		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis*</a>
-</td>
-		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling*</a>
-</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
-		</td>
-	</tr>
-</tbody></table>
-<table>
-	<tbody><tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
-		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg"></a>
-		</td>
+		</td>		
 	</tr>
 		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/track-and-field/">Track &amp; Field</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
-</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
-		</td>
+</td>			
 	</tr>
 </tbody></table>
-<br>
-*Please kindly note that there will be no JC1 intake for these CCAs in 2024.
+<table>
+	<tbody>
+	<tr>
+  <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/"><img style="width:30%" src="/images/CCA/cca27.jpg"></a>
+	</td>
+	</tr>
+	<tr>
+  <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
+	</td>
+	</tr>
+</tbody>
+</table>
