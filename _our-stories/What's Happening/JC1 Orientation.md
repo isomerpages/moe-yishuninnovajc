@@ -9,7 +9,7 @@ third_nav_title: What's Happening
 <p><em>Adventura - Explore, Experience, Evolve</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 Images/yijc_ori_2024.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Images/yijc_ori_2024.png">
 </div>
 <p>The 2024 Orientation Theme, "<strong>Adventura - Explore, Experience, Evolve</strong>",
 signifies an exciting journey for the new JC1 students to explore their
