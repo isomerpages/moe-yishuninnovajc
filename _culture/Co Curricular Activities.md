@@ -59,16 +59,17 @@ variant: markdown
 
 #### **Clubs &amp; Societies**
 <table>
-	<tbody><tr>
-    <td style="text-align: center;">
+	<tbody>
+	<tr>
+  <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/art-club/"><img src="/images/CCA/cca8.jpg"></a>
-		</td>
-		<td style="text-align: center;">
+	</td>
+	<td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg"></a>
 		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg"></a>
-		</td>
+   <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/english-debate-society/"><img src="/images/CCA/cca28.png"></a>
+	</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
@@ -78,41 +79,49 @@ variant: markdown
 			<a href="/culture/cca/clubs-and-societies/class-leaders-council/">Class Leaders' Council</a>
 </td>
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
+			<a href="/culture/cca/clubs-and-societies/english-debate-society/">English Debate Society</a>
 		</td>
 	</tr>
 </tbody></table>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+		   <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg"></a>
+	</td>	
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/strategy-club/"><img src="/images/CCA/cca11.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg"></a>
 		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg"></a>
-		</td>
 	</tr>
 		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
+		</td>			
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/strategy-club/">Strategy Club</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
 </td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
-		</td>
 	</tr>
 </tbody></table>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img style="width:60%" src="/images/CCA/cca13.jpg"></a>
+		</td>	
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" style="width:30%"></a>
+			<a href="/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" style="width:60%"></a>
 		</td>
 	</tr>
 		<tr>
+		<td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/students-council/">Students' Council</a>
 		</td>
