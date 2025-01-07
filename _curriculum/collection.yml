@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - 2025 Prospectus.md
       - Subject Combinations/.keep
       - Subject Combinations/The A Level Curriculum.md
       - Subject Combinations/Subjects Offered.md
