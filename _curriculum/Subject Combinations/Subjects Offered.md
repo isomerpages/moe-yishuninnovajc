@@ -46,7 +46,7 @@ for each subject and our responses. <strong>To find out more, click on the respe
 <p>Economics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Economics_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">Econs FAQs </a>
+<p><a href="/files/Economics_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">Econs FAQs</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ for each subject and our responses. <strong>To find out more, click on the respe
 <p>General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/GP_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">GP FAQs </a>
+<p><a href="/files/GP_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">GP FAQs</a>
 </p>
 </td>
 </tr>
