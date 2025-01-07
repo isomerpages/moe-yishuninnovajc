@@ -25,8 +25,8 @@ heights!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Subjects Offered at YIJC 2024" src="/images/Subjects_Offered_at_YIJC_2024.png">
 </div>
 <p>We have consolidated FAQ sheets that compile Frequently Asked Questions
-for each subject and our responses. To find out more, click on the respective
-departments' links below!</p>
+for each subject and our responses. <strong>To find out more, click on the respective departments' links below!</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,7 +46,7 @@ departments' links below!</p>
 <p>Economics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/Economics_Subject_FAQ_sheet_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Econs FAQs.pdf</a>
+<p><a href="/files/Economics_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">Econs FAQs </a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ departments' links below!</p>
 <p>General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/GP_FAQs_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GP FAQs.pdf</a>
+<p><a href="/files/GP_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">GP FAQs </a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ departments' links below!</p>
 <p>Literature in English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/English_Literature_FAQs_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">ELit FAQs.pdf</a>
+<p><a href="/files/English_Literature_FAQs.pdf" rel="noopener nofollow" target="_blank">ELit FAQs</a>
 </p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ departments' links below!</p>
 <p>Art, History, Geography, China Studies in English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/Humanities_Department_ART_HI_GEO_CSE_FAQ_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities FAQs.pdf</a>
+<p><a href="/files/Humanities_ART_HI_GEOG_CSE_FAQs.pdf" rel="noopener nofollow" target="_blank">Humanities FAQs</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ departments' links below!</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/Math_FAQ.pdf" rel="noopener noreferrer nofollow" target="_new">Maths FAQs.pdf</a>
+<p><a href="/files/Mathematics_FAQs.pdf" rel="noopener nofollow" target="_blank">Math FAQs</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ departments' links below!</p>
 <p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/2024_Math_Dept_Computing_FAQ_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing FAQs.pdf</a>
+<p><a href="/files/Computing_FAQs.pdf" rel="noopener nofollow" target="_blank">Computing FAQs</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ departments' links below!</p>
 <p>Mother Tongue Languages and Literature, Malay Language Elective Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/MTL_FAQs_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL FAQs.pdf</a>
+<p><a href="/files/MTL_FAQs.pdf" rel="noopener nofollow" target="_blank">MTL FAQs</a>
 </p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ departments' links below!</p>
 <p>Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/PW_FAQs_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PW FAQs.pdf</a>
+<p><a href="/files/PW_FAQs.pdf" rel="noopener nofollow" target="_blank">PW FAQs</a>
 </p>
 </td>
 </tr>
@@ -118,7 +118,7 @@ departments' links below!</p>
 <p>Biology, Chemistry, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Subjoff/Science_FAQ.pdf" rel="noopener noreferrer nofollow" target="_new">Science FAQs.pdf</a>
+<p><a href="/files/Sciences_FAQs.pdf" rel="noopener nofollow" target="_blank">Sciences FAQs</a>
 </p>
 </td>
 </tr>
