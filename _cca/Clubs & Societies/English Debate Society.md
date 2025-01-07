@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<h3><strong>English Debate Society</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_Q21ONPJ3_Q"></iframe>
 </div>
