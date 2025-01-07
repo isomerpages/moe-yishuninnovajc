@@ -32,7 +32,7 @@ sections:
       description: Want to know what it is like to be a YIJC student? Visit our campus
         on 13 January from 10am to 5pm to find out more. We look forward to
         seeing you soon!
-      url: https://staging.dy8spnni5p31k.amplifyapp.com/open-house-2025/overview/
+      url: https://www.yijc.moe.edu.sg/open-house-2025/overview/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at

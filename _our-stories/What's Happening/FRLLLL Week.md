@@ -11,7 +11,7 @@ third_nav_title: What's Happening
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What's Happening/Future_Ready_Leaders__Lifelong_Learners_Photography.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/What's Happening/Future_Ready_Leaders__Lifelong_Learners_Photography.png">
 </div>
 <p>Our College believes that learning should not be confined to the classroom.
 Given the increasingly volatile, uncertain, complex, and ambiguous world

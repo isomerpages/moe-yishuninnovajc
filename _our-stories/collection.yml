@@ -2,12 +2,12 @@ collections:
   our-stories:
     output: true
     order:
-      - What's Happening/FRLLLL Week.md
       - What's Happening/.keep
-      - What's Happening/College Open House.md
-      - What's Happening/Cultural Exchange Programme.md
       - What's Happening/University LJ and Symposiums.md
+      - What's Happening/Cultural Exchange Programme.md
+      - What's Happening/College Open House.md
       - What's Happening/JC1 Orientation.md
+      - What's Happening/FRLLLL Week.md
       - What's Happening/In Conversation With YI Alumni.md
       - What's Happening/Arts Fusion.md
       - What's Happening/Listen Concert.md
