@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_Q21ONPJ3_Q"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_Q21ONPJ3_Q"></iframe>
 </div>
 <p>The English Debate Society aims to grow members’ cognitive and presentational
 skills. Our curated debate experiences have allowed members to acquire
