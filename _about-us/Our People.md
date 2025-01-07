@@ -26,7 +26,17 @@ variant: markdown
 </tbody></table>
 	<b><font color="003dA5">Vice-Principals</font></b><br>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+    <td style="text-align: center;">
+		<img src="/images/School Leaders/VP5.png" style="width:20%">
+		</td>
+	</tr>
+		<tr>
+    <td style="text-align: center;">Mrs Julieanne Choy Wen Ju
+		</td>
+	</tr>
+		<tr>
     <td style="text-align: center;">
 		<img src="/images/School Leaders/vice principal2.jpg" style="width:20%">
 		</td>

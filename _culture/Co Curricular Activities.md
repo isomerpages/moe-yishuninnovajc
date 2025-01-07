@@ -8,78 +8,68 @@ variant: markdown
 
 #### **Performing Arts**
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"></a>
 		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg"></a>
-		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg"></a>
+		</td>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chinese-orchestra/">Chinese Orchestra</a>
 </td>
-		<td style="text-align: center;">			
-			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/">Culture &amp; Aesthetic Club*</a>
-</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chorale/">Chorale</a>
 		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/">Dance</a>
+    </td>			
 	</tr>
 </tbody></table>
 <table>
 	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg"></a>
-		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg"></a>
 		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg"></a>
 		</td>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg"></a>
+		</td>
 	</tr>
 		<tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/dance/">Dance</a>
-</td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/performing-arts/eldds/">English Language Drama &amp; Debate Society</a>
 </td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/">Musicians' Club</a>
 		</td>
-	</tr>
-</tbody></table>
-<table>
-	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg" style="width:30%"></a>
-		</td>
-	</tr>
-		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/symphonic-band/">Symphonic Band</a>
-		</td>
+		</td>			
 	</tr>
 </tbody></table>
 
 #### **Clubs &amp; Societies**
 <table>
-	<tbody><tr>
-    <td style="text-align: center;">
+	<tbody>
+	<tr>
+  <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/art-club/"><img src="/images/CCA/cca8.jpg"></a>
-		</td>
-		<td style="text-align: center;">
+	</td>
+	<td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/CCA/cca9.jpg"></a>
 		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg"></a>
-		</td>
+   <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/english-debate-society/"><img src="/images/CCA/cca28.png"></a>
+	</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
@@ -89,41 +79,49 @@ variant: markdown
 			<a href="/culture/cca/clubs-and-societies/class-leaders-council/">Class Leaders' Council</a>
 </td>
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
+			<a href="/culture/cca/clubs-and-societies/english-debate-society/">English Debate Society</a>
 		</td>
 	</tr>
 </tbody></table>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+		   <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/"><img src="/images/CCA/cca10.jpg"></a>
+	</td>	
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/strategy-club/"><img src="/images/CCA/cca11.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/makers-academy/"><img src="/images/CCA/cca12.jpg"></a>
 		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img src="/images/CCA/cca13.jpg"></a>
-		</td>
 	</tr>
 		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/interact-club/">Interact Club</a>
+		</td>			
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/strategy-club/">Strategy Club</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/clubs-and-societies/makers-academy/">Makers' Academy</a>
 </td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
-		</td>
 	</tr>
 </tbody></table>
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/"><img style="width:60%" src="/images/CCA/cca13.jpg"></a>
+		</td>	
     <td style="text-align: center;">
-			<a href="/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" style="width:30%"></a>
+			<a href="/culture/cca/clubs-and-societies/students-council/"><img src="/images/CCA/cca14.jpg" style="width:60%"></a>
 		</td>
 	</tr>
 		<tr>
+		<td style="text-align: center;">
+			<a href="/culture/cca/clubs-and-societies/outdoor-adventure-club/">Outdoor Adventure Club</a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/clubs-and-societies/students-council/">Students' Council</a>
 		</td>
@@ -179,54 +177,43 @@ variant: markdown
 			<a href="/culture/cca/sports-and-games/modular-sports/">Modular Sports</a>
 		</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 <table>
 	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/table-tennis/"><img src="/images/CCA/cca22.jpg"></a>
-		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/"><img src="/images/CCA/cca23.jpg"></a>
-		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/tennis/"><img src="/images/CCA/cca24.jpg"></a>
 		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/table-tennis/">Table Tennis*</a>
-</td>
-		<td style="text-align: center;">			
-			<a href="/culture/cca/sports-and-games/tenpin-bowling/">Tenpin Bowling*</a>
-</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
-		</td>
-	</tr>
-</tbody></table>
-<table>
-	<tbody><tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/track-and-field/"><img src="/images/CCA/cca25.jpg"></a>
 		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/ultimate-frisbee/"><img src="/images/CCA/cca26.jpg"></a>
-		</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/volleyball/"><img src="/images/CCA/cca27.jpg"></a>
-		</td>
+		</td>		
 	</tr>
 		<tr>
+    <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/tennis/">Tennis</a>
+		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/sports-and-games/track-and-field/">Track &amp; Field</a>
 </td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/sports-and-games/ultimate-frisbee/">Ultimate Frisbee</a>
-</td>
-    <td style="text-align: center;">
-			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
-		</td>
+</td>			
 	</tr>
 </tbody></table>
-<br>
-*Please kindly note that there will be no JC1 intake for these CCAs in 2024.
+<table>
+	<tbody>
+	<tr>
+  <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/"><img style="width:30%" src="/images/CCA/cca27.jpg"></a>
+	</td>
+	</tr>
+	<tr>
+  <td style="text-align: center;">
+			<a href="/culture/cca/sports-and-games/volleyball/">Volleyball</a>
+	</td>
+	</tr>
+</tbody>
+</table>
