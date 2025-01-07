@@ -8,63 +8,52 @@ variant: markdown
 
 #### **Performing Arts**
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/CCA/cca1.jpg"></a>
 		</td>
-		<td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/CCA/cca2.jpg"></a>
-		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chorale/"><img src="/images/CCA/cca3.jpg"></a>
+		</td>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg"></a>
 		</td>
 	</tr>
 		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chinese-orchestra/">Chinese Orchestra</a>
 </td>
-		<td style="text-align: center;">			
-			<a href="/culture/cca/performing-arts/culture-and-aesthetic-club/">Culture &amp; Aesthetic Club*</a>
-</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/chorale/">Chorale</a>
 		</td>
+    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/dance/">Dance</a>
+    </td>			
 	</tr>
 </tbody></table>
 <table>
 	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/dance/"><img src="/images/CCA/cca4.jpg"></a>
-		</td>
 		<td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg"></a>
 		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg"></a>
 		</td>
+		    <td style="text-align: center;">
+			<a href="/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg"></a>
+		</td>
 	</tr>
 		<tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/dance/">Dance</a>
-</td>
 		<td style="text-align: center;">			
 			<a href="/culture/cca/performing-arts/eldds/">English Language Drama &amp; Debate Society</a>
 </td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/">Musicians' Club</a>
 		</td>
-	</tr>
-</tbody></table>
-<table>
-	<tbody><tr>
-    <td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/symphonic-band/"><img src="/images/CCA/cca7.jpg" style="width:30%"></a>
-		</td>
-	</tr>
-		<tr>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/symphonic-band/">Symphonic Band</a>
-		</td>
+		</td>			
 	</tr>
 </tbody></table>
 
