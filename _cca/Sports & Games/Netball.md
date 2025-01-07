@@ -3,13 +3,16 @@ title: Netball
 permalink: /culture/cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### **Netball**
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/oDsL3cN-_SI" title="Netball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/oDsL3cN-_SI" title="Netball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Come join us for a ball game exclusive to girls! Netball is a territorial game where you play different positions in a team and pit your skills and wit against opposing teams. Choose your favourite position in attack, defense or as a shooter to bring your team to victory in four quarters of 15 minutes.
+Netball is a team sport exclusive to girls with seven players per side passing a ball, aiming to shoot in a designated shooting area with strict positional rules and restrictions. 
 
-Join us for weekly trainings every Monday and Friday from 5.15pm - 7.15pm. Fret not if you have not played Netball before because you can learn all the skills needed here with us. Build your fitness with our physical training sessions where you can learn footwork unique to the game of Netball and improve your coordination with fun ball drills!
+Train your skills and try out different positions in attack, defense or as a shooter! Have no experience? Do not worry, as you can pick up and hone your skills with us weekly on Mondays and Fridays from 5.15pm - 7.15pm. 
 
-As a prospective Netballer, you can look forward to honing your leadership skills with fellow Netballers Values-In-Action project and pitting your skills against one another to bring out our better selves during intra-CCA games. We also compete in the annual National Inter-School Netball Championships. We share failures and celebrate successes as a team, always pushing on to do better because we believe in Mind Over Matter!
+Apart from competing in the annual National School Games, as Netballers, you will have the opportunity to develop your leadership qualities through various projects throughout the year. You can also look forward to building strong bonds and making connections within the team. 
+
+At YI Netball, we work as a team to overcome setbacks and challenges together. We believe that these difficulties only make us stronger and more resilient. So come join us for a game of Netball!

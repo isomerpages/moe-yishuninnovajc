@@ -7,7 +7,7 @@ third_nav_title: What's Happening
 ---
 <h4>Cultural Exchange Programme with Waseda Shibuya Senior High (Singapore)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/We_re.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What's Happening/We_re.png">
 </div>
 <p>On 11th January 2024, Waseda Shibuya Senior High School hosted 22 of our
 students, giving them the opportunity to experience a day in the life of

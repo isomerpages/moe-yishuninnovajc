@@ -5,4 +5,30 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<h3><strong>Class Leaders' Council</strong></h3><div class="iframe-wrapper"><iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cr1Y1ZhvE9A"></iframe></div><p>Is work-life balance the top priority for yourself? Are you excited to learn new skills, forge deep relationships, and contribute to the school community? Whether it’s adapting to school life, making new friends or taking examinations, JC life can be stressful, but you are not alone and Class Leaders' Council is here to equip you and to help in both your personal growth and that of the college community.</p><p>The YIJC Class Leaders’ Council serves as a structured leadership development platform, providing formal assignments, courses and guidance to grow our Class Leaders to lead in the promotion of a culture of care among peers to provide better support for each other.</p><p>We hold regular meetings twice a week on Wednesdays and Fridays, from 4.30pm to 6.30pm. Class Leaders will learn how to design activities for their classmates, work with other student leaders, and be trained in positive coping strategies so as to offer support and advocate for healthy relationships in the college.</p><p>Class Leaders’ Council will be involved in driving some college initiatives to provide support for students in various aspects of their journey at YI. Get to be part of YIJC’s Mental Well-Being Week, Thrive! Facilitate conversations, provide practical help and emotional support to your friends, and implement ideas that will nurture a positive class spirit and culture.</p><p>If you think you are empathetic, encouraging, and enthusiastic, come join us!</p>
+<h3><strong>Class Leaders' Council</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cr1Y1ZhvE9A"></iframe>
+</div>
+<p>Are you passionate about building meaningful relationships, learning new
+skills, and making a positive impact on your school community? The Class
+Leaders’ Council (CLC) at YIJC offers a supportive platform to develop
+your leadership skills while fostering a culture of care among peers. The
+CLC equips Class Leaders with skills to navigate various challenges such
+as adapting to school life, building friendships and managing examinations,
+all while contributing to a vibrant and compassionate college environment.
+Through formal assignments, leadership courses, and mentorship, Class Leaders
+grow as individuals and learn how to uplift their peers.</p>
+<p>We meet twice weekly, on Wednesdays and Fridays, from 4.30 p.m. to 6.30
+p.m. During these sessions, Class Leaders will be trained in designing
+class activities, collaborating with other student leaders, and applying
+positive coping strategies. These skills enable them to support their classmates
+effectively and advocate for healthy, meaningful relationships in the college.</p>
+<p>Additionally, CLC members play a key role in shaping college initiatives
+such as Thrive!, our signature Mental Well-Being Week. They facilitate
+discussions, provide practical and emotional support to peers, and implement
+ideas that promote a positive and inclusive class spirit. Joining the CLC
+means becoming part of a team dedicated to enhancing the well-being and
+resilience of our college community. If you are empathetic, encouraging,
+and enthusiastic about making a difference, the Class Leaders’ Council
+is the place for you!</p>
+<p></p>

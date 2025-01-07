@@ -5,4 +5,31 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<h3><strong>Art Club</strong></h3><div class="iframe-wrapper"><iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cH4cwI4vmLw"></iframe></div><p>Step into The Art Club, where imagination has no limits! Beyond a mere space for honing our creative talents, our club is a tight-knit community of kindred spirits united by a love for the arts. Within this supportive atmosphere, we encourage collaboration and camaraderie, recognizing that together, we can reach extraordinary heights. Every brushstroke, musical note, and blend of colors becomes a shared journey of artistic evolution.</p><p>Our Art Club convenes twice a week, specifically on Wednesdays and Fridays, from 4:30 to 6:30 pm. Embracing a philosophy of student leadership, our CCA sessions are predominantly student-led. Here, participants immerse themselves in the creation of diverse art forms, spanning from linocut and clay to landscape sketching. Workshops, including Batik Printing and Manga Drawing, provide an avenue for students to refine their aesthetic appreciation. Through these activities, students not only present their artworks to peers but also develop communication skills by articulating thoughts behind their creations.</p><p>To enhance our artistic journey, we also delve into meaningful VIA projects in collaboration with external organizations such as ACRES and Sparkletots. Our Learning Journey at Lasalle further broadens our perspectives on different art themes, fostering compassion and understanding. As we reflect, we hold dear the memories, experiences, and newfound knowledge that continually ignite our artistic pursuits.</p>
+<h3><strong>Art Club</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cH4cwI4vmLw"></iframe>
+</div>
+<p>Welcome to The Art Club, a place where imagination knows no bounds! More
+than just a space for developing our artistic skills, we’re a close-knit
+community of passionate individuals who share a love for the arts. Here,
+creativity thrives through collaboration and mutual support, as we believe
+that together, we can achieve something truly remarkable. Every brushstroke,
+musical note, and splash of color becomes part of a collective journey
+of artistic growth and discovery.</p>
+<p>The Art Club meets twice a week, on Wednesdays and Fridays, from 4:30
+to 6:30 pm. Guided by a philosophy of student leadership, our CCA sessions
+are primarily student-driven. Club members have the opportunity to explore
+a wide range of artistic mediums, from linocut and clay work to landscape
+sketching and even mosaic art. In addition to creating, students share
+their artworks with peers, honing their ability to communicate the ideas
+and inspiration behind their pieces.</p>
+<p>To enrich our artistic journey, we also engage in impactful VIA (Values
+In Action) projects annually. One such recent initiative saw us advocating
+for the Cat Welfare Society, raising awareness of the need for stronger
+animal welfare and supporting their cause. To connect effectively with
+the college community, we organised a games and art booth, offering a fun
+and interactive way to spread our message. Looking back, we cherish the
+memories, experiences, and insights gained from these projects, as they
+continue to inspire and fuel our creative pursuits. Come join us if you
+share a passion for the arts!</p>
+<p></p>

@@ -1,9 +1,0 @@
-collections:
-  open-house-2024:
-    output: true
-    order:
-      - Overview.md
-      - Programme/.keep
-      - Programme/What's Happening.md
-      - Programme/Brochure.md
-      - 2024 Prospectus.md
