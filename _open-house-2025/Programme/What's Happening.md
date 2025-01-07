@@ -12,4 +12,5 @@ third_nav_title: Programme
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/campus_map.png">
 </div>
-<p>See our full Open House brochure here or click on the next sub-tab.</p>
+<p>See our full Open House brochure <a href="https://drive.google.com/file/d/1ziQnnhPvN0_qdHwPYatyLDAv8Q1KxAdI/view?usp=sharing" rel="noopener nofollow" target="_blank">HERE</a> or
+click on the next sub-tab.</p>
