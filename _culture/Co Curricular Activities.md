@@ -46,7 +46,7 @@ variant: markdown
 	</tr>
 		<tr>
 		<td style="text-align: center;">			
-			<a href="/culture/cca/performing-arts/eldds/">English Drama Society</a>
+			<a href="/culture/cca/performing-arts/eldrama/">English Drama Society</a>
 </td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/">Musicians' Club</a>
