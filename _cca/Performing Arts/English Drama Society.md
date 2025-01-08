@@ -22,5 +22,3 @@ of Accomplishment to both rapturous applause and plaudits that were expressed
 in superlative terms.</p>
 <p>In 2025, members of the Drama Society will bring their talents, flair
 and biting wit to the stage for our biennial Arts Fusion Performance.</p>
-<p></p>
-<p></p>
