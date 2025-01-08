@@ -27,6 +27,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Cuisine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noodles</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Muslim Cuisine (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
