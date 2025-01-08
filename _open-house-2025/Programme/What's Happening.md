@@ -10,6 +10,9 @@ third_nav_title: Programme
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Flyer_for_Website__3_.png">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Flyer_for_Website__4_.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/campus_map.jpg">
 </div>
 <p>See our full Open House brochure <a href="https://drive.google.com/file/d/1ziQnnhPvN0_qdHwPYatyLDAv8Q1KxAdI/view?usp=sharing" rel="noopener nofollow" target="_blank">HERE</a> or
