@@ -35,7 +35,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<td style="text-align: center;">
-			<a href="/culture/cca/performing-arts/eldds/"><img src="/images/CCA/cca5.jpg"></a>
+			<a href="/culture/cca/performing-arts/eldrama/"><img src="/images/CCA/cca5.jpg"></a>
 		</td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/"><img src="/images/CCA/cca6.jpg"></a>
@@ -46,7 +46,7 @@ variant: markdown
 	</tr>
 		<tr>
 		<td style="text-align: center;">			
-			<a href="/culture/cca/performing-arts/eldds/">English Language Drama &amp; Debate Society</a>
+			<a href="/culture/cca/performing-arts/eldrama/">English Drama Society</a>
 </td>
     <td style="text-align: center;">
 			<a href="/culture/cca/performing-arts/musicians-club/">Musicians' Club</a>
