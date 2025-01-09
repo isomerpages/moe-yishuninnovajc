@@ -11,4 +11,4 @@ booths!</p>
 <div class="iframe-wrapper">
 <iframe height="823" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRowMLZOM5K7SqBMxgjJZb2wH5oxPg3ENGwxMtU9m2AstoUGUU20fzJfl3IAjfGww/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
-<p>You may also download the brochure <a href="https://drive.google.com/file/d/1ziQnnhPvN0_qdHwPYatyLDAv8Q1KxAdI/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You may also download the brochure <a href="https://drive.google.com/file/d/1E_cCP67pKFvAA49Z03ZNG-tsrSmhvqn1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
