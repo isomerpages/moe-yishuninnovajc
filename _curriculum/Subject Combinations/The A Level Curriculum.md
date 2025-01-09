@@ -39,5 +39,5 @@ both H1 and H2 levels. Students must offer at least one subject from Group
 (A) Mathematics and Science subjects, and at least one subject from Group
 (B) Humanities and Arts subjects.</p>
 <p>
-<br>See the full list of subjects offered <strong><u>here.</u></strong>
+<br>See the full list of subjects offered <a href="https://www.yijc.moe.edu.sg/curriculum/subject-combi-and-eligibility/subjects-offered/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
