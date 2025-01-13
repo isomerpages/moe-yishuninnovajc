@@ -39,7 +39,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> </strong>for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of YISHUN INNOVA JUNIOR COLLEGE’S Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of YISHUN INNOVA JUNIOR COLLEGE’S Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -78,13 +78,13 @@ children out of Sexuality Education and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents of JC2 students</strong> who
 wish to opt their children out of the Sexuality Education lessons need
-to complete and submit an opt-out form <a href="https://go.gov.sg/2024jc2-sed-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>19/01/2024 (Friday)</strong>.</p>
+to complete and submit an opt-out form <a href="https://go.gov.sg/2025jc2-sed-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>20/01/2025 (Monday)</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents of JC1 students</strong> who
 wish to opt their children out of the Sexuality Education lessons need
-to complete an opt-out form <a href="https://go.gov.sg/jc1sedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>25/03/2024 (Monday)</strong>.</p>
+to complete an opt-out form <a href="https://go.gov.sg/jc2sedoptout" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>10/03/2025 (Monday)</strong>.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents of JC1 students</strong> who
 wish to opt their children out of the <em>eTeens</em> programme need to complete
-an opt-out form <a href="https://go.gov.sg/2024eteensoptout" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>25/03/2024 (Monday)</strong>.</p>
+an opt-out form <a href="https://go.gov.sg/2025jc1-eteens-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>10/03/2025 (Monday)</strong>.</p>
 <p>12. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a> for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
