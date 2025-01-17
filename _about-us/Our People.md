@@ -213,7 +213,8 @@ Mr Lim Chee Mun<br>
 Mr Lim Kah Hong<br>
 Mr Phang Wei Cheng<br>
 Mr Tan Kit Loong Christopher<br>
-Ms Tan Rui Min Cristal
+Ms Tan Rui Min Cristal<br>
+Ms Queenie Chiu
 <br><br>
 <b>Computing</b><br>
 	<b><font color="003dA5">Teachers</font></b><br>
