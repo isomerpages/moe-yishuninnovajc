@@ -23,7 +23,7 @@ that subject or subject combination.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subjectcombi/subject_combi_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_combi_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subjectcombi/subject_combi_3_v2.png">
 </div>
 <h3><strong>Subject Combination Eligibility Criteria</strong></h3>
 <h4><strong>4H2 Subject Combinations</strong></h4>
