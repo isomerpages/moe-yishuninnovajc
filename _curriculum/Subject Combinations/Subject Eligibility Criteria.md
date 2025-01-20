@@ -76,7 +76,7 @@ and grade performance of students, and the number of places available for
 the subject. Meeting the indicative grade profile does not guarantee that
 the student would be able to offer that subject.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subjectcriteria3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subjectcombi/2025_IGP.png">
 </div>
 <h4><strong>University course pre-requisites</strong></h4>
 <p>Your future career may require you to undertake certain degrees and/or
