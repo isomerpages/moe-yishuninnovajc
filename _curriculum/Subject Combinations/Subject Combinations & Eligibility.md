@@ -28,16 +28,48 @@ that subject or subject combination.</p>
 <h3><strong>Subject Combination Eligibility Criteria</strong></h3>
 <h4><strong>4H2 Subject Combinations</strong></h4>
 <p>Students who wish to opt for 4H2 subjects MUST have attained L1R5 (excludes
-bonus points) of 12 points or less.
-<br>This L1R5 aggregate score MUST include strong O-Level grades in the relevant
+bonus points) of 12 points or less.</p>
+<p>This L1R5 aggregate score MUST include strong O-Level grades in the relevant
 subjects offered.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sstc.png">
-</div>
-<p>Students who are eligible and keen to take a 4H2 subject combination must
-still indicate a 3H2 subject combination as one of their choices during
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4H2 Subject Combination</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Relevant Subjects</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S101X, S102X</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics, Additional Mathematics,</p>
+<p>Pure Chemistry, Pure Biology, Pure Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A301L/C/M/T, A302L/C/M/T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language, Mathematics, Additional Mathematics, Pure/combined Humanities</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;Students who are eligible and keen to take a 4H2 subject combination
+must still indicate a 3H2 subject combination as one of their choices during
 subject registration.</p>
-<p><strong>Students may continue with four H2 subjects in JC2 if they obtain ‘C’ grade or better in all their H2 subjects in the JC1 Promotional Examination.</strong>
+<p><strong>&nbsp;Students may continue with four H2 subjects in JC2 if they obtain ‘C’ grade or better in all their H2 subjects in the JC1 Promotional Examination.</strong>
 </p>
 <h4><strong>H3 Subjects</strong></h4>
 <p>Designed for outstanding students who have excelled academically, H3 subjects
