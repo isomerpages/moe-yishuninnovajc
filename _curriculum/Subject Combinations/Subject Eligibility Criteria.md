@@ -7,46 +7,10 @@ variant: tiptap
 ---
 <h3><strong>Subject Eligibility Criteria</strong></h3>
 <h4><strong>Subjects with pre-requisites or selection test</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Subjects with Pre-requisites<sup>#</sup> or Selection Test</strong>
+<p><strong>H2 Computing: Pass Selection Test</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Pre-requisites<sup>#</sup> or Selection Test</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Computing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>H2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass Selection test</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Note: Passing the selection tests are set requirements that students must
+fulfil in order to offer the subject at the A-Level.</p>
 <p>Note: Passing the selection tests are set requirements that students must
 fulfil in order to offer the subject at the A-Level.</p>
 <h4><strong>Subjects with assumed knowledge</strong></h4>
