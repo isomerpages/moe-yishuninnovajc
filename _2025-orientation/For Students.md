@@ -107,7 +107,7 @@ with us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall (all OGs)</p>
-<p><em>(Please refer to the noticeboards in our college for your OG allocation)</em>
+<p><em>(Please refer to the SMS sent to you for your OG allocation)</em>
 </p>
 </td>
 </tr>
@@ -162,7 +162,8 @@ on the map below.</p><a class="isomer-image-wrapper" href="https://maps.app.goo.
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pack your bag, including your writing materials and water bottle.</p>
+<p>Pack your bag, including your <strong>writing materials</strong> and <strong>water bottle.</strong>
+</p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -177,7 +178,7 @@ on the map below.</p><a class="isomer-image-wrapper" href="https://maps.app.goo.
 </li>
 <li>
 <p>Please call (6257 9873) or email the college (yijc@moe.edu.sg) to update
-us regarding your absence.</p>
+us regarding your absence. Include your name and OG number in the email.</p>
 </li>
 </ul>
 <ol start="3" data-tight="true" class="tight">
@@ -189,8 +190,7 @@ us regarding your absence.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Follow the directional signs and our friendly OGLs, and <strong>report to the reporting venue (Hall) directly </strong>(see
-map below)<strong> </strong>(please refer to the SMS sent to you for your
-Orientation Groupings).&nbsp;</p>
+map below)<strong> </strong><em>(Please refer to the SMS sent to you for your OG allocation)</em>&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
