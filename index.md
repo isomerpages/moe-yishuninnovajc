@@ -23,15 +23,14 @@ sections:
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
   - infopic:
-      title: Open House 2025
-      subtitle: UPCOMING!
+      title: Orientation 2025
+      subtitle: Welcome to yijc
       id: infopic
-      button: more info here
-      image: /images/Open House 2024/YI_Open_House_Pop_up__1_.png
+      button: Click here for more info!
+      image: /images/2024 Orientation/2025_yijc_orientation_banner.jpg
       alt: Image alt text
-      description: Want to know what it is like to be a YIJC student? Visit our campus
-        on 13 January from 10am to 5pm to find out more. We look forward to
-        seeing you soon!
+      description: Hello new YIJCians! We hope you are excited for Orientation and we
+        look forward to welcoming you soon :)
       url: https://www.yijc.moe.edu.sg/open-house-2025/overview/
   - infobar:
       title: Yishun Innova Junior College
