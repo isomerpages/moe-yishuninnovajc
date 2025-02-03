@@ -10,9 +10,9 @@ sections:
       background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
-        - title: Open House 2025
-          description: Programme highlights!
-          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/whatshappening/
+        - title: Orientation 2025
+          description: Programme details and more!
+          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/2025-orientation/students/
         - title: About YIJC
           description: What defines us as a college?
           url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
@@ -23,16 +23,15 @@ sections:
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
   - infopic:
-      title: Open House 2025
-      subtitle: UPCOMING!
+      title: Orientation 2025
+      subtitle: Welcome to yijc
       id: infopic
-      button: more info here
-      image: /images/Open House 2024/YI_Open_House_Pop_up__1_.png
+      button: Click here for more info!
+      image: /images/2024 Orientation/2025_yijc_orientation_banner.jpg
       alt: Image alt text
-      description: Want to know what it is like to be a YIJC student? Visit our campus
-        on 13 January from 10am to 5pm to find out more. We look forward to
-        seeing you soon!
-      url: https://www.yijc.moe.edu.sg/open-house-2025/overview/
+      description: Hello new YIJCians! We hope you are excited for Orientation and we
+        look forward to welcoming you soon.
+      url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/2025-orientation/students/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at

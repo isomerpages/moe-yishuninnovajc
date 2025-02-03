@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /2024-orientation/forparents/
+permalink: /2025-orientation/forparents/
 variant: tiptap
 description: ""
 ---
@@ -8,13 +8,17 @@ description: ""
 <p>This session will provide an overview of our college and expand on the
 academic and co-curricular journey your child will embark on. The session
 will also provide information that will help your child decide on his/her
-subject combination shortly after joining the college. We have invited
-our Education &amp; Career Guidance (ECG) counsellor to speak at this session
-and she will share various factors to consider when reviewing your child’s
-choices.&nbsp;&nbsp;</p>
-<p><strong>Details of the session are as follows:&nbsp;</strong>
+subject combination shortly after joining the college.</p>
+<p>We have invited our Education &amp; Career Guidance (ECG) counsellor to
+speak at this session and she will share various factors to consider when
+reviewing your child’s choices.&nbsp;&nbsp;</p>
+<p><strong>The details of the session are as follows:&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,7 +26,7 @@ choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 2 Feb 2024</p>
+<p>Wed 5 Feb 2025</p>
 </td>
 </tr>
 <tr>
@@ -31,8 +35,8 @@ choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 to 8.45 p.m. (<strong>Optional</strong> Subject Enquiry Session from
-8.00 to 8.45 p.m.)</p>
+<p>6.00 to 8.45 p.m.</p>
+<p>(<strong>Optional</strong> Subject Enquiry Session from 8.00 to 8.45 p.m.)</p>
 </td>
 </tr>
 <tr>
@@ -41,14 +45,18 @@ choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A virtual session via Zoom</p>
+<p>A virtual session&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>We highly encourage you and your child to attend this session:</strong>
+<p><strong>We highly encourage you and your child to attend this virtual session:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,16 +113,22 @@ questions.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Online Subject Enquiry Booths</strong>
 </p>
-<p>Our teachers will be available in the various Subject Zoom Breakout Rooms
+<p>Our teachers will be available in the various Online Subject Enquiry Booths
 to answer questions related to subject and subject combination matters.
-Each consultation session will be capped to 5 minutes. More details on
-how to access these Subject Zoom Breakout Rooms will be given on the day
-after our ECG counsellor’s presentation on subject combination choices.</p>
+Each consultation session will be capped to 5 minutes.</p>
+<p></p>
+<p>More details on how to access these booths will be given on the day of
+the PET after our ECG counsellor’s presentation on subject combination
+choices.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Thu 1 Feb. Do look out for more details on how to join this Zoom Beginning-of-Year Parents Engagement Session.</strong>&nbsp;</p>
+<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk there.</strong>
+</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
