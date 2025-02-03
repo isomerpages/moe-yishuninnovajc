@@ -10,9 +10,9 @@ sections:
       background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
-        - title: Open House 2025
-          description: Programme highlights!
-          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/open-house-2025/whatshappening/
+        - title: Orientation 2025
+          description: Programme details and more!
+          url: ""
         - title: About YIJC
           description: What defines us as a college?
           url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
