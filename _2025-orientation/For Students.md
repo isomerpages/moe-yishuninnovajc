@@ -196,6 +196,6 @@ map below)<strong> </strong><em>(Please refer to the SMS sent to you for your OG
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="578" width="382" src="https://lh7-us.googleusercontent.com/Rqab4buciXaIELQP958IGI5qTgLANI7v0kmR3PuTH47raXVYSHlsf-mlFfleSqv3Nm1oks-n4o_pta7Dd7fegU7g5RR2gRTl-skXdhCVC2g9zhgU8ifckOy_sxP1aKCxHSZQYy2-ge-8MTKNfEkFjA">
 </div>
-<p>For more details on the the Orientation programme, please refer to this
-site: <a href="https://go.gov.sg/yijcori" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcori</a>
+<p>For more details on the Orientation programme, please refer to this site:
+<a href="https://go.gov.sg/yijcori" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcori</a>
 </p>
