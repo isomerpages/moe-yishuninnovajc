@@ -37,7 +37,7 @@ with us.</p>
 <p>Wed 5 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m. to 1.30pm</p>
+<p>7.45 a.m. to 1.30 p.m.</p>
 </td>
 </tr>
 <tr>
