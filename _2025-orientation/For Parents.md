@@ -124,7 +124,7 @@ choices.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk there. </strong>
+<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk there.</strong>
 </p>
 <p>
 <br>
