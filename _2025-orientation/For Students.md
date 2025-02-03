@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Orientation/2025_yijc_orientation_banner.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/2024 Orientation/2025_yijc_orientation_banner.jpg">
 </div>
 <p>&nbsp;A <strong>warmest welcome</strong> to our new students of Yishun Innova
 Junior College! We are excited to welcome you as you start your journey
