@@ -4,7 +4,7 @@ permalink: /2025-orientation/subreg-details/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Subject Registration 2024</strong></h4>
+<h4><strong>Subject Registration 2025</strong></h4>
 <p>Warm greetings from Yishun Innova Junior College!</p>
 <p>We are thrilled to welcome you to YIJC and hope that your journey with
 us will be both enriching and fulfilling. As you embark on this exciting
@@ -16,12 +16,12 @@ These talks aim to provide valuable insights into the subject combinations
 available and help you choose the most suitable options for your academic
 journey.</p>
 <p>You can access the school portal to register your preferred subject combinations
-starting from <strong>Fri, 2 Feb, at 12:00 p.m.</strong> The registration
-period will conclude on <strong>Tue 6 Feb, at 8:30 a.m</strong>. Detailed
-instructions on how to navigate the portal will be shared with you on Fri,
-2 Feb.</p>
-<p>Please refer to the table below for the essential events and activities
-related to the Subject Combination Registration Exercise:</p>
+starting from <strong>Wed 5 Feb, at 12:00 p.m.</strong> The registration
+period will conclude on <strong>Fri 7 Feb, at 8:30 a.m</strong>. Detailed
+instructions on how to navigate the portal will be shared with you on Wed,
+5 Feb.</p>
+<p>Please refer to the table below for the<strong> essential events and activities</strong> related
+to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -45,13 +45,14 @@ related to the Subject Combination Registration Exercise:</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Fri 2 Feb</p>
+<p><strong>Wed 5 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education &amp; Career Guidance Talk</p>
+<p>Introduction to A Levels Talk</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>8.30am to 10am</p>
+<p>9.15am to 10.15am</p>
 </td>
 </tr>
 <tr>
@@ -85,11 +86,12 @@ related to the Subject Combination Registration Exercise:</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Mon 5 Feb</p>
+<p><strong>Thurs 6 Feb</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Selection Tests for students offering
-<br>H2 Art or H2 Computing</p>
+<br>H2 Computing</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>10.15am</p>
@@ -102,12 +104,13 @@ related to the Subject Combination Registration Exercise:</p>
 <p>Face to Face Subject Enquiry Booths for students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15pm</p>
+<p>2.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue 6 Feb</p>
+<p><strong>Fri 7 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>End of online Subject Combination Registration Exercise</strong>
@@ -120,21 +123,21 @@ related to the Subject Combination Registration Exercise:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed 14 Feb</p>
+<p><strong>Wed 12 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of class and subject allocation on the school portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 9am</p>
+<p>Late Morning</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>To help you to make a more informed decision, the college has also created
+<p>To help you to make a more informed decision, the college has created
 a subject information guide. This information guide contains information
-on subject eligibility, and provides a basic understanding of the subject
+on subject eligibility and also provides a basic understanding of the subject
 content and assessment requirements for the various A-level subjects. You
 can access the guide via this link (<a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/yijcsubjectinfo</u></a>).</p>
 <p>We encourage you to actively participate in these registration proceedings
