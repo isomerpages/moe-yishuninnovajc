@@ -30,7 +30,7 @@ sections:
       image: /images/2024 Orientation/2025_yijc_orientation_banner.jpg
       alt: Image alt text
       description: Hello new YIJCians! We hope you are excited for Orientation and we
-        look forward to welcoming you soon :)
+        look forward to welcoming you soon.
       url: https://www.yijc.moe.edu.sg/open-house-2025/overview/
   - infobar:
       title: Yishun Innova Junior College
