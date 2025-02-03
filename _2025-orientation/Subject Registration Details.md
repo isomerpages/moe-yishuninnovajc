@@ -139,7 +139,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 a subject information guide. This information guide contains information
 on subject eligibility and also provides a basic understanding of the subject
 content and assessment requirements for the various A-level subjects. You
-can access the guide via this link (<a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/yijcsubjectinfo</u></a>).</p>
+can access the guide via this link (<strong><a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/yijcsubjectinfo</u></a></strong>).</p>
 <p>We encourage you to actively participate in these registration proceedings
 to ensure a smooth transition into your chosen subjects. Should you have
 any queries or require assistance, our dedicated staff will be more than
