@@ -8,13 +8,17 @@ description: ""
 <p>This session will provide an overview of our college and expand on the
 academic and co-curricular journey your child will embark on. The session
 will also provide information that will help your child decide on his/her
-subject combination shortly after joining the college. We have invited
-our Education &amp; Career Guidance (ECG) counsellor to speak at this session
-and she will share various factors to consider when reviewing your child’s
-choices.&nbsp;&nbsp;</p>
-<p><strong>Details of the session are as follows:&nbsp;</strong>
+subject combination shortly after joining the college.</p>
+<p>We have invited our Education &amp; Career Guidance (ECG) counsellor to
+speak at this session and she will share various factors to consider when
+reviewing your child’s choices.&nbsp;&nbsp;</p>
+<p><strong>The details of the session are as follows:&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,7 +26,7 @@ choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 2 Feb 2024</p>
+<p>Wed 5 Feb 2025</p>
 </td>
 </tr>
 <tr>
@@ -41,14 +45,18 @@ choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A virtual session via Zoom</p>
+<p>A virtual session&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>We highly encourage you and your child to attend this session:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
