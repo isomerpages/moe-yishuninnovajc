@@ -31,7 +31,7 @@ sections:
       alt: Image alt text
       description: Hello new YIJCians! We hope you are excited for Orientation and we
         look forward to welcoming you soon.
-      url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/2025-orientation/students/
+      url: https://www.yijc.moe.edu.sg/2025-orientation/students/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
