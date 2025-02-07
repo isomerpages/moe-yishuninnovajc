@@ -9,10 +9,8 @@ variant: tiptap
 <p>Only students who meet the cut-off point (COP) for admission to Yishun
 Innova Junior College (YIJC) can be considered for appeals. For 2025, the
 net aggregate L1R5 COP for YIJC are: 18 (Science), 19* (Arts).</p>
-<p>*The last posted student YIJC received for the Arts course had a net aggregate
-score of 19. However, given that the college had vacancies after JAE posting
-to the Arts course, the college would consider admitting a JC-eligible
-student with L1R5 of 20, if there are available vacancies.</p>
+<p><em>*The last posted student YIJC received for the Arts course had a net aggregate score of 19. However, given that the college had vacancies after JAE posting to the Arts course, the college would consider admitting a JC-eligible student with L1R5 of 20, if there are available vacancies.</em>
+</p>
 <p>Eligible appeals will be given due consideration, subject to available
 vacancies and the school’s admission criteria.</p>
 <p></p>
