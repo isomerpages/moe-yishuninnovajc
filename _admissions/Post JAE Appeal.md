@@ -7,9 +7,15 @@ variant: tiptap
 <h3><strong>Post JAE Appeal</strong></h3>
 <h4><strong>Post-JAE Appeal Exercise</strong></h4>
 <p>Only students who meet the cut-off point (COP) for admission to Yishun
-Innova Junior College can be considered for appeals. Eligible appeals will
-be given due consideration, subject to available vacancies and the school’s
-admission criteria.</p>
+Innova Junior College (YIJC) can be considered for appeals. For 2025, the
+net aggregate L1R5 COP for YIJC are: 18 (Science), 19* (Arts).</p>
+<p>*The last posted student YIJC received for the Arts course had a net aggregate
+score of 19. However, given that the college had vacancies after JAE posting
+to the Arts course, the college would consider admitting a JC-eligible
+student with L1R5 of 20, if there are available vacancies.</p>
+<p>Eligible appeals will be given due consideration, subject to available
+vacancies and the school’s admission criteria.</p>
+<p></p>
 <p>For admission to Yishun Innova Junior College, candidates must first meet
 the admission criteria for a Junior College. Please refer to the information
 on JC admission criteria (<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener noreferrer nofollow" target="_blank">MOE-admission criteria to institutes</a>)
