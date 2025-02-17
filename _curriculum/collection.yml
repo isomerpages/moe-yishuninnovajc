@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - RELEASE OF 2024 SINGAPORE CAMBRIDGE GCE A LEVEL EXAMINATION RESULTS.md
+      - RELEASE OF 2024 GCE A LEVEL EXAMINATION RESULTS.md
       - 2025 Prospectus.md
       - Subject Combinations/.keep
       - Subject Combinations/The A Level Curriculum.md
