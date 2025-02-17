@@ -33,8 +33,8 @@ to appoint a proxy.&nbsp;</p>
 <p><strong>3.&nbsp; Assessing Results Online</strong>
 </p>
 <p>School candidates can also access their results online1 via Singapore
-Examinations and Assessment Board (SEAB)’s Candidates Portal at <a rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
-3.15pm on 21 February 2025, till 11pm on 7 March 2025.</p>
+Examinations and Assessment Board (SEAB)’s Candidates Portal at <a rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on 21
+February 2025, till 11pm on 7 March 2025.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates who are eligible
 for Singpass can use their Singpass account to access SEAB’s Candidates
 Portal.</p>
