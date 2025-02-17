@@ -9,7 +9,8 @@ description: ""
 </p>
 <p>School candidates can return to college to receive their results in their
 respective assigned venues from 2.30pm on Friday 21 February 2024. Please
-click <strong><u>here</u></strong> for your assigned venues.</p>
+click <strong><a href="/files/ALEVEL/Venues_for_Result_Release.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>
+<a href="/files/ALEVEL/Venues_for_Result_Release.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for your assigned venues.</p>
 <p><strong>School candidates will be permitted into the college from 1.15pm</strong>.&nbsp;
 Please enter from the main college gate and proceed to the Art Gallery
 to collect the Yearbook and ECG bags before proceeding to your assigned
