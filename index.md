@@ -22,6 +22,16 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Release of 2024 Singapore-Cambridge GCE A-Level Release on
+          date: 21 February 2025
+          announcement: Release of 2024 Singapore-Cambridge GCE A-Level Release
+          link_text: Click here to find out
+          link_url: /release-of-2024-gce-a-level-examination-results/
   - infopic:
       title: Orientation 2025
       subtitle: Welcome to yijc
