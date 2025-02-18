@@ -23,7 +23,7 @@ sections:
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
   - announcements:
-      title: Announcements
+      title: Announcement
       id: announcements
       announcement_items:
         - title: Release of GCE A-Level Examination Results on
