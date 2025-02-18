@@ -65,9 +65,7 @@ MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener nofollow" tar
 <p></p>
 <p>Students may also consult their teachers or ECG Counsellors in college
 about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
-<a href="https://go.gov.sg/moe-ecg-centre.%20" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
 <p>The ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from 17 February 2025 to 19 March 2025 from 9am to 5pm on weekdays,
 and 9am to 12pm on Saturdays.</p>
