@@ -35,8 +35,8 @@ to appoint a proxy.&nbsp;</p>
 <p><strong>3.&nbsp; Assessing Results Online</strong>
 </p>
 <p>School candidates can also access their results online1 via Singapore
-Examinations and Assessment Board (SEAB)’s Candidates Portal at <a rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on 21
-February 2025, till 11pm on 7 March 2025.</p>
+Examinations and Assessment Board (SEAB)’s Candidates Portal at <a href="https://www.seab.gov.sg" rel="noopener nofollow" target="_blank">www.seab.gov.sg</a> from
+3.15pm on 21 February 2025, till 11pm on 7 March 2025.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates who are eligible
 for Singpass can use their Singpass account to access SEAB’s Candidates
 Portal.</p>
@@ -59,13 +59,13 @@ the universities directly for further assistance.</p>
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MOE’s CourseFinder (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
+MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MySkillsFuture (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
+MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
 <p></p>
 <p>Students may also consult their teachers or ECG Counsellors in college
 about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
 <a href="https://go.gov.sg/moe-ecg-centre.%20" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p>The ECG Centre offers online or phone counselling services to GCE A-Level
