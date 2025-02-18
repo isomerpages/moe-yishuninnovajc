@@ -26,11 +26,12 @@ sections:
       title: Announcement
       id: announcements
       announcement_items:
-        - title: Release of GCE A-Level Examination Results on
+        - title: Release of GCE A-Level Examination Results
           date: 21 February 2025
-          announcement: Release of 2024 Singapore-Cambridge GCE A-Level Examination
-            Results on 21 February 2025.
-          link_text: Click here to find out
+          announcement: The 2024 Singapore-Cambridge GCE A-Level Examination Results will
+            be released on 21 February 2025. Click the link below to find out
+            more about the different venues and other administrative details.
+          link_text: Click here for more information!
           link_url: /release-of-2024-gce-a-level-examination-results/
   - infopic:
       title: Orientation 2025
