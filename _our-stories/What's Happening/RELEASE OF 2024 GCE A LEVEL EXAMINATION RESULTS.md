@@ -58,14 +58,24 @@ the universities directly for further assistance.</p>
 <p>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
+</li>
+<li>
+<p>MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
+</li>
+<li>
+<p>ECG Googlesite <a href="https://go.gov.sg/ecgyijc" rel="noopener nofollow" target="_blank">https://go.gov.sg/ecgyijc</a>)
+and Beyond A Levels Booklet (<a href="https://go.gov.sg/beyondalevelsbooklet25" rel="noopener nofollow" target="_blank">https://go.gov.sg/beyondalevelsbooklet25</a>)
+on application to institutes of higher learning, retaking A levels, important
+deadlines and more</p>
+</li>
+</ul>
 <p>Students may also consult their teachers or ECG Counsellors in college
-about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
+about their next steps. To book an appointment with our YIJC ECG Counsellor,
+Ms Joyce, fill out the Online Form <a href="https://go.gov.sg/yijcecg" rel="noopener nofollow" target="_blank">https://go.gov.sg/yijcecg</a>. Alternatively,
+they can make an ECG counselling appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.</p>
 <p>The ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from 17 February 2025 to 19 March 2025 from 9am to 5pm on weekdays,
 and 9am to 12pm on Saturdays.</p>
