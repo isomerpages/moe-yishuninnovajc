@@ -71,9 +71,9 @@ Please check whether the university requires you to sit for the SAT or the ACT. 
 #### **Need more information or personalised help?**
 **Drop by for a personalised discussion with our friendly ECG counsellor!**
 
-Email your name, class, school to [Vina\_SIM@schools.gov.sg](mailto:Vina_SIM@schools.gov.sg) or fill out the Online Form [https://go.gov.sg/yijcecg](https://go.gov.sg/yijcecg)
+Email your name, class, school to [lee\_tian\_joyce@schools.gov.sg](mailto:lee_tian_joyce@schools.gov.sg) or fill out the Online Form [https://go.gov.sg/yijcecg](https://go.gov.sg/yijcecg)
 
-You can also contact Ms Vina via the Telegram App. Her username is @ECGC\_V
+You can also contact Ms Joyce via the Telegram App. Her username is @yijcecgcounsellor
 
 **Get the latest information from:**
 
