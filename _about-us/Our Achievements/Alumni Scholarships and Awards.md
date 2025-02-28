@@ -314,6 +314,20 @@ third_nav_title: Our Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Loo Yong Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Industry Mid-Term Local Scholarship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ng Keng Hwang (Huang Jingheng)</p>
 </td>
 <td rowspan="1" colspan="1">
