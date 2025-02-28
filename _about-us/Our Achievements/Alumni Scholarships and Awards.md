@@ -188,6 +188,20 @@ third_nav_title: Our Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Wei Shyan, Nigel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Industry Mid-Term Local Scholarship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lim Yu Xin Keryn</p>
 </td>
 <td rowspan="1" colspan="1">
