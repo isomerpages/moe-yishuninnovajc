@@ -254,7 +254,7 @@ Ms Tin Yi Ya
 <label for="accordion7">Physical Education Department</label>
 <div>
 <p>
-	<b><font color="003dA5">HOD/Physical Education and CCA</font></b><br>
+	<b><font color="003dA5">Subject Head/Physical Education and CCA</font></b><br>
 Ms Yeo Swee Ching
 <br><br>
 	<b><font color="003dA5">Senior Teacher/Physical Education</font></b><br>
