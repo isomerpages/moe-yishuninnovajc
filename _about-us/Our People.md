@@ -36,15 +36,6 @@ variant: markdown
     <td style="text-align: center;">Mrs Julieanne Choy Wen Ju
 		</td>
 	</tr>
-		<tr>
-    <td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal2.jpg" style="width:20%">
-		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">Mrs Lee Hui Xin
-		</td>
-	</tr>
 	<tr>
     <td style="text-align: center;">
 		<img src="/images/School Leaders/vice principal3.jpg" style="width:20%">
@@ -240,7 +231,7 @@ Ms Yeo Ai Koon
 Mdm A Mallika<br>
 Mdm Erdiah Binte Samad<br>
 Mdm Li Hua<br>
-Ms Li Zhu<br>
+Ms Li Yujie<br>
 Mr Mohd Said Bin Saleh<br>
 Mdm Selvey Manickam<br>
 Mr Tay Yong Sng<br>
