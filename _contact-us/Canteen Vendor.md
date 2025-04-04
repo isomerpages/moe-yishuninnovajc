@@ -5,39 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
-<h5><strong>School Canteen Application</strong></h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Type of Store</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muslim Cuisine (Halal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Mar 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mixed Rice and Noodles</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h5></h5>
 <h5><strong>Application Procedure</strong></h5>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s Security Guard House.</p>
