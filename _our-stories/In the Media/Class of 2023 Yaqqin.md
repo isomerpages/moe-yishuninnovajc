@@ -6,11 +6,10 @@ description: ""
 third_nav_title: In the Media
 ---
 <p></p>
-<h3><strong>Muhammad Yaqqin Mohd Yasin: </strong>Academic Excellence as Recompense for Mother's Sacrifices</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSC07969.jpg">
-</div>
-<p><em>Read more about his story here:</em>
+<h3><strong>Muhammad Yaqqin Mohd Yasin: </strong>Academic Excellence as Recompense for Mother's Sacrifices</h3><a class="isomer-image-wrapper" href="https://www.beritaharian.sg/singapura/kecemerlangan-akademik-sebagai-balas-jasa-ibu"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07969.jpg"></a>
+<p><em>Mr Michael de Silva (left) and Muhammad Yaqqin Mohd Yasin (right)</em>
+</p>
+<p><em>Read more about Yaqqin's story by clicking on the picture above or the link here:</em>
 </p>
 <p><a href="https://www.beritaharian.sg/singapura/kecemerlangan-akademik-sebagai-balas-jasa-ibu" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/kecemerlangan-akademik-sebagai-balas-jasa-ibu</a>
 </p>
