@@ -31,17 +31,17 @@ More resources on overseas education can also be found [here](https://sites.goo
 #### **Applying to UK Universities**
 **How do I apply?**
 
-Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2024 onwards.
+Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2025 onwards.
 
 You may find a step-by-step guide to completing the UCAS application [here](https://www.ucas.com/undergraduate/applying-university/filling-your-ucas-undergraduate-application). 
 
-You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2025**
+You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2026**
 
 **Application deadlines**
 
-**15 Oct 2024** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
+**15 Oct 2025** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
 
-**29 Jan 2025** – For the majority of courses in the UK.
+**14 Jan 2026** – For the majority of courses in the UK.
 
 **Admission tests**
 
@@ -55,12 +55,6 @@ Please follow the [link here](https://www.ucas.com/undergraduate/applying-unive
 Application to most US universities will be made via the [Common Application (Common App)](https://www.commonapp.org/). You can start filling out your application now.
 
 You may find a step-by-step guide to completing the Common App application [here](https://www.commonapp.org/apply/first-year-students).
-
-Please scan your:
-* ‘O’ level result certificate
-* JC1 and JC2 result slips
-
-and send the image files to your CT (College Counsellor). Your CT (College Counsellor) will need to upload these documents to Common Apps for you for your US University application.
 
 Please note that the college counsellor testimonial needs to be filled up by **your CT** and not by our ECG counsellor.
 
