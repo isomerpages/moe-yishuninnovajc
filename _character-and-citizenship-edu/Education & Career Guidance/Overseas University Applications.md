@@ -18,7 +18,7 @@ _Recommendation letter_: Do make the request for the recommendation letter early
 
 **Other Documents**
 
-_Enrolment letter_: If your university requires an enrolment letter as proof of your enrolment to Yishun Innova JC, please email the general office at yijc@moe.edu.sg to request for one.
+_Enrolment letter_: If your university requires an enrolment letter as proof of your enrolment to Yishun Innova JC, please email the general office at [yijc@moe.edu.sg](mailto:yijc@moe.edu.sg) to request for one.
 
 _School transcript_: If your university requires you to submit a school transcript detailing the grades of your major examinations in Yishun Innova Junior College, please fill out this [form](https://form.gov.sg/6821b8f054b570db3346ad48) to request for one. Do note that the transcript will be sent to the university directly and it will not be given to you.
 
