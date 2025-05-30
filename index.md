@@ -10,9 +10,6 @@ sections:
       background: /images/Landing Page/2024_Website_Landing_Page_Gif__5_.gif
       variant: center
       key_highlights:
-        - title: Orientation 2025
-          description: Programme details and more!
-          url: https://staging-lite.d2vg23cb9jg5ks.amplifyapp.com/2025-orientation/students/
         - title: About YIJC
           description: What defines us as a college?
           url: https://www.yijc.moe.edu.sg/about-us/about-yijc/
@@ -25,14 +22,6 @@ sections:
   - announcements:
       title: Announcement
       id: announcements
-      announcement_items:
-        - title: Release of GCE A-Level Examination Results
-          date: 21 February 2025
-          announcement: The 2024 Singapore-Cambridge GCE A-Level Examination Results will
-            be released on 21 February 2025. Click the link below to find out
-            more about the different venues and other administrative details.
-          link_text: Click here for more information!
-          link_url: /release-of-2024-gce-a-level-examination-results/
   - infopic:
       title: Orientation 2025
       subtitle: Welcome to yijc
