@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - What's Happening/RELEASE OF 2024 GCE A LEVEL EXAMINATION RESULTS.md
       - What's Happening/.keep
       - What's Happening/KOTA & KOTS.md
       - What's Happening/Listen Concert.md
