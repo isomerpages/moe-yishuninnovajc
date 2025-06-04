@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Voices of YI/Class of 2024 Ang Kok Rui.md
       - Voices of YI/Class of 2024 Yuen Li Ying.md
       - Voices of YI/.keep
       - What's Happening/.keep
