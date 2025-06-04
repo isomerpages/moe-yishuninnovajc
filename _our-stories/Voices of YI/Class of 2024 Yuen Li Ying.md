@@ -60,21 +60,19 @@ led her to take part in the NUS Computing Course for A-Level graduates,
 where she gained a deeper appreciation for the possibilities in technology.</p>
 <p>She also took full advantage of opportunities provided by the college,
 participating in programmes like the Pre-U Seminar and the Work Experience
-Programme (WEP), which enhanced her communication, collaboration (edited
-this to better reflect e21CC) and professional skills. At the Pre-U Seminar,
-Li Ying collaborated with peers from other junior colleges and even led
-a subcommittee, &nbsp;an experience that enhanced her confidence and ability
-to articulate ideas effectively. . Her work experience at CT Art Creation,
-a playground design and equipment provider, was just as eye-opening. She
-developed &nbsp;an Excel tracking system to streamline their processes,
-&nbsp;gaining valuable exposure to problem-solving in a real-world problem
-setting.</p>
+Programme (WEP), which enhanced her communication, collaboration and professional
+skills. At the Pre-U Seminar, Li Ying collaborated with peers from other
+junior colleges and even led a subcommittee, &nbsp;an experience that enhanced
+her confidence and ability to articulate ideas effectively. Her work experience
+at CT Art Creation, a playground design and equipment provider, was just
+as eye-opening. She developed an Excel tracking system to streamline their
+processes, gaining valuable exposure to problem-solving in a real-world
+problem setting.</p>
 <p>Reflecting on her journey, Li Ying takes pride not only in her academic
 achievements but also in her personal growth, made possible by the steadfast
-support of those around her. ,</p>
+support of those around her.</p>
 <p>Her advice to juniors? <em>“Don’t give up. Even if you start late or feel unsure, keep your end goal in sight and do not forget why you started. Have the determination and courage to pursue excellence. Aim for the moon, so that even when you fall, you might land among the stars!”</em>
 </p>
 <p>Li Ying leaves college not only as a scholar, but as a changemaker — resilient,
-reflective, and ready for &nbsp;future challenges. We wish her all the
-very best.</p>
+reflective, and ready for future challenges. We wish her all the very best.</p>
 <p></p>
