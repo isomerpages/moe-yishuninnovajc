@@ -2,9 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - Voices of YI/Class of 2024 Ang Kok Rui.md
-      - Voices of YI/Class of 2024 Yuen Li Ying.md
-      - Voices of YI/.keep
       - What's Happening/.keep
       - What's Happening/KOTA & KOTS.md
       - What's Happening/Listen Concert.md
@@ -15,5 +12,8 @@ collections:
       - What's Happening/College Open House.md
       - What's Happening/Cultural Exchange Programme.md
       - What's Happening/University LJ and Symposiums.md
-      - In the Media/Class of 2023 Yaqqin.md
+      - Voices of YI/.keep
+      - Voices of YI/Class of 2024 Ang Kok Rui.md
+      - Voices of YI/Class of 2024 Yuen Li Ying.md
       - In the Media/.keep
+      - In the Media/Class of 2023 Yaqqin.md
