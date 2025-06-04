@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Voices of YI/.keep
       - Voices of YI.md
       - What's Happening/.keep
       - What's Happening/KOTA & KOTS.md
