@@ -13,15 +13,16 @@ an award voucher of <strong>S$500</strong>.</p>
 <h4><strong><u>NOMINATION OF YIJC STUDENTS FOR 2025 MOE ECHA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Who can nominate: <strong>Staff, Students (Peer or Self), Parents, Public </strong><em>(Student’s self-nomination should be supported by a peer endorsement)</em>
+<p>Who can nominate: <strong>Staff, Students (Peer), Parents</strong>
 </p>
 </li>
 <li>
-<p>Period of nomination: <em>To be updated in July 2025</em>
+<p>Period of nomination: <strong>7 July 2025, 1200 hrs to 1 August 2025, 1800 hrs</strong>
 </p>
 </li>
 <li>
-<p>Please find the <strong>Nomination Link here: </strong><em>To be updated in July 2025</em>
+<p>Where to nominate (link is active from 7 July, 1200 hrs onwards):</p>
+<p><strong>Nomination Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-echa</a>
 </p>
 </li>
 </ul>
@@ -47,7 +48,8 @@ compass and uphold ethical principles</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Demonstrate perseverance in the face of difficult circumstances, and/or</p>
+<p>Demonstrate <strong>perseverance</strong> in the face of difficult circumstances,
+and/or</p>
 </li>
 <li>
 <p>Demonstrate the <strong>College Values of Clarity, Agility and Pursuit of Excellence</strong> when
@@ -74,14 +76,15 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 actions shown. Examples quoted should be from:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>JC1 students: </strong><em>To be updated in July 2025</em>
+<p><strong>JC1 students: 1 Nov 2024 to 30 Sep 2025</strong>
 </p>
 </li>
 <li>
-<p><strong>JC2 students: </strong><em>To be updated in July 2025</em>
+<p><strong>JC2 students: 1 Oct 2024 to 30 Sep 2025</strong>
 </p>
 </li>
 </ul>
 </li>
 </ul>
+<p></p>
 <p></p>
