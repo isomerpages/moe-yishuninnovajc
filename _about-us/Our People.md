@@ -305,6 +305,7 @@ Ms Lim Hwee Ming Irene
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
 Mr Tan Kok Ping Lawrence<br>
+Ms Teo Wei Min Stephanie<br>
 <br>
 	<b>Chemistry</b><br>
 	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
