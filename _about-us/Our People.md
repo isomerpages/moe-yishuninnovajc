@@ -386,6 +386,7 @@ Mr Muhammad Hafiz Bin Hamzah
 	<b><font color="003dA5">STEM Instructors (Laboratory)</font></b><br>
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
+Ms Maizatul Nazura<br>
 Mdm Suhailah Binte Satoo<br>
 <br>
 	<b><font color="003dA5">OSO</font></b><br>
