@@ -93,6 +93,8 @@ Ms Koh Jia Xin<br>
 Ms Law Winnie<br>
 Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
+Ms Ooi Wei Wen Valencia<br>
+Ms Sai Shnyenn <br>
 Ms Tan Li Yan Joscelyn<br>
 
 </p>
@@ -110,7 +112,7 @@ Mrs Shirley Charles-Sharan
 	<b><font color="003dA5">HOD/Character &amp; Citizenship Education</font></b><br>
 Ms Tan Yin Ping Maxine
 <br><br>	
-<b><font color="003dA5">Assistant Year Head</font></b><br>
+<b><font color="003dA5">Year Head</font></b><br>
 Ms Ong Siew Yee Pearlyn
 <br><br>	
 <b>English Literature</b><br>
@@ -165,10 +167,10 @@ Ms Tan Li Ling
 <br><br>
 	<b><font color="003dA5">Lead Teacher/Geography</font></b><br>
 Dr N Gowri
-<br><br>
+<br><br> <b><font color="003dA5">Subject Head/ Communications &amp; Partnership</font></b><br>Mr Mohamad Irfan Bin Mohamad Salihin<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Liew Feng Chuan Karen<br>
-Mr Mohamad Irfan Bin Mohamad Salihin
+
 <br><br>
 <b>History</b><br>
 	<b><font color="003dA5">Assistant Year Head</font></b><br>
