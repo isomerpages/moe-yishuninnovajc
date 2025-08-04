@@ -166,8 +166,7 @@ Ms Tan Li Ling
 Dr N Gowri
 <br><br> <b><font color="003dA5">Subject Head/ Communications &amp; Partnership</font></b><br>Mr Mohamad Irfan Bin Mohamad Salihin<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Ms Liew Feng Chuan Karen<br>
-
+Ms Liew Feng Chuan Karen
 <br><br>
 <b>History</b><br>
 	<b><font color="003dA5">Assistant Year Head</font></b><br>
