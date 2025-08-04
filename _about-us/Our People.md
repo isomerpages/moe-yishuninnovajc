@@ -74,11 +74,8 @@ Mdm Ng Chai Ngoh
 <br><br>	
 	<b><font color="003dA5">HOD/Student Management</font></b><br>
 Ms Chong Jia Wei Serene
-<br><br>	
-	<b><font color="003dA5">Subject Head/Economics</font></b><br>
-Mr Low Hwan Liang Lenon
 <br><br>
-		<b><font color="003dA5">Subject Head/Information and Communication Technology</font></b><br>
+		<b><font color="003dA5">Subject Head/Information &amp; Communication Technology</font></b><br>
 Mr Yeo Rong Yao Jeremy
 <br><br>
 	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
@@ -248,8 +245,9 @@ Ms Tin Yi Ya
 <div>
 <p>
 	<b><font color="003dA5">Subject Head/Physical Education and CCA</font></b><br>
-Ms Yeo Swee Ching
-<br><br>
+Ms Yeo Swee Ching<br>
+Mr Sher Zi Ao	<br>
+	<br>
 	<b><font color="003dA5">Senior Teacher/Physical Education</font></b><br>
 Mr Lee Joon Keong
 <br><br>
@@ -258,7 +256,6 @@ Mr Mohamed Fauzi Bin Yusof<br>
 Mr Mus Effendi Bin Musa<br>
 Mr Ng Swee Loong Steven<br>
 Mdm Shelia Nagiah<br>
-	Mr Sher Zi Ao	<br>
 Mrs Thomas George<br>
 </p>
 </div>
@@ -307,7 +304,6 @@ Ms Lim Hwee Ming Irene
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
-Mr Koh Chin Poh<br>
 Mr Tan Kok Ping Lawrence<br>
 <br>
 	<b>Chemistry</b><br>
@@ -390,7 +386,7 @@ Mr Muhammad Hafiz Bin Hamzah
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Mdm Suhailah Binte Satoo<br>
-<br><br>
+<br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mdm Maryani Binte Mohamed<br>
 Mdm S Kalaiselvi<br>
