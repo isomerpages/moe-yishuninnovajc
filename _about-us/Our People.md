@@ -93,6 +93,7 @@ Mr Neo Zhixian Ben<br>
 Ms Ooi Wei Wen Valencia<br>
 Ms Sai Shnyenn <br>
 Ms Tan Li Yan Joscelyn<br>
+Ms Tay Shunwei Felicia<br>
 
 </p>
 </div>
@@ -277,7 +278,6 @@ Ms Eunice Lim Shi Min
 <br> 
 	<b><font color="003dA5">Teachers</font></b><br>	
 Mr Loh Wei Jie<br>
-Ms Tay Shunwei Felicia<br>
 Mrs Teo Eng Leong Emily<br>
 </p>
 </div>
