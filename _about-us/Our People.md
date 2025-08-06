@@ -343,7 +343,6 @@ Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Lim Chee Seng<br>
-Mr Lim Wei Jun<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
 </p>
