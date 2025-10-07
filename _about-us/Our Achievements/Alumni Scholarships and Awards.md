@@ -34,6 +34,20 @@ third_nav_title: Our Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Huldah Grace Teo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Teaching Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adam Prawira Prabowo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +118,20 @@ third_nav_title: Our Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>See Zhuo Wen Jared</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LTA Local Scholarship (Full-Term)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tan Jia Hui, Christine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,6 +142,48 @@ third_nav_title: Our Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS Merit Scholarship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bee Yi En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Teaching Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Ong Jun En&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Teaching Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yong Seng, Ryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Teaching Award</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +412,6 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Alumni Awards and Prizes</strong></h3>
 <h3>NSF of The Year</h3>
 <p>The SAF NSF of the Year Award is given to NSmen who possess an exemplary

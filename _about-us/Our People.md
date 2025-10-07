@@ -94,6 +94,7 @@ Ms Ooi Wei Wen Valencia<br>
 Ms Sai Shnyenn <br>
 Ms Tan Li Yan Joscelyn<br>
 Ms Tay Shunwei Felicia<br>
+Mr Tay Weoi Zhen<br>
 
 </p>
 </div>
@@ -137,6 +138,7 @@ Mrs Eliza Gunasagaran
 Ms Charis Lee Xin-Ning<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
+Ms Kaitlyn Trisha Joseph<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
@@ -355,11 +357,11 @@ Mr Wong Yih Chong
 <div>
 <p>
 	<b><font color="003dA5">Admin Managers</font></b><br>
-Mdm Koh Chwee Ngoh<br>
 	Mrs Lee See Nee
 <br><br>
 	<b><font color="003dA5">Operations Manager</font></b><br>
-Mr Lee Boon Yong
+Mr Lee Boon Yong<br>
+Mr Yip Chee Meng Patrick
 <br><br>
 	<b><font color="003dA5">ICT Manager</font></b><br>
 Mr Tan Wei Keng
@@ -385,14 +387,12 @@ Mr Muhammad Hafiz Bin Hamzah
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Ms Maizatul Nazura<br>
-Mdm Suhailah Binte Satoo<br>
 <br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mdm Alice Wong<br>
 Mdm Rayce Lee<br>
 Mdm Maryani Binte Mohamed<br>
 Mdm S Kalaiselvi<br>
-Mr Teo Cheng Hoe Peter<br>
 Mdm Chan Puay Mui<br>
 Mdm Tan Cheng Huy<br>
 Mr Lee Kah Bian
