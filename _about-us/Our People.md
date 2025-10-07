@@ -94,6 +94,7 @@ Ms Ooi Wei Wen Valencia<br>
 Ms Sai Shnyenn <br>
 Ms Tan Li Yan Joscelyn<br>
 Ms Tay Shunwei Felicia<br>
+Mr Tay Weoi Zhen<br>
 
 </p>
 </div>
