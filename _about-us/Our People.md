@@ -371,31 +371,38 @@ Ms Choh Mei Ling Wendy<br>
 Mdm New Bee Hoon Janet
 <br><br>
 	<b><font color="003dA5">CSO</font></b><br>
-Mdm Norlizah Bte Isa<br>
-Mrs Nurulhuda
+Ms Norlizah Bte Isa<br>
+Ms Nurulhuda Bte Abdullah
 <br><br>
 	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
 Ms Lee Tian Joyce
 <br><br>
 	<b><font color="003dA5">School Counsellor</font></b><br>
-Ms Wong Soo Ping Mandy
+Ms Wong Soo Ping (Wang Shuping) <br> 
+Miss Adeline Lee Mei Pin @Adeline Lee Mei Ping
 <br><br>
 	<b><font color="003dA5">SEN Officer</font></b><br>
 Mr Muhammad Hafiz Bin Hamzah
 <br><br>
 	<b><font color="003dA5">STEM Instructors (Laboratory)</font></b><br>
+Mr Ang Kai Boon <br> 
 Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
-Ms Maizatul Nazura<br>
+Ms Maizatul Nazura Binte A Rasip<br>
+Miss Nur Afiqah Binte Zulkifli <br> 	
 <br>
 	<b><font color="003dA5">OSO</font></b><br>
-Mdm Alice Wong<br>
-Mdm Rayce Lee<br>
-Mdm Maryani Binte Mohamed<br>
-Mdm S Kalaiselvi<br>
+Mr Aszahari Bin Mohamed<br>
 Mdm Chan Puay Mui<br>
+Mr Lee Kah Bian <br> 
+Ms Lee Lee Kuea <br> 
+Mdm Maryani Binte Mohamed<br>
+Mdm S Jayanti <br> 
+Mdm S Kalaiselvi<br>
+Mr Sta Ana Dante Flores <br> 
 Mdm Tan Cheng Huy<br>
-Mr Lee Kah Bian
+Mdm Wong Lee Chin <br>
+
 <br><br>
 	<b><font color="003dA5">Library Officer</font></b><br>
 Ms Tan Chui Hoon, Teresa
