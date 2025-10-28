@@ -61,23 +61,20 @@ any changes to any of the criteria in paragraphs 1 to 3 in writing.
 </div>
 <p>
 <br><strong>Note:</strong>
-<br>1. This application form is meant for Singaporean students studying in
-Government or Government-Aided Primary School, Secondary School, Junior
+<br>1. This application form is meant for <strong>Singaporean students</strong> studying
+in Government or Government-Aided Primary School, Secondary School, Junior
 College or Centralised Institute.</p>
 <p>2. If you have children studying in different Government or Government-aided
-schools, you need to submit only 1 application form to the school of any
-child.</p>
-<p>3. If your family and child is/children are existing beneficiary/beneficiaries
-of MSF ComCare, your child/children will be auto-granted MOE FAS. You do
-not need to apply for MOE FAS separately.</p>
+schools, <strong>you need to submit only 1 application form to the school of any child</strong>.</p>
+<p>3. If your family and child is/children are <strong>existing</strong>  <strong>beneficiary/beneficiaries of MSF ComCare</strong>,
+your child/children will be auto-granted MOE FAS. <strong>You do not need to apply for MOE FAS separately</strong>.</p>
 <p>4. If your application is approved before the end of the month, your child
 will be placed on the MOE FAS in the following month till December of the
 year or when your child is no longer eligible for financial assistance,
 whichever is earlier. There will be no reimbursement or retrospective subsidies
-provided. Fresh applications will have to be submitted for each school
-year.</p>
-<p>5. To ensure a smooth application process, you must have an active GIRO
-account registered with the school. eGIRO application <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+provided. <strong>Fresh applications will have to be submitted for each school year</strong>.</p>
+<p>5. To ensure a smooth application process, you must have an <strong>active GIRO</strong> account
+registered with the school. eGIRO application <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
 <p>6. Please prepare all softcopy supporting documents in advance. An incomplete
 application form and/or the absence of required or relevant information
@@ -89,11 +86,17 @@ when required for the purpose of verifying the income and other status.</p>
 <p>8. Parents who want to know more about MOE FAS and the eligibility calculator
 can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<h4><strong>A) Scholarships and Bursaries</strong></h4>
-<p>Scholarships and bursaries from the College, MOE and other external organisations
+<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
+<p>Students who are not eligible for MOE FAS but require financial assistance
+will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
+<p>Applicants will be informed of the outcome by the school.</p>
+<p>
+<br>
+<br>Scholarships and bursaries from the College, MOE and other external organisations
 are available to outstanding JC1 and JC2 students who excel in their academics
 and co-curricular activities, as well as those who demonstrate strong leadership
 qualities.</p>
+<p></p>
 <p>The current bursaries and financial assistance schemes include:
 <br>1. The Straits Times School Pocket Money Fund
 <br>2. Daisy Phay Foundation Shine Scholarship
