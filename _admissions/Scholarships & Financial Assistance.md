@@ -41,7 +41,7 @@ of application does not exceed <strong>$1,000</strong> per month.
 <br>5.&nbsp;&nbsp;&nbsp; The student’s current school must be notified of
 any changes to any of the criteria in paragraphs 1 to 3 in writing.
 <br>
-<br><strong>Benefits:</strong> 
+<br><strong>Benefits:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,37 +60,34 @@ any changes to any of the criteria in paragraphs 1 to 3 in writing.
 <img style="width:25%" height="auto" width="100%" src="/images/fasqr.png">
 </div>
 <p>
-<br>
+<br><strong>Note:</strong>
+<br>1. This application form is meant for Singaporean students studying in
+Government or Government-Aided Primary School, Secondary School, Junior
+College or Centralised Institute.</p>
+<p>2. If you have children studying in different Government or Government-aided
+schools, you need to submit only 1 application form to the school of any
+child.</p>
+<p>3. If your family and child is/children are existing beneficiary/beneficiaries
+of MSF ComCare, your child/children will be auto-granted MOE FAS. You do
+not need to apply for MOE FAS separately.</p>
+<p>4. If your application is approved before the end of the month, your child
+will be placed on the MOE FAS in the following month till December of the
+year or when your child is no longer eligible for financial assistance,
+whichever is earlier. There will be no reimbursement or retrospective subsidies
+provided. Fresh applications will have to be submitted for each school
+year.</p>
+<p>5. To ensure a smooth application process, you must have an active GIRO
+account registered with the school. eGIRO application <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
-<p>Submit Hardcopy Application Form if student is in :
-<br>a. families with other dependents (Great grandparents, Aunties/Uncles,
-Cousins and others)
-<br>b. family with more than 5 children in GGAS
-<br>c. family with more than 4 unmarried children not in GGAS
-<br>d. family with more than 3 grandparents in the household</p>
-<p>The application form can also be obtained at the school's General Office.</p>
-<h5><strong>Note:</strong></h5>
-<p>1. Parent only need to submit one application form for all your school-going
-children to one of their schools. The school which receives the application
-form will inform you of the outcome for all the children.</p>
-<p>2. You do not need to submit the application form for MOE FAS if your
-family/child is a ComCare recipient. The MOE FAS will be auto-granted to
-ComCare beneficiaries.&nbsp;</p>
-<p>3. MOE FAS grant is up to December each year. Parent will need to apply
-again if they wish to continue to receive the FAS benefits in the next
-academic year as household income and family profile may change from year
-to year.</p>
-<p>4. To ensure a smooth application process, you must have an active GIRO
-account registered with the school. Otherwise, you may approach General
-Office for new GIRO account application or changes in GIRO accounts.</p>
-<p>5. Please prepare all softcopy supporting documents in advance. An incomplete
+<p>6. Please prepare all softcopy supporting documents in advance. An incomplete
 application form and/or the absence of required or relevant information
 and documents will result in delay in the processing of application OR
-application being rejected.</p>
-<p>6. School reserves the rights to request for any other documents as and
+application being rejected.
+<br>
+<br>7. School reserves the rights to request for any other documents as and
 when required for the purpose of verifying the income and other status.</p>
-<p>7. Parents who want to know more about MOE FAS and the eligibility calculator
-can visit MOE website at&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<p>8. Parents who want to know more about MOE FAS and the eligibility calculator
+can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <h4><strong>A) Scholarships and Bursaries</strong></h4>
 <p>Scholarships and bursaries from the College, MOE and other external organisations
