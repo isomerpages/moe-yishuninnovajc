@@ -101,7 +101,6 @@ will have their MOE FAS application used to assess eligibility for the <strong>S
 <h4><strong>C) Scholarships and Bursaries</strong></h4>
 <p>Scholarships and bursaries from the College, MOE and other external organisations
 are available to JC1 and JC2 students who meet the criteria.</p>
-<p>&nbsp;</p>
 <p>The current scholarships and bursaries include:</p>
 <p>1.&nbsp;&nbsp;&nbsp; The Straits Times School Pocket Money Fund</p>
 <p>2.&nbsp;&nbsp;&nbsp; CDAC Post-Secondary Bursary</p>
