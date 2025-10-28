@@ -93,18 +93,19 @@ will have their MOE FAS application used to assess eligibility for the <strong>S
 <h4><strong>C) Scholarships and Bursaries</strong></h4>
 <p>Scholarships and bursaries from the College, MOE and other external organisations
 are available to JC1 and JC2 students who meet the criteria.</p>
-<p>The current scholarships and bursaries include:</p>
-<p>1.&nbsp;&nbsp;&nbsp; The Straits Times School Pocket Money Fund</p>
-<p>2.&nbsp;&nbsp;&nbsp; CDAC Post-Secondary Bursary</p>
-<p>3.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - Shine Scholarship</p>
-<p>4.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - MOE Award</p>
-<p>5.&nbsp;&nbsp;&nbsp; Singapore Buddhist Lodge Education Foundation Bursary
-Award</p>
-<p>6.&nbsp;&nbsp;&nbsp; Singapore Association of Women Lawyers (SAWL) Scholarship
+<p>The current scholarships and bursaries include:
+<br>1.&nbsp;&nbsp;&nbsp; The Straits Times School Pocket Money Fund
+<br>2.&nbsp;&nbsp;&nbsp; CDAC Post-Secondary Bursary
+<br>3.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - Shine Scholarship
+<br>4.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - MOE Award
+<br>5.&nbsp;&nbsp;&nbsp; Singapore Buddhist Lodge Education Foundation Bursary
+Award
+<br>6.&nbsp;&nbsp;&nbsp; Singapore Association of Women Lawyers (SAWL) Scholarship
 Fund&nbsp;</p>
 <p>Financial assistance in the form of scholarships and bursaries from external
 organisations is available from time to time. The college will inform parents
 and students through Parents Gateway and Admin Portal.</p>
 <p>If you have further queries, please contact the school at Tel: 62579873
-or you can email us at yijc@moe.edu.sg</p>
+or you can email us at <a href="yijc@moe.edu.sg" rel="noopener nofollow" target="_blank">yijc@moe.edu.sg</a>
+</p>
 <p></p>
