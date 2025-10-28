@@ -115,5 +115,5 @@ Fund&nbsp;</p>
 organisations is available from time to time. The college will inform parents
 and students through Parents Gateway and Admin Portal.</p>
 <p>If you have further queries, please contact the school at Tel: 62579873
-or you can email us at</p>
+or you can email us at yijc@moe.edu.sg</p>
 <p></p>
