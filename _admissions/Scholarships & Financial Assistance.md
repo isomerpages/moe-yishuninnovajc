@@ -90,14 +90,6 @@ can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/finan
 <p>Students who are not eligible for MOE FAS but require financial assistance
 will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
 <p>Applicants will be informed of the outcome by the school.</p>
-<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
-<p>Students who are not eligible for MOE FAS but require financial assistance
-will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
-<p>Applicants will be informed of the outcome by the school.</p>
-<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
-<p>Students who are not eligible for MOE FAS but require financial assistance
-will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
-<p>Applicants will be informed of the outcome by the school.</p>
 <h4><strong>C) Scholarships and Bursaries</strong></h4>
 <p>Scholarships and bursaries from the College, MOE and other external organisations
 are available to JC1 and JC2 students who meet the criteria.</p>
