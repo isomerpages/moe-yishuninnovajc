@@ -90,21 +90,30 @@ can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/finan
 <p>Students who are not eligible for MOE FAS but require financial assistance
 will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
 <p>Applicants will be informed of the outcome by the school.</p>
-<p>
-<br>
-<br>Scholarships and bursaries from the College, MOE and other external organisations
-are available to outstanding JC1 and JC2 students who excel in their academics
-and co-curricular activities, as well as those who demonstrate strong leadership
-qualities.</p>
-<p></p>
-<p>The current bursaries and financial assistance schemes include:
-<br>1. The Straits Times School Pocket Money Fund
-<br>2. Daisy Phay Foundation Shine Scholarship
-<br>3. Singapore Buddhist Lodge Education Foundation Bursary Award
-<br>4. SAWL Scholarship Fund</p>
-<p>Financial assistance in the form of bursary from external organisations
-are available from time to time. The college will inform students of other
-available bursaries and financial assistance through Admin Portal.</p>
+<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
+<p>Students who are not eligible for MOE FAS but require financial assistance
+will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
+<p>Applicants will be informed of the outcome by the school.</p>
+<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
+<p>Students who are not eligible for MOE FAS but require financial assistance
+will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
+<p>Applicants will be informed of the outcome by the school.</p>
+<h4><strong>C) Scholarships and Bursaries</strong></h4>
+<p>Scholarships and bursaries from the College, MOE and other external organisations
+are available to JC1 and JC2 students who meet the criteria.</p>
+<p>&nbsp;</p>
+<p>The current scholarships and bursaries include:</p>
+<p>1.&nbsp;&nbsp;&nbsp; The Straits Times School Pocket Money Fund</p>
+<p>2.&nbsp;&nbsp;&nbsp; CDAC Post-Secondary Bursary</p>
+<p>3.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - Shine Scholarship</p>
+<p>4.&nbsp;&nbsp;&nbsp; Daisy Phay Foundation - MOE Award</p>
+<p>5.&nbsp;&nbsp;&nbsp; Singapore Buddhist Lodge Education Foundation Bursary
+Award</p>
+<p>6.&nbsp;&nbsp;&nbsp; Singapore Association of Women Lawyers (SAWL) Scholarship
+Fund&nbsp;</p>
+<p>Financial assistance in the form of scholarships and bursaries from external
+organisations is available from time to time. The college will inform parents
+and students through Parents Gateway and Admin Portal.</p>
 <p>If you have further queries, please contact the school at Tel: 62579873
-or you can email us at&nbsp;<a href="mailto:yijc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
-</p>
+or you can email us at</p>
+<p></p>
