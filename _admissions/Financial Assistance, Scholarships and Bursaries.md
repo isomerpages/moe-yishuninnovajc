@@ -1,6 +1,6 @@
 ---
-title: Scholarships & Financial Assistance
-permalink: /admissions/scholarships-and-financial-assistance/
+title: Financial Assistance, Scholarships and Bursaries
+permalink: /admissions/financial-assistance-scholarships-bursaries/
 description: ""
 variant: tiptap
 ---
@@ -86,14 +86,6 @@ when required for the purpose of verifying the income and other status.</p>
 <p>8. Parents who want to know more about MOE FAS and the eligibility calculator
 can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
-<p>Students who are not eligible for MOE FAS but require financial assistance
-will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
-<p>Applicants will be informed of the outcome by the school.</p>
-<h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
-<p>Students who are not eligible for MOE FAS but require financial assistance
-will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
-<p>Applicants will be informed of the outcome by the school.</p>
 <h4><strong>B) School-Based Financial Assistance Scheme (SBFAS)</strong></h4>
 <p>Students who are not eligible for MOE FAS but require financial assistance
 will have their MOE FAS application used to assess eligibility for the <strong>School-Based Financial Assistance Scheme (SBFAS)</strong>.</p>
