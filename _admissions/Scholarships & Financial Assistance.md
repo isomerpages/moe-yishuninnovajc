@@ -34,33 +34,21 @@ criteria:
 <br>a.&nbsp;&nbsp;&nbsp; Gross household income (GHI) as at the time of application
 does not exceed <strong>$4,000</strong> per month; or
 <br>b.&nbsp;&nbsp;&nbsp; Household per capita income (PCI) as at the time
-of application does not exceed <strong>$1,000</strong> per month.</p>
-<p><strong>PCI = Monthly GHI / No. of members in the same household.</strong>
+of application does not exceed <strong>$1,000</strong> per month.
+<br>
+<br><strong>PCI = Monthly GHI / No. of members in the same household.</strong>
 <br>
 <br>5.&nbsp;&nbsp;&nbsp; The student’s current school must be notified of
 any changes to any of the criteria in paragraphs 1 to 3 in writing.
 <br>
-<br>
-</p>
-<p>Student must be a Singapore citizen enrolled in a Government or Government-aided
-school and meets either one of the following criteria:
-<br>a. Gross household income (GHI) as at the time of application does not
-exceed $3,000 per month, OR
-<br>b. Household per capita income* (PCI) as at the time of application does
-not exceed $750 per month.</p>
-<p><strong>* PCI = Monthly GHI / No. of members in the same household</strong>
-</p>
-<p><strong>Benefits:</strong>
+<br><strong>Benefits:</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>100% subsidy of school and standard miscellaneous fees</p>
+<p>100% subsidy of school and miscellaneous fees</p>
 </li>
 <li>
-<p>Transport Subsidy ($17 transport subsidy per month, up to $204 per annum)</p>
-</li>
-<li>
-<p>$1200 Bursary per annum</p>
+<p>$1,600 per annum (inclusive of public transport subsidy)</p>
 </li>
 </ul>
 <p><strong>How To Apply:</strong>
