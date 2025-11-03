@@ -358,7 +358,7 @@ Mr Wong Yih Chong
 <p>
 	<b><font color="003dA5">Admin Managers</font></b><br>
 Mrs Lee See Nee<br>
-Ms Soh Sze Min
+Ms Soh Tze Min
 <br><br>
 <b><font color="003dA5">Operations Manager</font></b><br>
 Mr Lee Boon Yong<br>
