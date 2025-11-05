@@ -1,4 +1,5 @@
 collections:
   open-house-2026:
     output: true
-    order: []
+    order:
+      - oh2026yijc.md
