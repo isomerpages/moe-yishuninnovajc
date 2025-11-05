@@ -19,9 +19,6 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-  - announcements:
-      title: Announcements
-      id: announcements
   - infopic:
       title: OPEN HOUSE 2026
       subtitle: YISHUN INNOVA JC
