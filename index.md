@@ -19,9 +19,16 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-  - announcements:
-      title: Announcement
-      id: announcements
+        - title: Open House 2026
+          description: Weekday after O levels results
+          url: https://yijc.edu.sg/oh2026yijc/
+  - infopic:
+      title: OPEN HOUSE 2026
+      subtitle: YISHUN INNOVA JC
+      id: infopic
+      description: We look forward to seeing you. More details to come soon!
+      image: /images/YIJC_MOTD_Banner_2026_Sample_01.png
+      alt: Image alt text
   - infopic:
       title: Orientation 2025
       subtitle: Welcome to yijc
