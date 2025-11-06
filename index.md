@@ -26,19 +26,9 @@ sections:
       title: OPEN HOUSE 2026
       subtitle: YISHUN INNOVA JC
       id: infopic
-      description: We look forward to seeing you. More details to come soon!
+      description: We look forward to seeing you. More details will be shared soon!
       image: /images/YIJC_MOTD_Banner_2026_Sample_01.png
       alt: Image alt text
-  - infopic:
-      title: Orientation 2025
-      subtitle: Welcome to yijc
-      id: infopic
-      button: Click here for more info!
-      image: /images/2024 Orientation/2025_yijc_orientation_banner.jpg
-      alt: Image alt text
-      description: Hello new YIJCians! We hope you are excited for Orientation and we
-        look forward to welcoming you soon.
-      url: https://www.yijc.moe.edu.sg/2025-orientation/students/
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
