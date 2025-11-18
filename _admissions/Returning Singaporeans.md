@@ -84,4 +84,5 @@ you may email the College at <a href="mailto:yijc@moe.edu.sg" rel="noopener nore
 </p>
 <h4><strong>Further Information</strong></h4>
 <p>Please visit the relevant Ministry of Education website for other information
-for&nbsp;<a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers" rel="noopener noreferrer nofollow" target="_blank">Returning Student admission</a>.</p>
+for <a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers" rel="noopener nofollow" target="_blank">Returning Student admission.</a>
+</p>
