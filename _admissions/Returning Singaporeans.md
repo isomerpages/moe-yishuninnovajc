@@ -47,8 +47,9 @@ a single zipped file)</p>
 <p>1. Applicants may be further assessed by the college if applicants do
 not have the assumed knowledge of the subjects they wish to offer (e.g.
 H2 Mathematics and H2 Sciences).&nbsp;</p>
-<p>Entrance tests for applicants are set for the relevant subjects:</p>
-<ul data-tight="true" class="tight">
+<p><u>Entrance tests for applicants are set for the relevant subjects:</u>
+</p>
+<ul>
 <li>
 <p>H2 Mathematics</p>
 </li>
@@ -62,26 +63,24 @@ H2 Mathematics and H2 Sciences).&nbsp;</p>
 <p>H2 Biology</p>
 </li>
 </ul>
-<p>Selection Test (During Orientation)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>H2 Art</p>
-</li>
+<p><u>Selection Test (During Orientation)</u>
+</p>
+<ul>
 <li>
 <p>H2 Computing</p>
 </li>
 </ul>
 <p>2. The schedule of the Entrance tests will be made known to shortlisted
-applicants. Entrance test dates are currently scheduled on&nbsp;<strong>22 Jan &amp; 23 Jan 2025</strong>.
-Candidates are strongly encouraged to prepare well. Each applicant is only
-allowed to take the Entrance tests once.</p>
+applicants. Entrance test dates are currently scheduled on <strong>19 Jan &amp; 20 Jan 2026.</strong> Candidates
+are strongly encouraged to prepare well. Each applicant is only allowed
+to take the Entrance tests once.</p>
 <p>Applicants are expected to demonstrate the knowledge and skills equivalent
 to a student who has done well for the Singapore-Cambridge GCE ‘O’ Level
 examination.</p>
 <h4><strong>Any decision taken by the college is final</strong></h4>
-<p>For general enquiries or enquiries specific to the Diagnostic Tests, please
+<p>For general enquiries or enquiries specific to the Entrance Tests, please
 contact the Admission Executive, Ms Wendy Choh at Tel: 6257 9873. Alternatively,
-you may email the College at&nbsp;<a href="mailto:yijc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
+you may email the College at <a href="mailto:yijc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
 </p>
 <h4><strong>Further Information</strong></h4>
 <p>Please visit the relevant Ministry of Education website for other information
