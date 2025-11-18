@@ -22,11 +22,11 @@ from living and studying overseas.
 <br>4. Applicant does not have a place in a local school.
 <br>5. Applicant has taken SPERS-JC/MI in 2025.</p>
 <h4><strong>Application Procedure</strong></h4>
-<p>1. Complete the&nbsp;<a href="https://go.gov.sg/yijc-rs" rel="noopener noreferrer nofollow" target="_blank">online application form here</a>.</p>
+<p>1. Complete the <a href="https://go.gov.sg/yijc-rs" rel="noopener noreferrer nofollow" target="_blank"><u>online application form here</u></a>.</p>
 <p>2. Soft copies of the following documents should be submitted together
 with the application form: (Supporting documents are to be submitted in
 a single zipped file)</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>educational qualifications and schooling history</p>
 </li>
@@ -40,7 +40,9 @@ a single zipped file)</p>
 <p>any other relevant documents&nbsp;</p>
 </li>
 </ul>
-<p>3. Applicants are advised to send in their application by&nbsp;<strong>10 January 2025</strong>.</p>
+<p>3. Applicants are advised to send in their application by <strong>8 January 2026.</strong>
+</p>
+<p></p>
 <h4><strong>Selection Process</strong></h4>
 <p>1. Applicants may be further assessed by the college if applicants do
 not have the assumed knowledge of the subjects they wish to offer (e.g.
