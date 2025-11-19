@@ -56,8 +56,10 @@ at <a href="https://go.gov.sg/yijc-is" rel="noopener noreferrer nofollow" target
 be considered.</p>
 <h4><strong>Selection Process</strong></h4>
 <p>1. Shortlisted candidates will be scheduled to sit for entrance tests
-and an interview. Entrance tests are set for the relevant subjects:</p>
-<ul data-tight="true" class="tight">
+and an interview.</p>
+<p><u>Entrance tests are set for the relevant subjects:</u>
+</p>
+<ul>
 <li>
 <p>English Language (compulsory)</p>
 </li>
@@ -74,33 +76,30 @@ and an interview. Entrance tests are set for the relevant subjects:</p>
 <p>Biology</p>
 </li>
 </ul>
-<p>Selection Test (During Orientation)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>H2 Art</p>
-</li>
+<p><u>Selection Test (During Orientation)</u>
+</p>
+<ul>
 <li>
 <p>H2 Computing</p>
 </li>
 </ul>
 <p>2. The schedule of the entrance tests will be made known to shortlisted
-applicants. Shortlisted applicants will be informed by 20 Jan 2025. Entrance
-test dates are currently scheduled on 22 Jan &amp; 23 Jan 2025. Candidates
+applicants. Shortlisted applicants will be informed by <strong>16 Jan 2026</strong>.
+Entrance test dates are currently scheduled on <strong>19 Jan &amp; 20 Jan 2026.</strong> Candidates
 are strongly encouraged to prepare well. Each applicant is only allowed
 to take the entrance tests once.</p>
 <p>The standard International Student Entrance Test Fee Rate (inclusive of
-GST) for one subject is&nbsp;<strong>S$44</strong>&nbsp;and&nbsp;<strong>S$22</strong>&nbsp;for
-every additional subject.</p>
+GST) for one subject is S$44 and S$22 for every additional subject.</p>
 <p>Applicants are expected to demonstrate the knowledge and skills equivalent
 to a student who has done well for the Singapore-Cambridge GCE O-Level
 Examination. Admission is subject to students meeting the College’s admission
 criteria and available vacancies.</p>
-<h4><strong>Any decision taken by the College is final</strong></h4>
-<p>For general enquiries or enquiries specific to the Diagnostic Tests, please
+<h4><strong>Any decision taken by the College is final.</strong></h4>
+<p>For general enquiries or enquiries specific to the Entrance Tests, please
 contact the Admission Executive, Ms Wendy Choh at Tel: 6257 9873. Alternatively,
-you may email the College at&nbsp;<a href="mailto:yijc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
+you may email the College at <a href="https://www.moe.gov.sg/international-students/studying-in-singapore" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
 </p>
 <h4><strong>Further Information</strong></h4>
 <p>Please visit the Ministry of Education website for other related information
-for&nbsp;<a href="https://www.moe.gov.sg/international-students/studying-in-singapore" rel="noopener noreferrer nofollow" target="_blank">International Student admission</a>
+for <a href="https://www.moe.gov.sg/international-students/studying-in-singapore" rel="noopener noreferrer nofollow" target="_blank"><u>International Student admission.</u></a>
 </p>
