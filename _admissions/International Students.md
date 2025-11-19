@@ -25,14 +25,14 @@ application pre-requisites and take the college-based entrance test(s)
 to ascertain their eligibility for admission and to choose specific subject
 combinations.</p>
 <h4><strong>Application Pre-requisites</strong></h4>
-<p>1. Applicant is 16 to 18+ years old as of 1 January 2025.
+<p>1. Applicant is 16 to 18+ years old as of 1 January 2026.
 <br>2. Applicant has passed the J-PACT test.
-<br>3. Applicant has attained good academic results from 2024 examination
-results in the previous school</p>
+<br>3. Applicant has attained good academic results from 2025 examination
+results in the previous school.</p>
 <h4><strong>Application Procedure</strong></h4>
-<p>1. Complete the&nbsp;<a href="https://go.gov.sg/yijc-is" rel="noopener noreferrer nofollow" target="_blank">application form here</a>.
-<br>2. Prepare to attach softcopies of the following;</p>
-<ul data-tight="true" class="tight">
+<p>1. Complete the <a href="https://go.gov.sg/yijc-is" rel="noopener noreferrer nofollow" target="_blank"><u>application form here</u></a>.
+<br>2. Prepare to attach soft copies of the following;</p>
+<ul>
 <li>
 <p>educational qualifications and schooling history</p>
 </li>
@@ -46,14 +46,12 @@ results in the previous school</p>
 <p>J-PACT Result</p>
 </li>
 <li>
-<p>any other relevant documents
-<br>
-</p>
+<p>any other relevant documents</p>
 </li>
 </ul>
 <p>3. Email relevant documents to YIJC Admission Executive, Ms Wendy Choh
-at&nbsp;<a href="mailto:yijc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
-<br>4. Application deadline:&nbsp;<strong>10 January 2025</strong>
+at <a href="https://go.gov.sg/yijc-is" rel="noopener noreferrer nofollow" target="_blank">yijc@moe.edu.sg</a>
+<br>4. Application deadline: <strong>8 January 2026</strong>
 <br>5. Incomplete or applications received after the closing date will not
 be considered.</p>
 <h4><strong>Selection Process</strong></h4>
