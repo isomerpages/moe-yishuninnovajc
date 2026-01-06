@@ -1,5 +1,5 @@
 collections:
-  open-house:
+  open-house-2026:
     output: true
     order:
       - Open House 2026.md
