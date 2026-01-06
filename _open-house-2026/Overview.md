@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /open-house-2025/overview/
+permalink: /open-house-2026/overview/
 variant: tiptap
 description: ""
 ---
@@ -13,7 +13,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prospectus 2026</div>
+<div class="isomer-card-title">Prospectus 2025</div>
 <div class="isomer-card-description">Explore the prospectus for a comprehensive guide to our curriculum, subject
 combinations, and other key college programmes and initiatives.</div>
 <div class="isomer-card-link">Click here</div>

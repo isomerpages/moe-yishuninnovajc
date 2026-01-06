@@ -1,8 +1,0 @@
-collections:
-  open-house-2025:
-    output: true
-    order:
-      - Overview.md
-      - Programme/.keep
-      - Programme/What's Happening.md
-      - Programme/OH Brochure.md

@@ -21,7 +21,7 @@ sections:
           url: https://www.instagram.com/yishuninnovajc
         - title: Open House 2026
           description: Weekday after O levels results
-          url: http://www.yijc.moe.edu.sg/oh2026yijc/
+          url: http://www.yijc.moe.edu.sg/open-house-2026/overview/
   - infopic:
       title: OPEN HOUSE 2026
       subtitle: YISHUN INNOVA JC

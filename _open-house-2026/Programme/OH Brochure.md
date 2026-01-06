@@ -1,6 +1,6 @@
 ---
 title: OH Brochure
-permalink: /open-house-2025/ohbrochure/
+permalink: /open-house-2026/ohbrochure/
 variant: tiptap
 description: ""
 third_nav_title: Programme
