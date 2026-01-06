@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: We look forward to seeing you. More details will be shared soon
         here and on our Instagram page!
-      image: /images/YIJC_MOTD_Banner_2026_FA_02.png
+      image: /images/2026 Open House/YIJC_MOTD_Banner_2026_FA_02.png
       alt: Image alt text
   - infobar:
       title: Yishun Innova Junior College
