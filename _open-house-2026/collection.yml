@@ -2,5 +2,4 @@ collections:
   open-house-2026:
     output: true
     order:
-      - Overview.md
       - Open House 2026.md
