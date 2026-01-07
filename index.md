@@ -30,6 +30,8 @@ sections:
         here and on our Instagram page!
       image: /images/2026 Open House/YIJC_MOTD_Banner_2026_FA_02.png
       alt: Image alt text
+      url: https://www.yijc.moe.edu.sg/open-house-2026/overview/
+      button: CLICK HERE
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
