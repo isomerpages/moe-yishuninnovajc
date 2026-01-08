@@ -134,14 +134,15 @@ Mr Anbu Ganesh s/o Kanapathy
 Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
+Mr Acer Ng Yu Xuan<br>
 Ms Charis Lee Xin-Ning<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
-Ms Kaitlyn Trisha Joseph<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
 Mr Mohamed Firdaus Bin Al-Amin<br>
+Ms Ng Xuan Min, Samantha<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
 </div>
