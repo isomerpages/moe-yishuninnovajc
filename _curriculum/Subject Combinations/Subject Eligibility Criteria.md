@@ -11,8 +11,6 @@ variant: tiptap
 </p>
 <p>Note: Passing the selection tests are set requirements that students must
 fulfil in order to offer the subject at the A-Level.</p>
-<p>Note: Passing the selection tests are set requirements that students must
-fulfil in order to offer the subject at the A-Level.</p>
 <h4><strong>Subjects with assumed knowledge</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_eligibility_assumed_knowledge.png">
