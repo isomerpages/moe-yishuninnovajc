@@ -175,7 +175,6 @@ Ms Liew Feng Chuan Karen
 Mr Goh Han-Ming Jasper
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Jeyseelan S/O Kalimuthu<br>
 Mr Loke Zhi Ming Christopher<br>
 
 </p>
