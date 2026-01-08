@@ -344,7 +344,7 @@ Mdm Wong Huiping Valerie<br>
 Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
-	<b><font color="003dA5">Subject Head/Physics and Assistant Year Head</font></b><br>
+	<b><font color="003dA5">Subject Head/Physics</font></b><br>
 Mr Tay Jian Hao Jeremy<br>
 <br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
