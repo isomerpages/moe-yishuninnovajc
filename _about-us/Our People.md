@@ -198,6 +198,9 @@ Mr Tan Wai Yean
 		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
 Mr Low Rui Hao
 <br><br>
+		<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
+Mr Eng Kai Seng
+<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Lee Wen Rong<br>
