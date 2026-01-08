@@ -78,6 +78,9 @@ Ms Chong Jia Wei Serene
 		<b><font color="003dA5">Subject Head/Information &amp; Communication Technology</font></b><br>
 Mr Yeo Rong Yao Jeremy
 <br><br>
+			<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
+Ms Lim Wei Qi Samantha (Lin Weiqi)
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
 Mdm Lim Pow Choo
 <br><br>	
@@ -88,7 +91,6 @@ Mr Foong Chongxiang<br>
 Ms Heng En-Hui Nicole<br>
 Ms Koh Jia Xin<br>
 Mdm Leow Sock Cheng Pearly<br>
-Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
 Mr Tan Jit Ann Joshua<br> 
 Ms Tan Li Yan Joscelyn<br>
@@ -132,14 +134,14 @@ Mr Anbu Ganesh s/o Kanapathy
 Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
-Ms Charis Lee Xin-Ning<br>
+Mr Acer Ng Yu Xuan<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
-Ms Kaitlyn Trisha Joseph<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
 Mr Mohamed Firdaus Bin Al-Amin<br>
+Ms Ng Xuan Min, Samantha<br>
 Ms Veera Gayatri Naidu D/O Rajagopal
 </p>
 </div>
@@ -173,7 +175,6 @@ Ms Liew Feng Chuan Karen
 Mr Goh Han-Ming Jasper
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Jeyseelan S/O Kalimuthu<br>
 Mr Loke Zhi Ming Christopher<br>
 
 </p>
@@ -188,14 +189,19 @@ Mr Loke Zhi Ming Christopher<br>
 	<b><font color="003dA5">HOD/Mathematics</font></b><br>
 Ms Ng Sock Cheng
 <br><br>
+	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+Mr Tan Bang Choon David
+<br><br>
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
 <br><br>
 		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
 Mr Low Rui Hao
 <br><br>
+		<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
+Mr Eng Kai Seng
+<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
@@ -208,7 +214,6 @@ Ms Queenie Chiu
 <b>Computing</b><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Kuang Jingkai<br>
-Mr Tan Bang Choon David<br>
 Mr Wee Soon Ming	
 </p>
 </div>
@@ -230,6 +235,7 @@ Mdm A Mallika<br>
 Mdm Erdiah Binte Samad<br>
 Mdm Li Hua<br>
 Ms Li Yujie<br>
+Mr Marimuthu S/O Aboo Kandasamy<br>
 Mr Mohd Said Bin Saleh<br>
 Mdm Selvey Manickam<br>
 Mr Tay Yong Sng<br>
@@ -243,19 +249,17 @@ Ms Tin Yi Ya
 <label for="accordion7">Physical Education Department</label>
 <div>
 <p>
+		<b><font color="003dA5">HOD/Physical Education and CCA</font></b><br>
+Ms Yeo Swee Ching
+<br><br>
 	<b><font color="003dA5">Subject Head/Physical Education and CCA</font></b><br>
-Ms Yeo Swee Ching<br>
 Mr Sher Zi Ao	<br>
 	<br>
 	<b><font color="003dA5">Senior Teacher/Physical Education</font></b><br>
 Mr Lee Joon Keong
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Mohamed Fauzi Bin Yusof<br>
 Mr Mus Effendi Bin Musa<br>
-Mr Ng Swee Loong Steven<br>
-Mdm Shelia Nagiah<br>
-Mrs Thomas George<br>
 </p>
 </div>
 </li>
@@ -270,14 +274,17 @@ Ms Cara Mok Shuwen
 <br><br>
 	<b><font color="003dA5">Subject Head/Project Work</font></b><br>
 Ms Eunice Lim Shi Min
-<br><br> <b><font color="003dA5">Subject Head/Student Well-being</font></b><br>
-	Ms Nasihah Binte Abdul Majid<br>
+<br><br> <b><font color="003dA5">Assistant Year Head</font></b><br>
+Ms Nasihah Binte Abdul Majid<br>
 
-	
 <br> 
 	<b><font color="003dA5">Teachers</font></b><br>	
+Mr Mohamed Fauzi Bin Yusof<br>
 Mr Loh Wei Jie<br>
+Mr Ng Swee Loong Steven<br>
+Mdm Shelia Nagiah<br>
 Mrs Teo Eng Leong Emily<br>
+Mrs Thomas George<br>
 </p>
 </div>
 </li>
@@ -300,20 +307,23 @@ Mdm Goh Sok Sing
 	<b><font color="003dA5">Subject Head/Biology</font></b><br>
 Ms Lim Hwee Ming Irene
 <br><br>
+	<b><font color="003dA5">Senior Teacher/Biology</font></b><br>
+Mr Tan Kok Ping
+<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
-Mr Tan Kok Ping Lawrence<br>
 Ms Teo Wei Min Stephanie<br>
 <br>
 	<b>Chemistry</b><br>
-	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
+	<b><font color="003dA5">Subject Heads/Chemistry</font></b><br>
+Mr Choo Chong Yu Gerald<br>
 Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
 <br><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies &amp; Chemistry</font></b><br>
-Mr Choo Chong Yu Gerald
+<b><font color="003dA5">Master Teacher/Chemistry</font></b><br>
+Mr Goh Kien Huay
 <br><br>
 	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
 Mdm Lim Chieh Yeng Jane
@@ -334,13 +344,14 @@ Mdm Wong Huiping Valerie<br>
 Mdm Zalinah Bte Sarpiai
 <br><br>
 <b>Physics</b><br>
-	<b><font color="003dA5">Subject Head/Physics and Assistant Year Head</font></b><br>
+	<b><font color="003dA5">Subject Head/Physics</font></b><br>
 Mr Tay Jian Hao Jeremy<br>
 <br>
 	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
 Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
+Mr Kuang Jingkai<br>
 Mr Lim Chee Seng<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
@@ -388,15 +399,15 @@ Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Ms Maizatul Nazura Binte A Rasip<br>
 Miss Nur Afiqah Binte Zulkifli <br> 	
+Mdm S Kalaiselvi (Assistant)<br>
 <br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mr Aszahari Bin Mohamed<br>
 Mdm Chan Puay Mui<br>
 Mr Lee Kah Bian <br> 
-Ms Lee Lee Kuea <br> 
+Ms Lee Lea Kuea <br> 
 Mdm Maryani Binte Mohamed<br>
 Mdm S Jayanti <br> 
-Mdm S Kalaiselvi<br>
 Mr Sta Ana Dante Flores <br> 
 Mdm Tan Cheng Huy<br>
 Mdm Wong Lee Chin <br>
@@ -406,6 +417,7 @@ Mdm Wong Lee Chin <br>
 Ms Tan Chui Hoon, Teresa
 <br><br>
 	<b><font color="003dA5">Desktop Engineers (NCS)</font></b><br>
+Mr Ken Jamal (AV) <br>
 Mr Mohammad Riduan Bin Abdul Rahman<br>
 Mr Selvathiru M Chandran
 <br><br>
