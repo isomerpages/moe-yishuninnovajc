@@ -84,7 +84,7 @@ addition, recommendations by subject tutors on students’ passion and flair
 for the subject at the H2 level will be taken into consideration.</p>
 <p>
 <br><strong>H3 Subjects Offered</strong> 
-<br>Biology, Chemistry, Economics, Game Theory (Singapore Management University),
+<br>Biology, Chemistry, Economics (Game Theory at Singapore Management University),
 Geography, History, Literature in English, Mathematics, Malay Language
 and Literature, Humanities and Social Science Research (National University
 of Singapore-Ministry of Education), Physics</p>
