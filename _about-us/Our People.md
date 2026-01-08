@@ -78,6 +78,9 @@ Ms Chong Jia Wei Serene
 		<b><font color="003dA5">Subject Head/Information &amp; Communication Technology</font></b><br>
 Mr Yeo Rong Yao Jeremy
 <br><br>
+			<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
+Ms Lim Wei Qi Samantha (Lin Weiqi)
+<br><br>
 	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
 Mdm Lim Pow Choo
 <br><br>	
@@ -88,7 +91,6 @@ Mr Foong Chongxiang<br>
 Ms Heng En-Hui Nicole<br>
 Ms Koh Jia Xin<br>
 Mdm Leow Sock Cheng Pearly<br>
-Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
 Mr Tan Jit Ann Joshua<br> 
 Ms Tan Li Yan Joscelyn<br>
