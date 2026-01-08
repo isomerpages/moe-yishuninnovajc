@@ -307,9 +307,11 @@ Mdm Goh Sok Sing
 	<b><font color="003dA5">Subject Head/Biology</font></b><br>
 Ms Lim Hwee Ming Irene
 <br><br>
+	<b><font color="003dA5">Senior Teacher/Biology</font></b><br>
+Mr Tan Kok Ping
+<br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
-Mr Tan Kok Ping Lawrence<br>
 Ms Teo Wei Min Stephanie<br>
 <br>
 	<b>Chemistry</b><br>
