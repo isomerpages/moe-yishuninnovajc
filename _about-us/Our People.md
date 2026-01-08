@@ -313,14 +313,12 @@ Mr Tan Kok Ping Lawrence<br>
 Ms Teo Wei Min Stephanie<br>
 <br>
 	<b>Chemistry</b><br>
-	<b><font color="003dA5">Subject Head/Chemistry</font></b><br>
+	<b><font color="003dA5">Subject Heads/Chemistry</font></b><br>
+Mr Choo Chong Yu Gerald<br>
 Mdm You Kailun
 <br><br>
 	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
 Mr Tham Hanrong
-<br><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies &amp; Chemistry</font></b><br>
-Mr Choo Chong Yu Gerald
 <br><br>
 <b><font color="003dA5">Master Teacher/Chemistry</font></b><br>
 Mr Goh Kien Huay
