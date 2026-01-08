@@ -189,6 +189,9 @@ Mr Loke Zhi Ming Christopher<br>
 	<b><font color="003dA5">HOD/Mathematics</font></b><br>
 Ms Ng Sock Cheng
 <br><br>
+	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
+Mr Tan Bang Choon David
+<br><br>
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
 <br><br>
@@ -208,7 +211,6 @@ Ms Queenie Chiu
 <b>Computing</b><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Kuang Jingkai<br>
-Mr Tan Bang Choon David<br>
 Mr Wee Soon Ming	
 </p>
 </div>
