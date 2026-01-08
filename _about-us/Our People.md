@@ -351,6 +351,7 @@ Mr Tay Jian Hao Jeremy<br>
 Mr Ong Chee Wah
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
+Mr Kuang Jingkai<br>
 Mr Lim Chee Seng<br>
 Mr Ng Soo Kok<br>
 Mr Wong Yih Chong
