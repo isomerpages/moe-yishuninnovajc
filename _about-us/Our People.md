@@ -87,14 +87,11 @@ Ms Cheng Siew Peng Jasmine<br>
 Mr Foong Chongxiang<br>
 Ms Heng En-Hui Nicole<br>
 Ms Koh Jia Xin<br>
-Ms Law Winnie<br>
+Mdm Leow Sock Cheng Pearly<br>
 Ms Lim Wei Qi Samantha<br>
 Mr Neo Zhixian Ben<br>
-Ms Ooi Wei Wen Valencia<br>
-Ms Sai Shnyenn <br>
+Mr Tan Jit Ann Joshua<br> 
 Ms Tan Li Yan Joscelyn<br>
-Ms Tay Shunwei Felicia<br>
-Mr Tay Weoi Zhen<br>
 
 </p>
 </div>

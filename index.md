@@ -26,10 +26,12 @@ sections:
       title: OPEN HOUSE 2026
       subtitle: YISHUN INNOVA JC
       id: infopic
-      description: We look forward to seeing you. More details will be shared soon
-        here and on our Instagram page!
+      description: "We look forward to seeing you on 15 January! For more information
+        on the day's programme, please click the link below:"
       image: /images/2026 Open House/YIJC_MOTD_Banner_2026_FA_02.png
       alt: Image alt text
+      url: https://www.yijc.moe.edu.sg/open-house-2026/overview/
+      button: CLICK HERE
   - infobar:
       title: Yishun Innova Junior College
       subtitle: Rise up to every challenge at
