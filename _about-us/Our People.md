@@ -322,6 +322,9 @@ Mr Tham Hanrong
 	<b><font color="003dA5">Subject Head/Digital Literacies &amp; Chemistry</font></b><br>
 Mr Choo Chong Yu Gerald
 <br><br>
+<b><font color="003dA5">Master Teacher/Chemistry</font></b><br>
+Mr Goh Kien Huay
+<br><br>
 	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
 Mdm Lim Chieh Yeng Jane
 <br><br>
