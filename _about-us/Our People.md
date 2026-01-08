@@ -196,7 +196,6 @@ Mr Tan Wai Yean
 Mr Low Rui Hao
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Foo Seck Shin<br>
 Mr Jaymond Tan Jia Wen<br>
 Mr Lee Wen Rong<br>
 Mr Lim Chee Mun<br>
