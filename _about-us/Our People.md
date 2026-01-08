@@ -259,11 +259,7 @@ Mr Sher Zi Ao	<br>
 Mr Lee Joon Keong
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
-Mr Mohamed Fauzi Bin Yusof<br>
 Mr Mus Effendi Bin Musa<br>
-Mr Ng Swee Loong Steven<br>
-Mdm Shelia Nagiah<br>
-Mrs Thomas George<br>
 </p>
 </div>
 </li>
