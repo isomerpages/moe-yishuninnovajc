@@ -135,7 +135,6 @@ Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
 Mr Acer Ng Yu Xuan<br>
-Ms Charis Lee Xin-Ning<br>
 Mr David Premsharan<br>
 Mr Goh Khiam Li, Edward<br>
 Mr Li Qingyi<br>
