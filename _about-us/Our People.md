@@ -399,15 +399,15 @@ Mdm Hoe Hai Yoong<br>
 Mr Koh Pang How Patrick<br>
 Ms Maizatul Nazura Binte A Rasip<br>
 Miss Nur Afiqah Binte Zulkifli <br> 	
+Mdm S Kalaiselvi (Assistant)<br>
 <br>
 	<b><font color="003dA5">OSO</font></b><br>
 Mr Aszahari Bin Mohamed<br>
 Mdm Chan Puay Mui<br>
 Mr Lee Kah Bian <br> 
-Ms Lee Lee Kuea <br> 
+Ms Lee Lea Kuea <br> 
 Mdm Maryani Binte Mohamed<br>
 Mdm S Jayanti <br> 
-Mdm S Kalaiselvi<br>
 Mr Sta Ana Dante Flores <br> 
 Mdm Tan Cheng Huy<br>
 Mdm Wong Lee Chin <br>
