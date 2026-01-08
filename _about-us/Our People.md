@@ -275,13 +275,15 @@ Ms Cara Mok Shuwen
 	<b><font color="003dA5">Subject Head/Project Work</font></b><br>
 Ms Eunice Lim Shi Min
 <br><br> <b><font color="003dA5">Subject Head/Student Well-being</font></b><br>
-	Ms Nasihah Binte Abdul Majid<br>
+Ms Nasihah Binte Abdul Majid<br>
 
-	
 <br> 
 	<b><font color="003dA5">Teachers</font></b><br>	
+Mr Mohamed Fauzi Bin Yusof<br>
 Mr Loh Wei Jie<br>
+Mr Ng Swee Loong Steven<br>
 Mrs Teo Eng Leong Emily<br>
+Mrs Thomas George<br>
 </p>
 </div>
 </li>
