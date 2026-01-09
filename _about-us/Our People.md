@@ -20,7 +20,7 @@ variant: markdown
 		</td>
 	</tr>
 		<tr>
-    <td style="text-align: center;">Mr Michael de Silva
+    <td style="text-align: center;">Mr Mark Minjoot
 		</td>
 	</tr>
 </tbody></table>
