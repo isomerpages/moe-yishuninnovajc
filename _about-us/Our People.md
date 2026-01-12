@@ -29,7 +29,7 @@ variant: markdown
 	<tbody>
 		<tr>
     <td style="text-align: center;">
-		<img src="/images/School Leaders/VP5.png" style="width:20%">
+		<img src="/images/School Leaders/VP1.jpg" style="width:20%">
 		</td>
 	</tr>
 		<tr>
@@ -38,7 +38,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal3.jpg" style="width:20%">
+		<img src="/images/School Leaders/VP2.jpg" style="width:20%">
 		</td>
  </tr>
  <tr>
@@ -47,7 +47,7 @@ variant: markdown
  </tr>
 	<tr>
     <td style="text-align: center;">
-		<img src="/images/School Leaders/vice principal4.jpg" style="width:20%">
+		<img src="/images/School Leaders/VP3.jpg" style="width:20%">
 		</td>
  </tr>
  <tr>
@@ -78,15 +78,14 @@ Ms Chong Jia Wei Serene
 		<b><font color="003dA5">Subject Head/Information &amp; Communication Technology</font></b><br>
 Mr Yeo Rong Yao Jeremy
 <br><br>
-			<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
-Ms Lim Wei Qi Samantha (Lin Weiqi)
+			<b><font color="003dA5">Subject Head/Economics</font></b><br>
+Ms Cheng Siew Peng Jasmine
 <br><br>
-	<b><font color="003dA5">Senior Teacher/Economics</font></b><br>
-Mdm Lim Pow Choo
+	<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
+Ms Lim Wei Qi Samantha (Lin Weiqi)
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
-Ms Adeline Lee Mei Pin<br>
-Ms Cheng Siew Peng Jasmine<br>
+Mdm Lim Pow Choo<br>
 Mr Foong Chongxiang<br>
 Ms Heng En-Hui Nicole<br>
 Ms Koh Jia Xin<br>
