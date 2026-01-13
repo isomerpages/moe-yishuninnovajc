@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://yijc.moe.edu.sg/open-house-2025/prospectus2025/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prospectus" src="/images/2024 Images/YIJC_PROSPECTUS_2025_cover_page_Page_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prospectus" src="/images/2024 Images/YIJC_Prospectus.png">
 </div>
 </div>
 <div class="isomer-card-body">
