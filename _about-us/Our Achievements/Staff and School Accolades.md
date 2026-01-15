@@ -330,7 +330,7 @@ the fraternity.</p>
 </div>
 <p>Read more here: <a href="https://www.schoolbag.edu.sg/story/painting-a-clearer-picture-of-what-makes-good-art" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.edu.sg</a>
 </p>
-<h4>Academy Award for Professional Development </h4>
+<h4>Academy Award for Professional Development</h4>
 <p>The Academy Award for Professional Development recognises officers who
 have significantly contributed to the professional learning of fellow officers
 beyond their immediate role or school.</p>
@@ -383,7 +383,7 @@ beyond their immediate role or school.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -404,6 +404,14 @@ beyond their immediate role or school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Facilitator of Workshops</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Swee Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovator</p>
 </td>
 </tr>
 </tbody>
@@ -718,7 +726,7 @@ significantly towards the teaching and learning of economics in school.</p>
 </tbody>
 </table>
 <p></p>
-<h4>MOE Service Excellence Awards </h4>
+<h4>MOE Service Excellence Awards</h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
 with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness),
