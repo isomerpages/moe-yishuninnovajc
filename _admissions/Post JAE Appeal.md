@@ -18,7 +18,7 @@ vacancies and the school’s admission criteria.</p>
 the admission criteria for a Junior College. Please refer to the information
 on JC admission criteria (<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener noreferrer nofollow" target="_blank">MOE-admission criteria to institutes</a>)
 for further details.</p>
-<p><strong>You can only submit an appeal* after the release of the JAE posting results. The appeal period starts from 4 Feb 2025 0900hr and ends on 10 Feb 2025 1200hr.</strong>
+<p><strong>You can only submit an appeal* after the release of the JAE posting results. The appeal period starts from 3 Feb 2026 0900hr and ends on 9 Feb 2026 0900hr.</strong>
 </p>
 <p><strong>*Note:</strong>&nbsp;This appeal is not valid for DSA students.
 Please do NOT submit an appeal if you already have a place in another school
@@ -39,7 +39,7 @@ the appeal portal.</p>
 <p>Late submission will not be considered.</p>
 </li>
 <li>
-<p><strong>Only successful applicants will be notified by 10 Feb, 1700hr.</strong>
+<p><strong>Only successful applicants will be notified by 9 Feb, 1700hr.</strong>
 </p>
 </li>
 <li>
