@@ -33,7 +33,7 @@ your absence will allow our teachers to advise you about the process.</p>
 <p></p>
 <p><strong>Qn: What time does my child need to report on the first day? Where should my child report to?</strong>
 </p>
-<p>On <strong>Wed 5 Feb</strong>, please report by <strong>7.45 am</strong> at
+<p>On <strong>Wed 4 Feb</strong>, please report by <strong>8.00 am sharp</strong> at
 the<strong> school hall.</strong> There will be student leaders present
 near the entrances of the college to direct the students to the reporting
 venues.&nbsp;</p>
@@ -45,7 +45,7 @@ programme and important information for the first day of the orientation.</p>
 <p>Students may report in their secondary school uniform/half uniform.
 <br>
 <br>If students do not have their secondary school uniform, they are advised
-to dress in a white plain top with dark-coloured pants/skirt of appropriate
+to dress in a plain white top with dark-coloured pants/skirt of appropriate
 length.</p>
 <p></p>
 <p><strong>Qn: What do they need to bring?</strong>
