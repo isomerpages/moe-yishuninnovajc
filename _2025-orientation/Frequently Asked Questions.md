@@ -56,20 +56,21 @@ bring that along too.</p>
 <p></p>
 <p><strong>Qn: What is the programme for the day?</strong>
 </p>
-<p>You may refer to the tab ‘For Students’ for more details on our orientation
-programme and important information for the first day of the orientation.</p>
+<p>&nbsp;You may refer to the tab ‘For Students’ for more details on our
+orientation programme and important information for the first day of the
+orientation.</p>
 <p>On the first day, the students will be attending various talks, which
 are mostly targeted to help them make a decision about the subject combination
 that they would like to choose. They will also have the opportunity to
 get to know the college better and to get to know their friends better
-through games.</p>
+through games</p>
 <p>Your child will find out more about the programme for the rest of the
-orientation when he/she reports to college.&nbsp;</p>
+orientation when he/she reports to college.</p>
 <p></p>
 <p><strong>Qn: When is the last day of Orientation?</strong>
 </p>
-<p>Orientation will formally end on Tue 11 Feb. Formal lessons will start
-from Wed 12 Feb at 8.00am.</p>
+<p>Orientation will formally end on Tue 10 Feb. Formal lessons will start
+from Wed 11 Feb at 8.00am.</p>
 <p></p>
 <p><strong>Qn: Is Orientation compulsory?</strong>
 </p>
