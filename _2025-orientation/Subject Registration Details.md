@@ -4,7 +4,7 @@ permalink: /2025-orientation/subreg-details/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Subject Registration 2025</strong></h4>
+<h4><strong>Subject Registration 2026</strong></h4>
 <p>Warm greetings from Yishun Innova Junior College!</p>
 <p>We are thrilled to welcome you to YIJC and hope that your journey with
 us will be both enriching and fulfilling. As you embark on this exciting
