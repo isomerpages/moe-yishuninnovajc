@@ -8,8 +8,8 @@ description: ""
 <p>Warm greetings from Yishun Innova Junior College!</p>
 <p>We are thrilled to welcome you to YIJC and hope that your journey with
 us will be both enriching and fulfilling. As you embark on this exciting
-chapter, it is time to consider the subjects that best align with your
-academic interests and aspirations.</p>
+chapter, it is time to critically consider the subjects that best align
+with your academic interests and aspirations.</p>
 <p>To guide you through the subject selection process, the college has organised
 informative talks designed to assist you in making well-informed decisions.
 These talks aim to provide valuable insights into the subject combinations
