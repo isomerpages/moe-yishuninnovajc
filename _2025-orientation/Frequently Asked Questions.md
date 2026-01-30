@@ -80,9 +80,9 @@ from Wed 11 Feb at 8.00am.</p>
 </p>
 <p>The students will receive more information about the purchase of uniforms
 and the price list on the first day of orientation. Students will be allocated
-specific slots to make the purchase <strong>between Thurs 6 Feb to Mon 10 Feb.</strong> Students
+specific slots to make the purchase <strong>between Thurs 5 Feb to Mon 9 Feb.</strong> Students
 who would like to have their uniforms tailored can make their purchases
-on Fri 7 Feb between 12.30pm to 2.45pm&nbsp;&nbsp;</p>
+on Fri 6 Feb between 12.30pm to 2.45pm.</p>
 <p>Payment modes accepted are: Cash and PayNow. If paying by cash, please
 be advised to bring exact change to facilitate payment.</p>
 <p></p>
