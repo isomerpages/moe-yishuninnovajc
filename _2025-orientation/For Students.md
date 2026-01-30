@@ -6,15 +6,15 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/2024 Orientation/2025_yijc_orientation_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Orientation___Kairos.png">
 </div>
-<p>&nbsp;A <strong>warmest welcome</strong> to our new students of Yishun Innova
+<p>A <strong>warmest welcome</strong> to our new students of Yishun Innova
 Junior College! We are excited to welcome you as you start your journey
 with us.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Orientation/orientation_2024.png">
 </div>
-<p>The main Orientation Programme will run from <strong>Wed 5 Feb to Tues 11 Feb 2025:</strong>
+<p>The main Orientation Programme will run from <strong>Wed 4 Feb to Tues 10 Feb 2026:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -37,7 +37,7 @@ with us.</p>
 <p>Wed 5 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m. to 1.30 p.m.</p>
+<p>8.00am to 2.00pm</p>
 </td>
 </tr>
 <tr>
@@ -45,31 +45,31 @@ with us.</p>
 <p>Thurs 6 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m. to 4.15 p.m.</p>
+<p>8.00am to 1.35pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 7 Feb</p>
+<p>Fri 6 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m. to 6.00 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 10 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.45 a.m. to 2.05 p.m.</p>
+<p>8.00am to 6.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tues 11 Feb</p>
+<p>Mon 9 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m. to 7.30 p.m.</p>
+<p>8.00am to 1.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tues 10 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00am to 7.30pm</p>
 </td>
 </tr>
 </tbody>
@@ -88,7 +88,7 @@ with us.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 5 Feb 2025</p>
+<p>Wed 4 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ with us.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m.</p>
+<p>8.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ with us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall (all OGs)</p>
-<p><em>(Please refer to the SMS sent to you for your OG allocation)</em>
+<p><em>(</em><strong><em>Please refer to the SMS sent to you for your OG allocation</em></strong><em>)</em>
 </p>
 </td>
 </tr>
