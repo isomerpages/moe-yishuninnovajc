@@ -26,7 +26,7 @@ reviewing your child’s choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 4 Feb 2026</p>
+<p>Thurs 5 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ ECG counsellor’s presentation on subject combination choices.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
+<p><strong>We will be sending out a registration link via SMS on Wed 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
 <p>
 <br>
 </p>
