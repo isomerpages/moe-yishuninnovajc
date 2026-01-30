@@ -16,10 +16,10 @@ These talks aim to provide valuable insights into the subject combinations
 available and help you choose the most suitable options for your academic
 journey.</p>
 <p>You can access the school portal to register your preferred subject combinations
-starting from <strong>Wed 5 Feb, at 12:00 p.m.</strong> The registration
-period will conclude on <strong>Fri 7 Feb, at 8:30 a.m</strong>. Detailed
+starting from <strong>Wed 4 Feb, at 12:00 p.m.</strong> The registration
+period will conclude on <strong>Fri 6 Feb, at 8:30 a.m</strong>. Detailed
 instructions on how to navigate the portal will be shared with you on Wed,
-5 Feb.</p>
+4 Feb.</p>
 <p>Please refer to the table below for the<strong> essential events and activities</strong> related
 to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <table style="minWidth: 75px">
@@ -45,7 +45,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Wed 5 Feb</strong>
+<p><strong>Wed 4 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Thurs 6 Feb</strong>
+<p><strong>Thurs 5 Feb</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -109,7 +109,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fri 7 Feb</strong>
+<p><strong>Fri 6 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
