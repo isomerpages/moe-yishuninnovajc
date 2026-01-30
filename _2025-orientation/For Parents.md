@@ -26,7 +26,7 @@ reviewing your child’s choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 5 Feb 2025</p>
+<p>Wed 4 Feb 2026</p>
 </td>
 </tr>
 <tr>
@@ -45,12 +45,12 @@ reviewing your child’s choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A virtual session&nbsp;</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>We highly encourage you and your child to attend this virtual session:</strong>
+<p><strong>We highly encourage you and your child to attend this session:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -115,17 +115,14 @@ questions.</p>
 </p>
 <p>Our teachers will be available in the various Online Subject Enquiry Booths
 to answer questions related to subject and subject combination matters.
-Each consultation session will be capped to 5 minutes.</p>
-<p></p>
-<p>More details on how to access these booths will be given on the day of
-the PET after our ECG counsellor’s presentation on subject combination
-choices.</p>
+Each consultation session will be capped to 5 minutes. More details on
+how to access these booths will be given on the day of the PET after our
+ECG counsellor’s presentation on subject combination choices.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk there.</strong>
-</p>
+<p><strong>We will be sending out a registration link via SMS on Tue 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
 <p>
 <br>
 </p>
