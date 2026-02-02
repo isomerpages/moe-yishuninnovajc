@@ -35,8 +35,8 @@ reviewing your child’s choices.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 to 8.00 p.m. (<strong>Optional</strong> Subject Enquiry Session from
-7.00 to 8.00 p.m.)</p>
+<p>6.00 to 8.15 p.m. (<strong>Optional</strong> Subject Enquiry Session from
+7.15 to 8.15 p.m.)</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ reviewing your child’s choices.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.00 to 6.30 p.m.</p>
+<p>6.00 to 6.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Leader’s Talk + Q&amp;A Session</strong>
@@ -81,7 +81,7 @@ and co-curricular journey your child will soon embark on.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.35 to 7.00 p.m.</p>
+<p>6.50 to 7.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Choosing Your Subject Combination</strong>
@@ -94,7 +94,7 @@ to choose subject combinations and the various factors to consider.</p>
 <td rowspan="1" colspan="1">
 <p><strong>[OPTIONAL]</strong>
 </p>
-<p>7.00 to 8.00 p.m.</p>
+<p>7.15 to 8.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Online Subject Enquiry Booths</strong>
@@ -108,7 +108,7 @@ ECG counsellor’s presentation on subject combination choices.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Tues 3 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
+<p><strong>We will be sending out a registration link via SMS on Tuesday, 3 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
 <p>
 <br>
 </p>
