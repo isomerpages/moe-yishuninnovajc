@@ -127,7 +127,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wed 12 Feb</strong>
+<p><strong>Wed 11 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
