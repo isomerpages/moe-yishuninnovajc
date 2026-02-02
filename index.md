@@ -19,18 +19,18 @@ sections:
         - title: Connect with us!
           description: Check out our Instagram
           url: https://www.instagram.com/yishuninnovajc
-        - title: Open House 2026
-          description: Weekday after O levels results
-          url: http://www.yijc.moe.edu.sg/open-house-2026/overview/
+        - title: Orientation 2026
+          description: Click for more info!
+          url: http://www.yijc.moe.edu.sg/2026-orientation/students/
   - infopic:
-      title: OPEN HOUSE 2026
+      title: ORIENTATION 2026
       subtitle: YISHUN INNOVA JC
       id: infopic
-      description: "We look forward to seeing you on 15 January! For more information
-        on the day's programme, please click the link below:"
-      image: /images/2026 Open House/YIJC_MOTD_Banner_2026_FA_02.png
+      description: "Hello JC1s! We look forward to seeing you on 4 February! For more
+        information on the day's programme, please click the link below:"
+      image: /images/2026_Orientation___Kairos.png
       alt: Image alt text
-      url: https://www.yijc.moe.edu.sg/open-house-2026/overview/
+      url: http://www.yijc.moe.edu.sg/2026-orientation/students/
       button: CLICK HERE
   - infobar:
       title: Yishun Innova Junior College
