@@ -1,25 +1,25 @@
 ---
 title: Subject Registration Details
-permalink: /2025-orientation/subreg-details/
+permalink: /2026-orientation/subreg-details/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Subject Registration 2025</strong></h4>
+<h4><strong>Subject Registration 2026</strong></h4>
 <p>Warm greetings from Yishun Innova Junior College!</p>
 <p>We are thrilled to welcome you to YIJC and hope that your journey with
 us will be both enriching and fulfilling. As you embark on this exciting
-chapter, it is time to consider the subjects that best align with your
-academic interests and aspirations.</p>
+chapter, it is time to critically consider the subjects that best align
+with your academic interests and aspirations.</p>
 <p>To guide you through the subject selection process, the college has organised
 informative talks designed to assist you in making well-informed decisions.
 These talks aim to provide valuable insights into the subject combinations
 available and help you choose the most suitable options for your academic
 journey.</p>
 <p>You can access the school portal to register your preferred subject combinations
-starting from <strong>Wed 5 Feb, at 12:00 p.m.</strong> The registration
-period will conclude on <strong>Fri 7 Feb, at 8:30 a.m</strong>. Detailed
+starting from <strong>Wed 4 Feb, at 12:00 p.m.</strong> The registration
+period will conclude on <strong>Fri 6 Feb, at 8:30 a.m</strong>. Detailed
 instructions on how to navigate the portal will be shared with you on Wed,
-5 Feb.</p>
+4 Feb.</p>
 <p>Please refer to the table below for the<strong> essential events and activities</strong> related
 to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <table style="minWidth: 75px">
@@ -45,7 +45,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Wed 5 Feb</strong>
+<p><strong>Wed 4 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,17 +76,21 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <p>
 <br>
 </p>
-<p>Online Subject Enquiry&nbsp;</p>
+<p>Online Subject Enquiry&nbsp;Booths (Optional)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6pm to 8.45pm
+<p>6.00pm to 7.00pm
 <br>
-<br>8pm to 8.45pm</p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>7.00pm to 8.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Thurs 6 Feb</strong>
+<p><strong>Thurs 5 Feb</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -109,7 +113,7 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fri 7 Feb</strong>
+<p><strong>Fri 6 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,22 +134,19 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <p>Release of class and subject allocation on the school portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Morning</p>
+<p>Late Morning/ Noon</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>To help you to make a more informed decision, the college has created
 a subject information guide. This information guide contains information
-on subject eligibility and also provides a basic understanding of the subject
+on subject eligibility, and provides a basic understanding of the subject
 content and assessment requirements for the various A-level subjects. You
-can access the guide via this link (<strong><a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/yijcsubjectinfo</u></a></strong>).</p>
+can access the guide via this link (<a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/yijcsubjectinfo</u></a>).</p>
 <p>We encourage you to actively participate in these registration proceedings
 to ensure a smooth transition into your chosen subjects. Should you have
 any queries or require assistance, our dedicated staff will be more than
 happy to help.</p>
 <p>We look forward to supporting you in creating a tailored academic experience
 at Yishun Innova Junior College.</p>
-<p>
-<br>
-</p>

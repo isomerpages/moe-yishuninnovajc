@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /2025-orientation/faqs/
+permalink: /2026-orientation/faqs/
 variant: tiptap
 description: ""
 ---
@@ -33,7 +33,7 @@ your absence will allow our teachers to advise you about the process.</p>
 <p></p>
 <p><strong>Qn: What time does my child need to report on the first day? Where should my child report to?</strong>
 </p>
-<p>On <strong>Wed 5 Feb</strong>, please report by <strong>7.45 am</strong> at
+<p>On <strong>Wed 4 Feb</strong>, please report by <strong>8.00 am sharp</strong> at
 the<strong> school hall.</strong> There will be student leaders present
 near the entrances of the college to direct the students to the reporting
 venues.&nbsp;</p>
@@ -45,7 +45,7 @@ programme and important information for the first day of the orientation.</p>
 <p>Students may report in their secondary school uniform/half uniform.
 <br>
 <br>If students do not have their secondary school uniform, they are advised
-to dress in a white plain top with dark-coloured pants/skirt of appropriate
+to dress in a plain white top with dark-coloured pants/skirt of appropriate
 length.</p>
 <p></p>
 <p><strong>Qn: What do they need to bring?</strong>
@@ -56,20 +56,21 @@ bring that along too.</p>
 <p></p>
 <p><strong>Qn: What is the programme for the day?</strong>
 </p>
-<p>You may refer to the tab ‘For Students’ for more details on our orientation
-programme and important information for the first day of the orientation.</p>
+<p>&nbsp;You may refer to the tab ‘For Students’ for more details on our
+orientation programme and important information for the first day of the
+orientation.</p>
 <p>On the first day, the students will be attending various talks, which
 are mostly targeted to help them make a decision about the subject combination
 that they would like to choose. They will also have the opportunity to
 get to know the college better and to get to know their friends better
-through games.</p>
+through games</p>
 <p>Your child will find out more about the programme for the rest of the
-orientation when he/she reports to college.&nbsp;</p>
+orientation when he/she reports to college.</p>
 <p></p>
 <p><strong>Qn: When is the last day of Orientation?</strong>
 </p>
-<p>Orientation will formally end on Tue 11 Feb. Formal lessons will start
-from Wed 12 Feb at 8.00am.</p>
+<p>Orientation will formally end on Tue 10 Feb. Formal lessons will start
+from Wed 11 Feb at 8.00am.</p>
 <p></p>
 <p><strong>Qn: Is Orientation compulsory?</strong>
 </p>
@@ -78,10 +79,11 @@ from Wed 12 Feb at 8.00am.</p>
 <p><strong>Qn: When do the students need to purchase their uniforms? How much are the uniforms?</strong>
 </p>
 <p>The students will receive more information about the purchase of uniforms
-and the price list on the first day of orientation. Students will be allocated
-specific slots to make the purchase <strong>between Thurs 6 Feb to Mon 10 Feb.</strong> Students
-who would like to have their uniforms tailored can make their purchases
-on Fri 7 Feb between 12.30pm to 2.45pm&nbsp;&nbsp;</p>
+and the price list on the first day of orientation. Uniform sales will
+take place on <strong>5th, 6th, 9th </strong>and <strong>11th February 2026</strong> in
+Classrooms <strong>J1-05 and J1-06</strong>. Students can visit the sales
+venues after the Orientation programme for each day or during their lunch
+breaks.&nbsp;</p>
 <p>Payment modes accepted are: Cash and PayNow. If paying by cash, please
 be advised to bring exact change to facilitate payment.</p>
 <p></p>
@@ -104,8 +106,8 @@ the GC early as the first topic requires the use of a GC.</p>
 name, CG, and contact number on the reverse side of the cheque)</p>
 </li>
 </ul>
-<p>Students may refer to the Orientation e-booklet for more information regarding
-the price and support for students on FAS.</p>
+<p>Students may refer to the Orientation student site (<a href="https://go.gov.sg/yijcori" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcori</a>)
+for more information regarding the price and support for students on FAS.</p>
 <p>
 <br>
 </p>
