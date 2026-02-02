@@ -130,22 +130,25 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <p>Release of class and subject allocation on the school portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Morning</p>
+<p>Late Morning/ Noon</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>To help you to make a more informed decision, the college has created
 a subject information guide. This information guide contains information
-on subject eligibility and also provides a basic understanding of the subject
+on subject eligibility, and provides a basic understanding of the subject
 content and assessment requirements for the various A-level subjects. You
-can access the guide via this link (<strong><a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/yijcsubjectinfo</u></a></strong>).</p>
+can access the guide via this link (<a href="https://for.edu.sg/yijcsubjectinfo" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/yijcsubjectinfo</u></a>).</p>
 <p>We encourage you to actively participate in these registration proceedings
 to ensure a smooth transition into your chosen subjects. Should you have
 any queries or require assistance, our dedicated staff will be more than
 happy to help.</p>
 <p>We look forward to supporting you in creating a tailored academic experience
 at Yishun Innova Junior College.</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
