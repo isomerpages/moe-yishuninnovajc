@@ -76,12 +76,16 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <p>
 <br>
 </p>
-<p>Online Subject Enquiry&nbsp;</p>
+<p>Online Subject Enquiry&nbsp;Booths (Optional)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6pm to 8.45pm
+<p>6.00pm to 7.00pm
 <br>
-<br>8pm to 8.45pm</p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>7.00pm to 8.00pm</p>
 </td>
 </tr>
 <tr>
@@ -146,9 +150,3 @@ any queries or require assistance, our dedicated staff will be more than
 happy to help.</p>
 <p>We look forward to supporting you in creating a tailored academic experience
 at Yishun Innova Junior College.</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
