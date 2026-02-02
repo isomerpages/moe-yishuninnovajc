@@ -16,14 +16,15 @@ see section on&nbsp;<a href="https://yijc.moe.edu.sg/curriculum/subject-combi-an
 <p>2) In the event that there is insufficient subscription for a particular
 subject or subject combination, the college reserves the right not to offer
 that subject or subject combination.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_combi_1_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_subject_combi_1_v2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subjectcombi/subject_combi_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_subject_combi_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subjectcombi/subject_combi_3_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_subject_combi_3.png">
 </div>
 <h3><strong>Subject Combination Eligibility Criteria</strong></h3>
 <h4><strong>4H2 Subject Combinations</strong></h4>
