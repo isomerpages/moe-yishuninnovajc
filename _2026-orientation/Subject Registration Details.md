@@ -73,19 +73,18 @@ to the <strong>Subject Combination Registration Exercise</strong>:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parents Engagement Talk (Online)</p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <p>Online Subject Enquiry&nbsp;Booths (Optional)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00pm to 7.00pm
+<p>6.00pm to 7.15pm
 <br>
 <br>
 </p>
 <p></p>
 <p></p>
-<p>7.00pm to 8.00pm</p>
+<p>7.15pm to 8.15pm</p>
 </td>
 </tr>
 <tr>
