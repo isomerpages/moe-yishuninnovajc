@@ -16,7 +16,6 @@ see section on&nbsp;<a href="https://yijc.moe.edu.sg/curriculum/subject-combi-an
 <p>2) In the event that there is insufficient subscription for a particular
 subject or subject combination, the college reserves the right not to offer
 that subject or subject combination.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_subject_combi_1_v2.png">
 </div>
