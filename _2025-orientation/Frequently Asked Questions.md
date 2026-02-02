@@ -79,10 +79,11 @@ from Wed 11 Feb at 8.00am.</p>
 <p><strong>Qn: When do the students need to purchase their uniforms? How much are the uniforms?</strong>
 </p>
 <p>The students will receive more information about the purchase of uniforms
-and the price list on the first day of orientation. Students will be allocated
-specific slots to make the purchase <strong>between Thurs 5 Feb to Mon 9 Feb.</strong> Students
-who would like to have their uniforms tailored can make their purchases
-on Fri 6 Feb between 12.30pm to 2.45pm.</p>
+and the price list on the first day of orientation. Uniform sales will
+take place on <strong>5th, 6th, 9th </strong>and <strong>11th February 2026</strong> in
+Classrooms <strong>J1-05 and J1-06</strong>. Students can visit the sales
+venues after the Orientation programme for each day or during their lunch
+breaks.&nbsp;</p>
 <p>Payment modes accepted are: Cash and PayNow. If paying by cash, please
 be advised to bring exact change to facilitate payment.</p>
 <p></p>
@@ -105,8 +106,8 @@ the GC early as the first topic requires the use of a GC.</p>
 name, CG, and contact number on the reverse side of the cheque)</p>
 </li>
 </ul>
-<p>Students may refer to the Orientation e-booklet for more information regarding
-the price and support for students on FAS.</p>
+<p>Students may refer to the Orientation student site (<a href="https://go.gov.sg/yijcori" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcori</a>)
+for more information regarding the price and support for students on FAS.</p>
 <p>
 <br>
 </p>
