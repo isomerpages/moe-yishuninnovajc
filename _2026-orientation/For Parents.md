@@ -108,7 +108,7 @@ ECG counsellor’s presentation on subject combination choices.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We will be sending out a registration link via SMS on Wednesday, 4 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
+<p><strong>We will be sending out a registration link via SMS on Tuesday, 3 Feb so do look out for more details on how to join this Beginning-of-Year Parents Engagement Talk.</strong>&nbsp;</p>
 <p>
 <br>
 </p>
