@@ -34,7 +34,7 @@ with us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed 5 Feb</p>
+<p>Wed 4 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00am to 2.00pm</p>
@@ -42,7 +42,7 @@ with us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thurs 6 Feb</p>
+<p>Thurs 5 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00am to 1.35pm</p>
