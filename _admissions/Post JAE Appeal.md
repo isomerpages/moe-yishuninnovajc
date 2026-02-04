@@ -8,17 +8,22 @@ variant: tiptap
 <h4><strong>Post-JAE Appeal Exercise</strong></h4>
 <p>Only students who meet the cut-off point (COP) for admission to Yishun
 Innova Junior College (YIJC) can be considered for appeals. For 2025, the
-net aggregate L1R5 COP for YIJC are: 18 (Science), 19* (Arts).</p>
-<p><em>*The last posted student YIJC received for the Arts course had a net aggregate score of 19. However, given that the college had vacancies after JAE posting to the Arts course, the college would consider admitting a JC-eligible student with L1R5 of 20, if there are available vacancies.</em>
-</p>
-<p>Eligible appeals will be given due consideration, subject to available
-vacancies and the school’s admission criteria.</p>
-<p></p>
-<p>For admission to Yishun Innova Junior College, candidates must first meet
+net aggregate L1R5 COP for YIJC are: 18 (Science), 19* (Arts).
+<br>
+<br>The last posted student YIJC received for the Arts course had a net aggregate
+score of 19. However, given that the college had vacancies after JAE posting
+to the Arts course, the college would consider admitting a JC-eligible
+student with L1R5 of 20, if there are available vacancies.
+<br>
+<br>Eligible appeals will be given due consideration, subject to available
+vacancies and the school’s admission criteria.
+<br>
+<br>For admission to Yishun Innova Junior College, candidates must first meet
 the admission criteria for a Junior College. Please refer to the information
 on JC admission criteria (<a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener noreferrer nofollow" target="_blank">MOE-admission criteria to institutes</a>)
-for further details.</p>
-<p><strong>You can only submit an appeal* after the release of the JAE posting results. The appeal period starts from 3 Feb 2026 0900hr and ends on 9 Feb 2026 0900hr.</strong>
+for further details.
+<br>
+<br><strong>You can only submit an appeal* after the release of the JAE posting results. The appeal period starts from 3 Feb 2026 0900hr and ends on 9 Feb 2026 0900hr.</strong>
 </p>
 <p><strong>*Note:</strong>&nbsp;This appeal is not valid for DSA students.
 Please do NOT submit an appeal if you already have a place in another school
