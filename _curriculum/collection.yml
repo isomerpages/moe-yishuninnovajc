@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Release of 2025 A Level Examination Results.md
       - Prospectus.md
       - Subject Combinations/.keep
       - Subject Combinations/The A Level Curriculum.md
