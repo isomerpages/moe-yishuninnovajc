@@ -29,10 +29,9 @@ sections:
       announcement_items:
         - title: ""
           date: 27 February 2026
-          announcement: RELEASE OF 2025 SINGAPORE-CAMBRIDGE GCE A-LEVEL EXAMINATION
-            RESULTS ON 27 FEBRUARY 2026
-          link_text: Learn more
-          link_url: https://yijc.moe.edu.sg/alevel
+          announcement: Release of 2025 Singapore-Cambridge GCE A-Level Examination Results
+          link_text: Learn More
+          link_url: /alevel/
   - infopic:
       title: ORIENTATION 2026
       subtitle: YISHUN INNOVA JC
