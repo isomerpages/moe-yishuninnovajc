@@ -22,6 +22,16 @@ sections:
         - title: Orientation 2026
           description: Click for more info!
           url: http://www.yijc.moe.edu.sg/2026-orientation/students/
+  - announcements:
+      title: Announcement
+      id: announcements
+      subtitle: Yishun innova jc
+      announcement_items:
+        - title: ""
+          date: 27 February 2026
+          announcement: Release of 2025 Singapore-Cambridge GCE A-Level Examination Results
+          link_text: Learn More
+          link_url: /alevel/
   - infopic:
       title: ORIENTATION 2026
       subtitle: YISHUN INNOVA JC

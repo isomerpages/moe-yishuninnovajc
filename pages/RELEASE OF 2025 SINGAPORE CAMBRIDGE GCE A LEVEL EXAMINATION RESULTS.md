@@ -1,0 +1,65 @@
+---
+title: RELEASE OF 2025 SINGAPORE CAMBRIDGE GCE A LEVEL EXAMINATION RESULTS
+permalink: /alevel/
+variant: tiptap
+description: ""
+---
+<p><strong>1.&nbsp;&nbsp;&nbsp; Results Release for 2025 GCE A Level School Candidates</strong>
+<br>School candidates may return to the college to receive their results at
+their respective assigned venues from 2.30 pm on Friday, 27 February 2026.
+Please click <strong><a href="/files/ALEVEL/Venues.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+view your assigned venue.</p>
+<p>School candidates will be permitted entry into the college from <strong>1.45 pm</strong>.
+Please enter via the main college gate and proceed directly to your assigned
+venue. Candidates are not to loiter elsewhere in the college.</p>
+<p>School candidates who are unwell should seek medical attention and should
+not return to the college to collect their results. They may appoint a
+proxy to collect a physical copy of their results on their behalf from
+the college. More information on appointing a proxy can be found below.</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; Appointing a proxy to collect a physical copy of your results:</strong>
+</p>
+<p>School candidates who are unable to collect their results in person may
+appoint a proxy to collect a physical copy of their results on their behalf
+from the school. Proxies are required to produce the relevant documents
+for the school’s verification and to present a <strong>Letter of Authorization</strong> when
+collecting the results on behalf of the school candidate. The Letter of
+Authorization can be found <strong><a href="/files/ALEVEL/Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
+<p>School candidates who are unable to appoint a proxy may contact the college
+for further assistance.</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp; Assessing Results Online</strong>
+</p>
+<p>School candidates can also access their results online<sup>1 </sup>via
+Singapore Examinations and Assessment Board (SEAB)’s Candidates Portal
+at <a href="http://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
+3.15pm on Friday, 27 February 2026, till 11pm on Friday, 13 March 2026.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates may access SEAB’s
+Candidates Portal using their Singpass account.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates who are International
+Students will receive their system-generated username via email from Wednesday,
+25 February 2026.</p>
+<p>&nbsp;<strong>4.&nbsp;&nbsp;&nbsp; Applications to Autonomous Universities</strong>
+</p>
+<p>&nbsp;Students who wish to apply for admission to the autonomous universities
+(AUs) and for AU scholarships should submit their applications online via
+the respective AUs’ websites. There is no need to submit a hard copy of
+the GCE A-Level certificate.
+<br>
+<br>Information on the AUs’ admissions requirements and processes can be found
+on their websites, and applicants should approach the universities directly
+for further assistance.
+<br>_________________________________________________</p>
+<p>&nbsp;<sup>1</sup> School candidates viewing their results online can still
+contact the college and their teachers for consultation on their next steps</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp; Education and Career Guidance (ECG) Support</strong>
+<br>Students are encouraged to explore the range of education and career pathways
+available to them to make informed decisions about their next steps. They
+may refer to the following websites for more information:
+<br>a. MOE’s CourseFinder (<a href="http://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)
+<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
+<br>
+<br>Students may also consult their teachers or the ECG Counsellors about
+their next steps. Alternatively, they can make an ECG counselling appointment
+via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The
+ECG Centre @ MOE offers online or phone counselling services from Monday,
+23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
+and 9am to 12pm on Saturdays.</p>
