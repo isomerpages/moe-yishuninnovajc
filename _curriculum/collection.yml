@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - RELEASE OF 2025 SINGAPORE CAMBRIDGE GCE A LEVEL EXAMINATION RESULTS.md
       - Prospectus.md
       - Subject Combinations/.keep
       - Subject Combinations/The A Level Curriculum.md
