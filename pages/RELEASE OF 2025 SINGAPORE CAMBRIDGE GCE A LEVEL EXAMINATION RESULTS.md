@@ -54,8 +54,8 @@ contact the college and their teachers for consultation on their next steps</p>
 <br>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:
-<br>1. MOE’s CourseFinder (<a href="" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)
-<br>2. MySkillsFuture Student Portal (<a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
+<br>a. MOE’s CourseFinder (<a href="" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)
+<br>b. MySkillsFuture Student Portal (<a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
 <br>
 <br>Students may also consult their teachers or the ECG Counsellors about
 their next steps. Alternatively, they can make an ECG counselling appointment
