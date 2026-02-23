@@ -55,10 +55,11 @@ contact the college and their teachers for consultation on their next steps</p>
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:
 <br>a. MOE’s CourseFinder (<a href="http://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)
-<br>b. MySkillsFuture Student Portal (<a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
+<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
 <br>
 <br>Students may also consult their teachers or the ECG Counsellors about
 their next steps. Alternatively, they can make an ECG counselling appointment
-via the ECG Centre @ MOE at <a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online
-or phone counselling services from Monday, 23 February 2026 to Thursday,
-19 March 2026 from 9am to 5pm on weekdays, and 9am to 12pm on Saturdays.</p>
+via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The
+ECG Centre @ MOE offers online or phone counselling services from Monday,
+23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
+and 9am to 12pm on Saturdays.</p>
