@@ -8,8 +8,8 @@ description: ""
 </p>
 <p>School candidates may return to the college to receive their results at
 their respective assigned venues from 2.30 pm on Friday, 27 February 2026.
-Please click <strong><a href="/files/ALEVEL/Venues.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>
-<a href="/files/ALEVEL/Venues.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to view your assigned venue.</p>
+Please click <strong><a href="/files/ALEVEL/Venues.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+view your assigned venue.</p>
 <p>School candidates will be permitted entry into the college from <strong>1.45 pm</strong>.
 Please enter via the main college gate and proceed directly to your assigned
 venue. Candidates are not to loiter elsewhere in the college.</p>
@@ -24,7 +24,7 @@ appoint a proxy to collect a physical copy of their results on their behalf
 from the school. Proxies are required to produce the relevant documents
 for the school’s verification and to present a <strong>Letter of Authorization</strong> when
 collecting the results on behalf of the school candidate. The Letter of
-Authorization can be found <strong><u>here</u></strong>.</p>
+Authorization can be found <strong><a href="/files/ALEVEL/Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
 <p>School candidates who are unable to appoint a proxy may contact the college
 for further assistance.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Assessing Results Online</strong>
