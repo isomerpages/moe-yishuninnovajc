@@ -55,12 +55,12 @@ contact the college and their teachers for consultation on their next steps</p>
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:
 <br>a. MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/coursefinder</a>)
-<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
-<p>c. ECG Googlesite (<a href="https://go.gov.sg/ecgyijc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgyijc</a>) and Beyond A Levels
+<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)
+<br>c. ECG Googlesite (<a href="https://go.gov.sg/ecgyijc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgyijc</a>) and Beyond A Levels
 Booklet (<a href="https://go.gov.sg/beyondalevelsbooklet26" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beyondalevelsbooklet26</a>)
 on application to institutes of higher learning, retaking A levels, important
-deadlines and&nbsp;more</p>
-<p>
+deadlines and&nbsp;more
+<br>
 <br>Students may also consult their teachers or the ECG Counsellors about
 their next steps. To book an appointment with our YIJC ECG Counsellor,
 Ms Joyce, fill out the online form <strong><a href="https://go.gov.sg/yijcecg-postalevels" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcecg-postalevels</a></strong>.
