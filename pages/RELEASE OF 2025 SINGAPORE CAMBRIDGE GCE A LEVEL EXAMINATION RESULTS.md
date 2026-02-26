@@ -54,12 +54,17 @@ contact the college and their teachers for consultation on their next steps</p>
 <br>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:
-<br>a. MOE’s CourseFinder (<a href="http://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)
-<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)
-<br>
+<br>a. MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/coursefinder</a>)
+<br>b. MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
+<p>c. ECG Googlesite (<a href="https://go.gov.sg/ecgyijc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ecgyijc</a>) and Beyond A Levels
+Booklet (<a href="https://go.gov.sg/beyondalevelsbooklet26" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beyondalevelsbooklet26</a>)
+on application to institutes of higher learning, retaking A levels, important
+deadlines and&nbsp;more</p>
+<p>
 <br>Students may also consult their teachers or the ECG Counsellors about
-their next steps. Alternatively, they can make an ECG counselling appointment
-via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The
-ECG Centre @ MOE offers online or phone counselling services from Monday,
+their next steps. To book an appointment with our YIJC ECG Counsellor,
+Ms Joyce, fill out the online form <strong><a href="https://go.gov.sg/yijcecg-postalevels" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcecg-postalevels</a></strong>.
+Alternatively, they can make an ECG counselling appointment via the <a href="https://www.booking.gov.sg/public/services/Vk6mgweA/availability?anonymous=true&amp;spId=9xdL2bxp" rel="noopener noreferrer nofollow" target="_blank">ECG Centre @ MOE</a>.
+The ECG Centre @ MOE offers online or phone counselling services from Monday,
 23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
 and 9am to 12pm on Saturdays.</p>
