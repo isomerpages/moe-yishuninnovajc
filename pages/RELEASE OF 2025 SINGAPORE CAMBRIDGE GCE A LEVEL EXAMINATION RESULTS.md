@@ -63,7 +63,7 @@ deadlines and&nbsp;more
 <br>
 <br>Students may also consult their teachers or the ECG Counsellors about
 their next steps. To book an appointment with our YIJC ECG Counsellor,
-Ms Joyce, fill out the online form <strong><a href="https://go.gov.sg/yijcecg-postalevels" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcecg-postalevels</a></strong>.
+Ms Joyce, fill out the online form <a href="https://go.gov.sg/yijcecg-postalevels" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/yijcecg-postalevels</a>.
 Alternatively, they can make an ECG counselling appointment via the <a href="https://www.booking.gov.sg/public/services/Vk6mgweA/availability?anonymous=true&amp;spId=9xdL2bxp" rel="noopener noreferrer nofollow" target="_blank">ECG Centre @ MOE</a>.
 The ECG Centre @ MOE offers online or phone counselling services from Monday,
 23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
