@@ -160,9 +160,10 @@ Mrs Renee Low
 <br><br>
 <b>Geography</b><br>
 	<b><font color="003dA5">Subject Head/Geography</font></b><br>
-Mdm Poh Huay Woon<br>
+Mdm Poh Huay Woon<br><br>
+	<b><font color="003dA5">Subject Head/Pastoral Care</font></b><br>
 Ms Tan Li Ling
-<br><br>
+	<br><br>
 	<b><font color="003dA5">Lead Teacher/Geography</font></b><br>
 Dr N Gowri
 <br><br> <b><font color="003dA5">Subject Head/ Communications &amp; Partnership</font></b><br>Mr Mohamad Irfan Bin Mohamad Salihin<br><br>
@@ -307,7 +308,7 @@ Mdm Goh Sok Sing
 Ms Lim Hwee Ming Irene
 <br><br>
 	<b><font color="003dA5">Senior Teacher/Biology</font></b><br>
-Mr Tan Kok Ping
+Mr Tan Kok Ping Lawrence
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
@@ -326,9 +327,6 @@ Mr Goh Kien Huay
 <br><br>
 	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
 Mdm Lim Chieh Yeng Jane
-<br><br>
-		<b><font color="003dA5">Senior Teacher/Chemistry</font></b><br>
-Mr Steven Wong Meng Wai
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Mr Ang Chee Kiat<br>
