@@ -9,7 +9,7 @@ variant: markdown
 #### **General application overview**
 **Important information**
 * Most applications to US universities have to be made on the Common Apps platform, while applications to UK universities have to be made on the UCAS platform. See sub-sections (2) and (3) below for more information on applications to US and UK universities respectively.
-* The application deadlines are usually in early January (next year). This means that current JC2 students will need to request for **predicted grades**, as your A Level results will not be ready yet. Request for your predicted grades can be made between **18 Aug 2025 – 30 Sep 2025**. You can make a request via this [online form](https://form.gov.sg/66f6346b362d593ca47439ad).
+* The application deadlines are usually in early January (next year). This means that current JC2 students will need to request for **predicted grades**, as your A Level results will not be ready yet. Request for your predicted grades can be made between **17 Aug 2026 – 30 Sep 2026**. You can make a request via this [online form](https://form.gov.sg/66f6346b362d593ca47439ad).
 * Both UK and US universities require a personal statement and recommendation letter(s) from your tutors.
 
 _Personal statement_: Admissions offices in the UK and the US expect to see different things in the personal statement. Follow [the link here](https://drive.google.com/drive/folders/1-f5QMPR5gPmm3KSfn8KijHDo37eItFkx) (login to Student ICON email account) to find out more about how you can write an impressive personal statement for the universities you are applying to!
@@ -31,17 +31,17 @@ More resources on overseas education can also be found [here](https://sites.goo
 #### **Applying to UK Universities**
 **How do I apply?**
 
-Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2025 onwards.
+Students will apply to UK universities via the [UCAS online portal](https://accounts.ucas.com/account/login?returnUrl=https%3A//www.ucas.com/dashboard%23/). You can start your application now in the from July 2026 onwards.
 
 You may find a step-by-step guide to completing the UCAS application [here](https://www.ucas.com/undergraduate/applying-university/filling-your-ucas-undergraduate-application). 
 
-You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2026**
+You will be requested to enter the UCAS buzzword during the application. YIJC’s UCAS buzzword is: **YIJCUK2027**
 
 **Application deadlines**
 
-**15 Oct 2025** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
+**15 Oct 2026** – For any course at the universities of Oxford and Cambridge, or for most courses in medicine, veterinary medicine/science, and dentistry.
 
-**14 Jan 2026** – For the majority of courses in the UK.
+**14 Jan 2027** – For the majority of courses in the UK.
 
 **Admission tests**
 
