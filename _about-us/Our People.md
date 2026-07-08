@@ -134,8 +134,7 @@ Mrs Eliza Gunasagaran
 <br><br>	
 	<b><font color="003dA5">Teachers</font></b><br>	
 Mr Acer Ng Yu Xuan<br>
-Mr David Premsharan<br>
-Mr Goh Khiam Li, Edward<br>
+Mr Dominic Heng Jian Chein<br>
 Mr Li Qingyi<br>
 Ms Liaw Hsiao-Mein<br>
 Ms Mark Jin Rong<br>
@@ -194,9 +193,6 @@ Mr Tan Bang Choon David
 <br><br>
 	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
 Mr Tan Wai Yean
-<br><br>
-		<b><font color="003dA5">Subject Head/Student Management</font></b><br>
-Mr Low Rui Hao
 <br><br>
 		<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
 Mr Eng Kai Seng
@@ -312,6 +308,7 @@ Mr Tan Kok Ping Lawrence
 <br><br>
 	<b><font color="003dA5">Teachers</font></b><br>
 Ms Chan Tze Cheng Tricia <br>
+Mr Dominic Heng Jian Chein <br>
 Ms Teo Wei Min Stephanie<br>
 <br>
 	<b>Chemistry</b><br>
