@@ -371,10 +371,6 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
-<p></p>
 <p><strong>Admin Managers</strong>
 <br>Mrs Lee See Nee
 <br>Ms Soh Tze Min
@@ -423,23 +419,20 @@ variant: tiptap
 <br>Mdm Tan Cheng Huy
 <br>Mdm Wong Lee Chin
 <br>
-</p>
-<ul>
-<li>
-<p>
-<br>
 <br><strong>Library Officer</strong>
-<br>Ms Tan Chui Hoon, Teresa
+<br>Mr Irwyn Syukur
 <br>
 <br><strong>Desktop Engineers (NCS)</strong>
 <br>Mr Ken Jamal (AV)
-<br>Mr Mohammad Riduan Bin Abdul Rahman
-<br>Mr Selvathiru M Chandran
+<br>Mr Mohammad Riduan Bin Abdul Rahman</p>
+<p>Mr Sharwind Krishnan
 <br>
 <br><strong>Security Officers</strong>
 <br>Ms Malliga
 <br>Mr Or Kim Piouu</p>
 <p></p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
