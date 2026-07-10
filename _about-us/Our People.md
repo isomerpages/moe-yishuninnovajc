@@ -2,14 +2,15 @@
 title: Our People
 permalink: /about-us/our-people/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Our People</strong></h3>
-<ul>
-<li>
-<p>School Leaders</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>School Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Principal</strong>
-<br>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -31,7 +32,6 @@ variant: markdown
 </tbody>
 </table>
 <p><strong>Vice-Principals</strong>
-<br>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -77,9 +77,14 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p>Economics Department</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Economics Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Economics</strong>
 <br>Ms Lim Shu Fen
 <br>
@@ -106,12 +111,14 @@ variant: markdown
 <br>Mdm Leow Sock Cheng Pearly
 <br>Mr Neo Zhixian Ben
 <br>Mr Tan Jit Ann Joshua
-<br>Ms Tan Li Yan Joscelyn
-<br>
-</p>
-</li>
-<li>
-<p>English Department</p>
+<br>Ms Tan Li Yan Joscelyn</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>English Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/English</strong>
 <br>Mrs Shirley Charles-Sharan
 <br>
@@ -127,7 +134,8 @@ variant: markdown
 <br>
 <br><strong>Teachers</strong>
 <br>Ms Amitra Ilangovan
-<br>Ms Shannon Ling Zhi Xuan<br>
+<br>Ms Shannon Ling Zhi Xuan
+<br>
 <br><strong>General Paper</strong>
 <br><strong>Subject Heads/General Paper</strong>
 <br>Ms Somasundaram Divya
@@ -151,9 +159,13 @@ variant: markdown
 <br>Mr Ng Tat Kit
 <br>Ms Ng Xuan Min, Samantha
 <br>Ms Veera Gayatri Naidu D/O Rajagopal</p>
-</li>
-<li>
-<p>Humanities Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Humanities Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Humanities</strong>
 <br>Mrs Renee Low
 <br>
@@ -182,12 +194,14 @@ variant: markdown
 <br>Mr Goh Han-Ming Jasper
 <br>
 <br><strong>Teachers</strong>
-<br>Mr Loke Zhi Ming Christopher
-<br>
-</p>
-</li>
-</ul>
-<p>Mathematics Department</p>
+<br>Mr Loke Zhi Ming Christopher</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mathematics Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Mathematics</strong>
 <br>Ms Ng Sock Cheng
 <br>
@@ -205,8 +219,8 @@ variant: markdown
 <br>Mr Lee Wen Rong
 <br>Mr Lim Chee Mun
 <br>Mr Lim Kah Hong
-<br>Mr Phang Wei Cheng 
-<br> Mr Poh Zi Xiang
+<br>Mr Phang Wei Cheng
+<br>Mr Poh Zi Xiang
 <br>Mr Tan Kit Loong Christopher
 <br>Ms Tan Rui Min Cristal
 <br>Ms Queenie Chiu
@@ -215,9 +229,13 @@ variant: markdown
 <br><strong>Teachers</strong>
 <br>Mr Kuang Jingkai
 <br>Mr Wee Soon Ming</p>
-<ul>
-<li>
-<p>Mother Tongue Languages Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mother Tongue Languages Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Mother Tongue Languages</strong>
 <br>Mdm Najmah Bte Sidik
 <br>
@@ -234,9 +252,13 @@ variant: markdown
 <br>Mdm Selvey Manickam
 <br>Mr Tay Yong Sng
 <br>Ms Tin Yi Ya</p>
-</li>
-<li>
-<p>Physical Education Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Physical Education Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Physical Education and CCA</strong>
 <br>Ms Yeo Swee Ching
 <br>
@@ -247,12 +269,14 @@ variant: markdown
 <br>Mr Lee Joon Keong
 <br>
 <br><strong>Teachers</strong>
-<br>Mr Mus Effendi Bin Musa
-<br>
-</p>
-</li>
-<li>
-<p>Project Work Department</p>
+<br>Mr Mus Effendi Bin Musa</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Project Work Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Project Work</strong>
 <br>Ms Cara Mok Shuwen
 <br>
@@ -268,12 +292,14 @@ variant: markdown
 <br>Mr Ng Swee Loong Steven
 <br>Mdm Shelia Nagiah
 <br>Mrs Teo Eng Leong Emily
-<br>Mrs Thomas George
-<br>
-</p>
-</li>
-<li>
-<p>Science Department</p>
+<br>Mrs Thomas George</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Science Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>HOD/Science</strong>
 <br>Mr Tan Hao Kai
 <br>
@@ -334,9 +360,13 @@ variant: markdown
 <br>Mr Lim Chee Seng
 <br>Mr Ng Soo Kok
 <br>Mr Wong Yih Chong</p>
-</li>
-<li>
-<p>Executive and Administrative Staff</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Executive and Administrative Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Admin Managers</strong>
 <br>Mrs Lee See Nee
 <br>Ms Soh Tze Min
@@ -385,24 +415,19 @@ variant: markdown
 <br>Mdm Tan Cheng Huy
 <br>Mdm Wong Lee Chin
 <br>
-</p>
-<p>
-<br>
 <br><strong>Library Officer</strong>
-<br>Ms Tan Chui Hoon, Teresa
+<br>Mr Irwyn Syukur
 <br>
 <br><strong>Desktop Engineers (NCS)</strong>
 <br>Mr Ken Jamal (AV)
-<br>Mr Mohammad Riduan Bin Abdul Rahman
-<br>Mr Selvathiru M Chandran
+<br>Mr Mohammad Riduan
+<br>Mr Sharwind Krishnan
 <br>
 <br><strong>Security Officers</strong>
 <br>Ms Malliga
 <br>Mr Or Kim Piouu</p>
 <p></p>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
