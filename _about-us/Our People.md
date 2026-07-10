@@ -10,8 +10,6 @@ variant: tiptap
 <summary><strong>School Leaders</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
 <p><strong>Principal</strong>
 </p>
 <table style="minWidth: 25px">
@@ -80,8 +78,6 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -434,5 +430,4 @@ variant: tiptap
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
