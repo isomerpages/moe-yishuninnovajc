@@ -126,9 +126,8 @@ variant: markdown
 <br>Mdm Chitrakala d/o G Arumugam
 <br>
 <br><strong>Teachers</strong>
-<br>Ms Amitra Ilangovan</p>
-<p>Ms Shannon Ling Zhi Xuan
-<br>
+<br>Ms Amitra Ilangovan
+<br>Ms Shannon Ling Zhi Xuan<br>
 <br><strong>General Paper</strong>
 <br><strong>Subject Heads/General Paper</strong>
 <br>Ms Somasundaram Divya
@@ -148,8 +147,8 @@ variant: markdown
 <br>Mr Li Qingyi
 <br>Ms Liaw Hsiao-Mein
 <br>Ms Mark Jin Rong
-<br>Mr Mohamed Firdaus Bin Al-Amin</p>
-<p>Mr Ng Tat Kit
+<br>Mr Mohamed Firdaus Bin Al-Amin
+<br>Mr Ng Tat Kit
 <br>Ms Ng Xuan Min, Samantha
 <br>Ms Veera Gayatri Naidu D/O Rajagopal</p>
 </li>
@@ -206,7 +205,8 @@ variant: markdown
 <br>Mr Lee Wen Rong
 <br>Mr Lim Chee Mun
 <br>Mr Lim Kah Hong
-<br>Mr Phang Wei Cheng &lt;br&gt;Mr Poh Zi Xiang
+<br>Mr Phang Wei Cheng 
+<br> Mr Poh Zi Xiang
 <br>Mr Tan Kit Loong Christopher
 <br>Ms Tan Rui Min Cristal
 <br>Ms Queenie Chiu
@@ -292,8 +292,8 @@ variant: markdown
 <br>
 <br><strong>Teachers</strong>
 <br>Ms Chan Tze Cheng Tricia
-<br>Mr Dominic Heng Jian Chein</p>
-<p>Ms Loh Huai Chin
+<br>Mr Dominic Heng Jian Chein
+<br>Ms Loh Huai Chin
 <br>Ms Teo Wei Min Stephanie
 <br>
 <br><strong>Chemistry</strong>
