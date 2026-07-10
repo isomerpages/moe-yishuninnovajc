@@ -420,8 +420,8 @@ variant: tiptap
 <br>
 <br><strong>Desktop Engineers (NCS)</strong>
 <br>Mr Ken Jamal (AV)
-<br>Mr Mohammad Riduan Bin Abdul Rahman</p>
-<p>Mr Sharwind Krishnan
+<br>Mr Mohammad Riduan
+<br>Mr Sharwind Krishnan
 <br>
 <br><strong>Security Officers</strong>
 <br>Ms Malliga
