@@ -187,7 +187,7 @@ variant: tiptap
 <br>
 </p>
 </li>
-<li>
+</ul>
 <p>Mathematics Department</p>
 <p><strong>HOD/Mathematics</strong>
 <br>Ms Ng Sock Cheng
@@ -206,8 +206,7 @@ variant: tiptap
 <br>Mr Lee Wen Rong
 <br>Mr Lim Chee Mun
 <br>Mr Lim Kah Hong
-<br>Mr Phang Wei Cheng</p>
-<p>Mr Poh Zi Xiang
+<br>Mr Phang Wei Cheng &lt;br&gt;Mr Poh Zi Xiang
 <br>Mr Tan Kit Loong Christopher
 <br>Ms Tan Rui Min Cristal
 <br>Ms Queenie Chiu
@@ -216,7 +215,7 @@ variant: tiptap
 <br><strong>Teachers</strong>
 <br>Mr Kuang Jingkai
 <br>Mr Wee Soon Ming</p>
-</li>
+<ul>
 <li>
 <p>Mother Tongue Languages Department</p>
 <p><strong>HOD/Mother Tongue Languages</strong>
@@ -400,6 +399,9 @@ variant: tiptap
 <br><strong>Security Officers</strong>
 <br>Ms Malliga
 <br>Mr Or Kim Piouu</p>
+<p></p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
