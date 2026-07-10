@@ -4,421 +4,405 @@ permalink: /about-us/our-people/
 description: ""
 variant: markdown
 ---
-### **Our People**
-
-<ul class="jekyllcodex_accordion">
+<h3><strong>Our People</strong></h3>
+<ul>
 <li>
-<input type="checkbox" id="accordion1">
-<label for="accordion1">School Leaders</label>
-<div>
-<p>
-	<b><font color="003dA5">Principal</font></b><br>
-<table>
-	<tbody><tr>
-    <td style="text-align: center;">
-		<img src="/images/School Leaders/principal.jpg" style="width:20%">
-		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">Mr Mark Minjoot
-		</td>
-	</tr>
-</tbody></table>
-	<b><font color="003dA5">Vice-Principals</font></b><br>
-<table>
-	<tbody>
-		<tr>
-    <td style="text-align: center;">
-		<img src="/images/School Leaders/VP1.jpg" style="width:20%">
-		</td>
-	</tr>
-		<tr>
-    <td style="text-align: center;">Mrs Julieanne Choy Wen Ju
-		</td>
-	</tr>
-	<tr>
-    <td style="text-align: center;">
-		<img src="/images/School Leaders/VP2.jpg" style="width:20%">
-		</td>
- </tr>
- <tr>
-    <td style="text-align: center;">Mr Loi Guang You
-		</td>
- </tr>
-	<tr>
-    <td style="text-align: center;">
-		<img src="/images/School Leaders/VP3.jpg" style="width:20%">
-		</td>
- </tr>
- <tr>
-    <td style="text-align: center;">Mr Long Tien Ho (Administration)
-		</td>
- </tr>
-
-</tbody>	
+<p>School Leaders</p>
+<p><strong>Principal</strong>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/School Leaders/principal.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Minjoot</p>
+</td>
+</tr>
+</tbody>
 </table>
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2">Economics Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Economics</font></b><br>
-Ms Lim Shu Fen
-<br><br>	
-	<b><font color="003dA5">Year Head</font></b><br>
-Mdm Ng Chai Ngoh
-<br><br>	
-	<b><font color="003dA5">HOD/Student Management</font></b><br>
-Ms Chong Jia Wei Serene
-<br><br>
-		<b><font color="003dA5">Subject Head/Information &amp; Communication Technology</font></b><br>
-Mr Yeo Rong Yao Jeremy
-<br><br>
-			<b><font color="003dA5">Subject Head/Economics</font></b><br>
-Ms Cheng Siew Peng Jasmine
-<br><br>
-	<b><font color="003dA5">Subject Head/Character &amp; Citizenship Education</font></b><br>
-Ms Lim Wei Qi Samantha (Lin Weiqi)
-<br><br>	
-	<b><font color="003dA5">Teachers</font></b><br>	
-Mdm Lim Pow Choo<br>
-Mr Foong Chongxiang<br>
-Ms Heng En-Hui Nicole<br>
-Ms Koh Jia Xin<br>
-Mdm Leow Sock Cheng Pearly<br>
-Mr Neo Zhixian Ben<br>
-Mr Tan Jit Ann Joshua<br> 
-Ms Tan Li Yan Joscelyn<br>
-
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion3">
-<label for="accordion3">English Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/English</font></b><br>
-Mrs Shirley Charles-Sharan
-<br><br>	
-	<b><font color="003dA5">HOD/Character &amp; Citizenship Education</font></b><br>
-Ms Tan Yin Ping Maxine
-<br><br>	
-<b><font color="003dA5">Year Head</font></b><br>
-Ms Ong Siew Yee Pearlyn
-<br><br>	
-<b>English Literature</b><br>
-	<b><font color="003dA5">Subject Head/English Literature</font></b><br>
-Mdm Chitrakala d/o G Arumugam<br><br>
-<b><font color="003dA5">Teacher</font></b><br>
-Ms Amitra Ilangovan
-<br><br>
-<b>General Paper</b><br>
-	<b><font color="003dA5">Subject Heads/General Paper</font></b><br>
-Ms Somasundaram Divya <br>
-Ms Yun Xiuling Stella
-<br><br>	
-	<b><font color="003dA5">Subject Head/Student Leadership</font></b><br>
-Ms Woon Peng Steffi
-<br><br>	
-	<b><font color="003dA5">Senior Teacher/Character &amp; Citizenship Education</font></b><br>
-Mr Anbu Ganesh s/o Kanapathy
-<br><br>	
-	<b><font color="003dA5">Senior Teacher/General Paper</font></b><br>
-Mrs Eliza Gunasagaran
-<br><br>	
-	<b><font color="003dA5">Teachers</font></b><br>	
-Mr Acer Ng Yu Xuan<br>
-Mr Dominic Heng Jian Chein<br>
-Mr Li Qingyi<br>
-Ms Liaw Hsiao-Mein<br>
-Ms Mark Jin Rong<br>
-Mr Mohamed Firdaus Bin Al-Amin<br>
-Ms Ng Xuan Min, Samantha<br>
-Ms Veera Gayatri Naidu D/O Rajagopal
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion4">
-<label for="accordion4">Humanities Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Humanities</font></b><br>
-Mrs Renee Low
-<br><br>
-<b>Art</b><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-	Ms Jane Catherine Tan Hui Fen
-<br><br>
-<b>Geography</b><br>
-	<b><font color="003dA5">Subject Head/Geography</font></b><br>
-Mdm Poh Huay Woon<br><br>
-	<b><font color="003dA5">Subject Head/Pastoral Care</font></b><br>
-Ms Tan Li Ling
-	<br><br>
-	<b><font color="003dA5">Lead Teacher/Geography</font></b><br>
-Dr N Gowri
-<br><br> <b><font color="003dA5">Subject Head/ Communications &amp; Partnership</font></b><br>Mr Mohamad Irfan Bin Mohamad Salihin<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Ms Liew Feng Chuan Karen
-<br><br>
-<b>History</b><br>
-	<b><font color="003dA5">Assistant Year Head</font></b><br>
-Mr Goh Han-Ming Jasper
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Loke Zhi Ming Christopher<br>
-
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion5">
-<label for="accordion5">Mathematics Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Mathematics</font></b><br>
-Ms Ng Sock Cheng
-<br><br>
-	<b><font color="003dA5">Subject Head/Digital Literacies</font></b><br>
-Mr Tan Bang Choon David
-<br><br>
-	<b><font color="003dA5">Subject Head/Mathematics</font></b><br>
-Mr Tan Wai Yean
-<br><br>
-		<b><font color="003dA5">Senior Teacher/Mathematics</font></b><br>
-Mr Eng Kai Seng
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Jaymond Tan Jia Wen<br>
-Mr Lee Wen Rong<br>
-Mr Lim Chee Mun<br>
-Mr Lim Kah Hong<br>
-Mr Phang Wei Cheng<br>
-Mr Tan Kit Loong Christopher<br>
-Ms Tan Rui Min Cristal<br>
-Ms Queenie Chiu
-<br><br>
-<b>Computing</b><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Kuang Jingkai<br>
-Mr Wee Soon Ming	
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion6">
-<label for="accordion6">Mother Tongue Languages Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Mother Tongue Languages</font></b><br>
-Mdm Najmah Bte Sidik
-<br><br>
-	<b><font color="003dA5">Subject Head/Mother Tongue Languages</font></b><br>
-Ms Yeo Ai Koon
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mdm A Mallika<br>
-Mdm Erdiah Binte Samad<br>
-Mdm Li Hua<br>
-Ms Li Yujie<br>
-Mr Marimuthu S/O Aboo Kandasamy<br>
-Mr Mohd Said Bin Saleh<br>
-Mdm Selvey Manickam<br>
-Mr Tay Yong Sng<br>
-Ms Tin Yi Ya
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion7">
-<label for="accordion7">Physical Education Department</label>
-<div>
-<p>
-		<b><font color="003dA5">HOD/Physical Education and CCA</font></b><br>
-Ms Yeo Swee Ching
-<br><br>
-	<b><font color="003dA5">Subject Head/Physical Education and CCA</font></b><br>
-Mr Sher Zi Ao	<br>
-	<br>
-	<b><font color="003dA5">Senior Teacher/Physical Education</font></b><br>
-Mr Lee Joon Keong
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Mus Effendi Bin Musa<br>
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion8">
-<label for="accordion8">Project Work Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Project Work</font></b><br>
-Ms Cara Mok Shuwen
-<br><br>
-	<b><font color="003dA5">Subject Head/Project Work</font></b><br>
-Ms Eunice Lim Shi Min
-<br><br> <b><font color="003dA5">Assistant Year Head</font></b><br>
-Ms Nasihah Binte Abdul Majid<br>
-
-<br> 
-	<b><font color="003dA5">Teachers</font></b><br>	
-Mr Mohamed Fauzi Bin Yusof<br>
-Mr Loh Wei Jie<br>
-Mr Ng Swee Loong Steven<br>
-Mdm Shelia Nagiah<br>
-Mrs Teo Eng Leong Emily<br>
-Mrs Thomas George<br>
-</p>
-</div>
-</li>
-	
-<li>
-<input type="checkbox" id="accordion9">
-<label for="accordion9">Science Department</label>
-<div>
-<p>
-	<b><font color="003dA5">HOD/Science</font></b><br>
-Mr Tan Hao Kai
-<br><br>
-	<b><font color="003dA5">HOD/Digital Literacies and Knowledge Management</font></b><br>
-Mr Ang Tze Siong Clayton
-<br><br>
-	<b><font color="003dA5">School Staff Developer</font></b><br>
-Mdm Goh Sok Sing
-<br><br>
-<b>Biology</b><br>
-	<b><font color="003dA5">Subject Head/Biology</font></b><br>
-Ms Lim Hwee Ming Irene
-<br><br>
-	<b><font color="003dA5">Senior Teacher/Biology</font></b><br>
-Mr Tan Kok Ping Lawrence
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Ms Chan Tze Cheng Tricia <br>
-Mr Dominic Heng Jian Chein <br>
-Ms Teo Wei Min Stephanie<br>
+<p><strong>Vice-Principals</strong>
 <br>
-	<b>Chemistry</b><br>
-	<b><font color="003dA5">Subject Heads/Chemistry</font></b><br>
-Mr Choo Chong Yu Gerald<br>
-Mdm You Kailun
-<br><br>
-	<b><font color="003dA5">Subject Head/Character and Citizenship Education</font></b><br>
-Mr Tham Hanrong
-<br><br>
-<b><font color="003dA5">Master Teacher/Chemistry</font></b><br>
-Mr Goh Kien Huay
-<br><br>
-	<b><font color="003dA5">Lead Teacher/Chemistry</font></b><br>
-Mdm Lim Chieh Yeng Jane
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Ang Chee Kiat<br>
-Mdm Ang Lay Poh Sarah<br>
-Mr Lim Cheng Xiang<br>
-Mrs Lim Sze Cheng<br>
-Ms Loh Yi Lin Eileen<br>
-Ms Seah Sim Yee<br>
-Ms Sim Shin Ying<br>
-Ms Vivian Lim Li Hui<br>
-Mdm Wong Huiping Valerie<br>
-Mdm Zalinah Bte Sarpiai
-<br><br>
-<b>Physics</b><br>
-	<b><font color="003dA5">Subject Head/Physics</font></b><br>
-Mr Tay Jian Hao Jeremy<br>
-<br>
-	<b><font color="003dA5">Lead Teacher/Physics</font></b><br>
-Mr Ong Chee Wah
-<br><br>
-	<b><font color="003dA5">Teachers</font></b><br>
-Mr Kuang Jingkai<br>
-Mr Lim Chee Seng<br>
-Mr Ng Soo Kok<br>
-Mr Wong Yih Chong
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/School Leaders/VP1.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Julieanne Choy Wen Ju</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/School Leaders/VP2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loi Guang You</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/School Leaders/VP3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Long Tien Ho (Administration)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
-	
 <li>
-<input type="checkbox" id="accordion10">
-<label for="accordion10">Executive and Administrative Staff</label>
-<div>
-<p>
-	<b><font color="003dA5">Admin Managers</font></b><br>
-Mrs Lee See Nee<br>
-Ms Soh Tze Min
-<br><br>
-<b><font color="003dA5">Operations Manager</font></b><br>
-Mr Lee Boon Yong<br>
-Mr Yip Chee Meng Patrick
-<br><br>
-	<b><font color="003dA5">ICT Manager</font></b><br>
-Mr Tan Wei Keng
-<br><br>
-	<b><font color="003dA5">Admin Executives</font></b><br>
-Ms Choh Mei Ling Wendy<br>
-Mdm New Bee Hoon Janet
-<br><br>
-	<b><font color="003dA5">CSO</font></b><br>
-Ms Norlizah Bte Isa<br>
-Ms Nurulhuda Bte Abdullah
-<br><br>
-	<b><font color="003dA5">Education &amp; Career Guidance Counsellor</font></b><br>
-Ms Lee Tian Joyce
-<br><br>
-	<b><font color="003dA5">School Counsellor</font></b><br>
-Ms Wong Soo Ping (Wang Shuping) <br> 
-Miss Adeline Lee Mei Pin @Adeline Lee Mei Ping
-<br><br>
-	<b><font color="003dA5">SEN Officer</font></b><br>
-Mr Muhammad Hafiz Bin Hamzah
-<br><br>
-	<b><font color="003dA5">STEM Instructors (Laboratory)</font></b><br>
-Mr Ang Kai Boon <br> 
-Mdm Hoe Hai Yoong<br>
-Mr Koh Pang How Patrick<br>
-Ms Maizatul Nazura Binte A Rasip<br>
-Miss Nur Afiqah Binte Zulkifli <br> 	
-Mdm S Kalaiselvi (Assistant)<br>
+<p>Economics Department</p>
+<p><strong>HOD/Economics</strong>
+<br>Ms Lim Shu Fen
 <br>
-	<b><font color="003dA5">OSO</font></b><br>
-Mr Aszahari Bin Mohamed<br>
-Mdm Chan Puay Mui<br>
-Mr Lee Kah Bian <br> 
-Ms Lee Lea Kuea <br> 
-Mdm Maryani Binte Mohamed<br>
-Mdm S Jayanti <br> 
-Mr Sta Ana Dante Flores <br> 
-Mdm Tan Cheng Huy<br>
-Mdm Wong Lee Chin <br>
-
-<br><br>
-	<b><font color="003dA5">Library Officer</font></b><br>
-Ms Tan Chui Hoon, Teresa
-<br><br>
-	<b><font color="003dA5">Desktop Engineers (NCS)</font></b><br>
-Mr Ken Jamal (AV) <br>
-Mr Mohammad Riduan Bin Abdul Rahman<br>
-Mr Selvathiru M Chandran
-<br><br>
-	<b><font color="003dA5">Security Officers</font></b><br>
-Ms Malliga<br>
-Mr Or Kim Piouu	
+<br><strong>Year Head</strong>
+<br>Mdm Ng Chai Ngoh
+<br>
+<br><strong>HOD/Student Management</strong>
+<br>Ms Chong Jia Wei Serene
+<br>
+<br><strong>Subject Head/Information &amp; Communication Technology</strong>
+<br>Mr Yeo Rong Yao Jeremy
+<br>
+<br><strong>Subject Head/Economics</strong>
+<br>Ms Cheng Siew Peng Jasmine
+<br>
+<br><strong>Subject Head/Character &amp; Citizenship Education</strong>
+<br>Ms Lim Wei Qi Samantha (Lin Weiqi)
+<br>
+<br><strong>Teachers</strong>
+<br>Mdm Lim Pow Choo
+<br>Mr Foong Chongxiang
+<br>Ms Heng En-Hui Nicole
+<br>Ms Koh Jia Xin
+<br>Mdm Leow Sock Cheng Pearly
+<br>Mr Neo Zhixian Ben
+<br>Mr Tan Jit Ann Joshua
+<br>Ms Tan Li Yan Joscelyn
+<br>
 </p>
-</div>
+</li>
+<li>
+<p>English Department</p>
+<p><strong>HOD/English</strong>
+<br>Mrs Shirley Charles-Sharan
+<br>
+<br><strong>HOD/Character &amp; Citizenship Education</strong>
+<br>Ms Tan Yin Ping Maxine
+<br>
+<br><strong>Year Head</strong>
+<br>Ms Ong Siew Yee Pearlyn
+<br>
+<br><strong>English Literature</strong>
+<br><strong>Subject Head/English Literature</strong>
+<br>Mdm Chitrakala d/o G Arumugam
+<br>
+<br><strong>Teachers</strong>
+<br>Ms Amitra Ilangovan
+<br>Ms Shannon Ling Zhi Xuan<br>
+<br><strong>General Paper</strong>
+<br><strong>Subject Heads/General Paper</strong>
+<br>Ms Somasundaram Divya
+<br>Ms Yun Xiuling Stella
+<br>
+<br><strong>Subject Head/Student Leadership</strong>
+<br>Ms Woon Peng Steffi
+<br>
+<br><strong>Senior Teacher/Character &amp; Citizenship Education</strong>
+<br>Mr Anbu Ganesh s/o Kanapathy
+<br>
+<br><strong>Senior Teacher/General Paper</strong>
+<br>Mrs Eliza Gunasagaran
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Acer Ng Yu Xuan
+<br>Mr Li Qingyi
+<br>Ms Liaw Hsiao-Mein
+<br>Ms Mark Jin Rong
+<br>Mr Mohamed Firdaus Bin Al-Amin
+<br>Mr Ng Tat Kit
+<br>Ms Ng Xuan Min, Samantha
+<br>Ms Veera Gayatri Naidu D/O Rajagopal</p>
+</li>
+<li>
+<p>Humanities Department</p>
+<p><strong>HOD/Humanities</strong>
+<br>Mrs Renee Low
+<br>
+<br><strong>Art</strong>
+<br><strong>Teachers</strong>
+<br>Ms Jane Catherine Tan Hui Fen
+<br>
+<br><strong>Geography</strong>
+<br><strong>Subject Head/Geography</strong>
+<br>Mdm Poh Huay Woon
+<br>
+<br><strong>Subject Head/Pastoral Care</strong>
+<br>Ms Tan Li Ling
+<br>
+<br><strong>Lead Teacher/Geography</strong>
+<br>Dr N Gowri
+<br>
+<br><strong>Subject Head/ Communications &amp; Partnership</strong>
+<br>Mr Mohamad Irfan Bin Mohamad Salihin
+<br>
+<br><strong>Teachers</strong>
+<br>Ms Liew Feng Chuan Karen
+<br>
+<br><strong>History</strong>
+<br><strong>Assistant Year Head</strong>
+<br>Mr Goh Han-Ming Jasper
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Loke Zhi Ming Christopher
+<br>
+</p>
 </li>
 </ul>
+<p>Mathematics Department</p>
+<p><strong>HOD/Mathematics</strong>
+<br>Ms Ng Sock Cheng
+<br>
+<br><strong>Subject Head/Digital Literacies</strong>
+<br>Mr Tan Bang Choon David
+<br>
+<br><strong>Subject Head/Mathematics</strong>
+<br>Mr Tan Wai Yean
+<br>
+<br><strong>Senior Teacher/Mathematics</strong>
+<br>Mr Eng Kai Seng
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Jaymond Tan Jia Wen
+<br>Mr Lee Wen Rong
+<br>Mr Lim Chee Mun
+<br>Mr Lim Kah Hong
+<br>Mr Phang Wei Cheng 
+<br> Mr Poh Zi Xiang
+<br>Mr Tan Kit Loong Christopher
+<br>Ms Tan Rui Min Cristal
+<br>Ms Queenie Chiu
+<br>
+<br><strong>Computing</strong>
+<br><strong>Teachers</strong>
+<br>Mr Kuang Jingkai
+<br>Mr Wee Soon Ming</p>
+<ul>
+<li>
+<p>Mother Tongue Languages Department</p>
+<p><strong>HOD/Mother Tongue Languages</strong>
+<br>Mdm Najmah Bte Sidik
+<br>
+<br><strong>Subject Head/Mother Tongue Languages</strong>
+<br>Ms Yeo Ai Koon
+<br>
+<br><strong>Teachers</strong>
+<br>Mdm A Mallika
+<br>Mdm Erdiah Binte Samad
+<br>Mdm Li Hua
+<br>Ms Li Yujie
+<br>Mr Marimuthu S/O Aboo Kandasamy
+<br>Mr Mohd Said Bin Saleh
+<br>Mdm Selvey Manickam
+<br>Mr Tay Yong Sng
+<br>Ms Tin Yi Ya</p>
+</li>
+<li>
+<p>Physical Education Department</p>
+<p><strong>HOD/Physical Education and CCA</strong>
+<br>Ms Yeo Swee Ching
+<br>
+<br><strong>Subject Head/Physical Education and CCA</strong>
+<br>Mr Sher Zi Ao
+<br>
+<br><strong>Senior Teacher/Physical Education</strong>
+<br>Mr Lee Joon Keong
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Mus Effendi Bin Musa
+<br>
+</p>
+</li>
+<li>
+<p>Project Work Department</p>
+<p><strong>HOD/Project Work</strong>
+<br>Ms Cara Mok Shuwen
+<br>
+<br><strong>Subject Head/Project Work</strong>
+<br>Ms Eunice Lim Shi Min
+<br>
+<br><strong>Assistant Year Head</strong>
+<br>Ms Nasihah Binte Abdul Majid
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Mohamed Fauzi Bin Yusof
+<br>Mr Loh Wei Jie
+<br>Mr Ng Swee Loong Steven
+<br>Mdm Shelia Nagiah
+<br>Mrs Teo Eng Leong Emily
+<br>Mrs Thomas George
+<br>
+</p>
+</li>
+<li>
+<p>Science Department</p>
+<p><strong>HOD/Science</strong>
+<br>Mr Tan Hao Kai
+<br>
+<br><strong>HOD/Digital Literacies and Knowledge Management</strong>
+<br>Mr Ang Tze Siong Clayton
+<br>
+<br><strong>School Staff Developer</strong>
+<br>Mdm Goh Sok Sing
+<br>
+<br><strong>Biology</strong>
+<br><strong>Subject Head/Biology</strong>
+<br>Ms Lim Hwee Ming Irene
+<br>
+<br><strong>Senior Teacher/Biology</strong>
+<br>Mr Tan Kok Ping Lawrence
+<br>
+<br><strong>Teachers</strong>
+<br>Ms Chan Tze Cheng Tricia
+<br>Mr Dominic Heng Jian Chein
+<br>Ms Loh Huai Chin
+<br>Ms Teo Wei Min Stephanie
+<br>
+<br><strong>Chemistry</strong>
+<br><strong>Subject Heads/Chemistry</strong>
+<br>Mr Choo Chong Yu Gerald
+<br>Mdm You Kailun
+<br>
+<br><strong>Subject Head/Character and Citizenship Education</strong>
+<br>Mr Tham Hanrong
+<br>
+<br><strong>Master Teacher/Chemistry</strong>
+<br>Mr Goh Kien Huay
+<br>
+<br><strong>Lead Teacher/Chemistry</strong>
+<br>Mdm Lim Chieh Yeng Jane
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Ang Chee Kiat
+<br>Mdm Ang Lay Poh Sarah
+<br>Mr Lim Cheng Xiang
+<br>Mrs Lim Sze Cheng
+<br>Ms Loh Yi Lin Eileen
+<br>Ms Seah Sim Yee
+<br>Ms Sim Shin Ying
+<br>Ms Vivian Lim Li Hui
+<br>Mdm Wong Huiping Valerie
+<br>Mdm Zalinah Bte Sarpiai
+<br>
+<br><strong>Physics</strong>
+<br><strong>Subject Head/Physics</strong>
+<br>Mr Tay Jian Hao Jeremy
+<br>
+<br><strong>Lead Teacher/Physics</strong>
+<br>Mr Ong Chee Wah
+<br>
+<br><strong>Teachers</strong>
+<br>Mr Kuang Jingkai
+<br>Mr Lim Chee Seng
+<br>Mr Ng Soo Kok
+<br>Mr Wong Yih Chong</p>
+</li>
+<li>
+<p>Executive and Administrative Staff</p>
+<p><strong>Admin Managers</strong>
+<br>Mrs Lee See Nee
+<br>Ms Soh Tze Min
+<br>
+<br><strong>Operations Manager</strong>
+<br>Mr Lee Boon Yong
+<br>Mr Yip Chee Meng Patrick
+<br>
+<br><strong>ICT Manager</strong>
+<br>Mr Tan Wei Keng
+<br>
+<br><strong>Admin Executives</strong>
+<br>Ms Choh Mei Ling Wendy
+<br>Mdm New Bee Hoon Janet
+<br>
+<br><strong>CSO</strong>
+<br>Ms Norlizah Bte Isa
+<br>Ms Nurulhuda Bte Abdullah
+<br>
+<br><strong>Education &amp; Career Guidance Counsellor</strong>
+<br>Ms Lee Tian Joyce
+<br>
+<br><strong>School Counsellor</strong>
+<br>Ms Wong Soo Ping (Wang Shuping)
+<br>Miss Adeline Lee Mei Pin @Adeline Lee Mei Ping
+<br>
+<br><strong>SEN Officer</strong>
+<br>Mr Muhammad Hafiz Bin Hamzah
+<br>
+<br><strong>STEM Instructors (Laboratory)</strong>
+<br>Mr Ang Kai Boon
+<br>Mdm Hoe Hai Yoong
+<br>Mr Koh Pang How Patrick
+<br>Ms Maizatul Nazura Binte A Rasip
+<br>Miss Nur Afiqah Binte Zulkifli
+<br>Mdm S Kalaiselvi (Assistant)
+<br>
+<br><strong>OSO</strong>
+<br>Mr Aszahari Bin Mohamed
+<br>Mdm Chan Puay Mui
+<br>Mr Lee Kah Bian
+<br>Ms Lee Lea Kuea
+<br>Mdm Maryani Binte Mohamed
+<br>Mdm S Jayanti
+<br>Mr Sta Ana Dante Flores
+<br>Mdm Tan Cheng Huy
+<br>Mdm Wong Lee Chin
+<br>
+</p>
+<p>
+<br>
+<br><strong>Library Officer</strong>
+<br>Ms Tan Chui Hoon, Teresa
+<br>
+<br><strong>Desktop Engineers (NCS)</strong>
+<br>Mr Ken Jamal (AV)
+<br>Mr Mohammad Riduan Bin Abdul Rahman
+<br>Mr Selvathiru M Chandran
+<br>
+<br><strong>Security Officers</strong>
+<br>Ms Malliga
+<br>Mr Or Kim Piouu</p>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
