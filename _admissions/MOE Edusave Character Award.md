@@ -26,7 +26,7 @@ an award voucher of <strong>S$500</strong>.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Echa/echa.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Echa/echa.png">
 </div>
 <h4><strong><u>ELIGIBILITY CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
