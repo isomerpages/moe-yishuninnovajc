@@ -25,6 +25,7 @@ an award voucher of <strong>S$500</strong>.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <h4><strong><u>ELIGIBILITY CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
