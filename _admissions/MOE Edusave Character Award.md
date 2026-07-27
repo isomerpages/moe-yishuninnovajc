@@ -25,7 +25,9 @@ an award voucher of <strong>S$500</strong>.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Echa/echa.png">
+</div>
 <h4><strong><u>ELIGIBILITY CRITERIA</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,5 +76,4 @@ facing difficulties/challenges in carrying out his/her responsibilities</p>
 <p>Impact on others (scope and depth)</p>
 </li>
 </ul>
-<p></p>
 <p></p>
